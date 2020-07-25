@@ -116,10 +116,6 @@ Genres (MusicBee 3 Layer)
         Dance::Genre
         Dark Ambient::Genre
         Darkcore::Genre
-        Disco
-            Disco::Genre
-            Nu-disco::Genre
-            Post-disco::Genre
         Downtempo::Genre
         Dream::Genre
         Electro::Genre
@@ -515,6 +511,10 @@ Genres (MusicBee 3 Layer)
         Boogie::Genre
         Contemporary R&B::Genre
         Deep Funk::Genre
+        Disco
+            Disco::Genre
+            Nu-disco::Genre
+            Post-disco::Genre
         Doo Wop::Genre
         Funk::Genre
         Go-Go::Genre

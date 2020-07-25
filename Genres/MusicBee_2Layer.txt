@@ -1,6 +1,5 @@
 Genres (MusicBee 2 Layer)
     Afro-Pop
-        Afro-Pop::Genre
         Afrobeat::Genre
         Apala::Genre
         Benga::Genre
@@ -49,8 +48,8 @@ Genres (MusicBee 2 Layer)
         Viennese Waltz::Genre
         Waltz::Genre
     Blues
-        Blues::Genre
         Blues Rock::Genre
+        Blues::Genre
         Country Blues::Genre
         Delta Blues::Genre
         Electric Blues::Genre
@@ -93,7 +92,6 @@ Genres (MusicBee 2 Layer)
         Furniture Music::Genre
         Lounge::Genre
         Middle of the Road::Genre
-        Muzak::Genre
     Electronic
         Acid Breaks::Genre
         Acid Electronic::Genre
@@ -101,25 +99,20 @@ Genres (MusicBee 2 Layer)
         Acid::Genre
         Ambient House::Genre
         Ambient::Genre
-        Bass Music::Genre
-        Berlin School::Genre
         Big Beat::Genre
         Bitcore::Genre
         Breakbeat::Genre
         Chillout::Genre
-        Chiptune::Genre
         Classic Trance::Genre
         Club::Genre
         Club-House::Genre
         Dance::Genre
         Dark Ambient::Genre
         Darkcore::Genre
-        Disco::Genre
         Downtempo::Genre
         Dream::Genre
         Drum & Bass::Genre
         Dubstep::Genre
-        Dubtronica::Genre
         Electro::Genre
         Electro-Hop::Genre
         Electro-House::Genre
@@ -148,10 +141,7 @@ Genres (MusicBee 2 Layer)
         Industrial::Genre
         Instrumental::Genre
         Italo-House::Genre
-        Jazztronica::Genre
         Meditative::Genre
-        Nu-disco::Genre
-        Post-disco::Genre
         Progressive Electronic::Genre
         Progressive Trance::Genre
         Psychedelic Trance::Genre
@@ -164,10 +154,8 @@ Genres (MusicBee 2 Layer)
         Techno-Industrial::Genre
         Trance::Genre
         Trip-Hop::Genre
-        UK Bass::Genre
         UK Garage::Genre
         Uplifting::Genre
-        Vaporwave::Genre
         Vocal Trance::Genre
     Folk
         Alternative Folk::Genre
@@ -185,39 +173,29 @@ Genres (MusicBee 2 Layer)
         Progressive Folk::Genre
         Traditional Folk::Genre
     Hip-Hop & Rap
-        Afro-trap::Genre
-        Afroswing::Genre
         Alternative Hip-Hop::Genre
         Chicano Rap::Genre
-        Chopped and Screwed::Genre
         Christian Gangsta Rap::Genre
         Christian Rap::Genre
         Crunk::Genre
         Dirty Rap/Pornocore::Genre
         East Coast Hip-Hop::Genre
-        Emo Rap::Genre
         G-Funk::Genre
         Gangsta::Genre
         Gangsta-Rap::Genre
         Grime::Genre
         Hip-Hop::Genre
-        Hip-Hop Fusion::Genre
         Horrorcore::Genre
         Hyphy::Genre
-        Instrumental Hip-Hop::Genre
         Latin Rap::Genre
         Miami Bass::Genre
         Midwest Hip-Hop::Genre
-        Mumble Rap::Genre
         Political Hip-Hop::Genre
-        Rap::Genre
         Rap Metal::Genre
         Rap Rock::Genre
         Rapcore::Genre
         Southern Hip-Hop::Genre
-        Trap::Genre
         Turntablism::Genre
-        UK Trap::Genre
         West Coast Hip-Hop::Genre
     Jazz
         Acid Jazz::Genre
@@ -236,11 +214,11 @@ Genres (MusicBee 2 Layer)
         Free Jazz::Genre
         Gypsy Jazz::Genre
         Hard Bop::Genre
-        Jazz::Genre
         Jazz Blues::Genre
-        Jazz-Funk::Genre
         Jazz Fusion::Genre
         Jazz Rap::Genre
+        Jazz::Genre
+        Jazz-Funk::Genre
         Jazz-Rock::Genre
         Latin Jazz::Genre
         M-Base::Genre
@@ -281,7 +259,6 @@ Genres (MusicBee 2 Layer)
         Comedy::Genre
         Humour::Genre
         March::Genre
-        Misc::Genre
         Musical::Genre
         National Anthem::Genre
         Opera::Genre
@@ -295,7 +272,6 @@ Genres (MusicBee 2 Layer)
     Pop
         A capella::Genre
         Arab Pop::Genre
-        Art Pop::Genre
         Austro-Pop::Genre
         Balkan Pop::Genre
         Baroque Pop::Genre
@@ -505,6 +481,7 @@ Genres (MusicBee 2 Layer)
         Boogie::Genre
         Contemporary R&B::Genre
         Deep Funk::Genre
+        Disco::Genre
         Doo Wop::Genre
         Funk::Genre
         Go-Go::Genre
@@ -513,5 +490,6 @@ Genres (MusicBee 2 Layer)
         New Jack Swing::Genre
         Northern Soul::Genre
         P-Funk::Genre
+        Post-Disco::Genre
         R&B::Genre
         Soul::Genre
