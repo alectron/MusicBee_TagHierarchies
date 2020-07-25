@@ -115,7 +115,7 @@ Genres (MusicBee 2 Layer-Community Version)
         Dance::Genre
         Dark Ambient::Genre
         Darkcore::Genre
-        Disco
+        Disco::Genre
         Downtempo::Genre
         Dream::Genre
         Drum & Bass::Genre
@@ -512,7 +512,6 @@ Genres (MusicBee 2 Layer-Community Version)
         Boogie::Genre
         Contemporary R&B::Genre
         Deep Funk::Genre
-        Disco::Genre
         Doo Wop::Genre
         Funk::Genre
         Go-Go::Genre
