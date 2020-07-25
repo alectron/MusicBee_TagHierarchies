@@ -1,0 +1,137 @@
+Musical Instruments (monash)
+    Aerophones (Wind)
+        Free Aerophones
+            Beating Reed
+                Single Reed
+                    Organ Reed Pipes::Instruments
+                Double Reed
+                    Voice::Instruments
+                    Voice Female::Instruments
+                    Voice Kid::Instruments
+                    Voice Male::Instruments
+                    Choir::Instruments
+            Free Reed
+                Framed Reed
+                    Foot Blown
+                        Harmonium::Instruments
+                        Reed Organ::Instruments
+                    Hand Blown
+                        Accordion::Instruments
+                        Bayan::Instruments
+                        Concertina::Instruments
+                    Mouth Blown
+                        Harmonica::Instruments
+                        Khaem::Instruments
+                        Sheng::Instruments
+                        Sho::Instruments
+                Unframed Reed
+                    Mouth Blown and Plucked
+                        Harp Jew's::Instruments
+                    Mouth Blown
+                        Leaf Instrument::Instruments
+                    Wind Blown
+                        Aeolian Harp::Instruments
+                        Bull-Roarer::Instruments 
+        Pipe Aerophones
+            Brass
+                With Halves
+                    Cornet::Instruments
+                    Eurphonium::Instruments
+                    Trumpet::Instruments
+                    Tube::Instruments
+                Without Halves
+                    Bugle::Instruments
+                    Conch Shell::Instruments
+                    Didgeridoo::Instruments
+                    Trombone::Instruments
+            Reed Pipe
+                Single Reeds
+                    Clarinet::Instruments
+                    Saxophone::Instruments
+                Double Reeds
+                    Oboe::Instruments
+                    Bassoon::Instruments
+            Edge
+                Tree Flutes
+                    Flute::Instruments
+                    Jug::Instruments
+                    Panpipes::Instruments
+                    Piccolo::Instruments
+                Whistle Flutes
+                    Organ Flue Pipes::Instruments
+                    Recorder::Instruments
+                    Whistle::Instruments
+    Electrophones
+        Electric/Acoustic
+            Electric Guitar::Instruments
+            Bass Electric::Instruments
+        Electronic
+            Digital
+                303::Instruments
+                808::Instruments
+                909::Instruments
+                Moog::Instruments
+                Synthesizer ARP::Instruments
+            Electromagnetic
+                Theremin::Instruments
+                Ondes Martenot::Instruments
+                Synthesizer::Instruments
+                Electric Organ::Instruments
+    Chordophones (Strings)
+        Bowed
+            Cello::Instruments
+            Bass Double::Instruments
+            Strings::Instruments
+            Viola::Instruments
+            Violin::Instruments
+        Plucked
+            Banjo::Instruments
+            Guitar::Instruments
+            Guitar Acoustic::Instruments
+            Guitar Ukelele::Instruments
+            Harp::Instruments
+            Harpsichord::Instruments
+        Struck
+            Hammer Dulcimer::Instruments
+            Piano::Instruments
+    Percussion
+        Percussion::Instruments
+            Idiophones
+                Pitched
+                    Plucked
+                        Music Box::Instruments
+                        Kalimba::Instruments
+                        Mbira::Instruments
+                    Rubbed
+                        Prayer Bowls::Instruments
+                        Glass Harmonica::Instruments
+                    Struck
+                        Bell::Instruments
+                        Celesta::Instruments
+                        Glockenspiel::Instruments
+                        Gong::Instruments
+                        Rimba::Instruments
+                        Triangle::Instruments
+                        Xylophone::Instruments
+                Unpitched
+                    Struck
+                        Castanets::Instruments
+                        Slit Drums::Instruments
+                    Shaken
+                        Rattle::Instruments
+                        Jungles::Instruments
+            Membraphones
+                Determinate Pitch
+                    Struck
+                        Timpani::Instruments
+                        Roto Drums::Instruments
+                Ineterminate Pitch
+                    Blown
+                        Kazoo::Instruments
+                    Rubbed
+                        Friction Drum::Instruments
+                    Struck
+                        Bass Drum::Instruments
+                        Bongo::Instruments
+                        Congas::Instruments
+                        Snare Drum::Instruments

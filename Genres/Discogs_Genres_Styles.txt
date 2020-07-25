@@ -1,0 +1,571 @@
+Discogs_Genres_Styles
+    Blues::DISCOGS_RELEASE_GENRES
+        Boogie Woogie::DISCOGS_STYLES
+        Chicago Blues::DISCOGS_STYLES
+        Country Blues::DISCOGS_STYLES
+        Delta Blues::DISCOGS_STYLES
+        East Coast Blues::DISCOGS_STYLES
+        Electric Blues::DISCOGS_STYLES
+        Harmonica Blues::DISCOGS_STYLES
+        Jump Blues::DISCOGS_STYLES
+        Louisiana Blues::DISCOGS_STYLES
+        Memphis Blues::DISCOGS_STYLES
+        Modern Electric Blues::DISCOGS_STYLES
+        Piano Blues::DISCOGS_STYLES
+        Piedmont Blues::DISCOGS_STYLES
+        Rhythm & Blues::DISCOGS_STYLES
+        Texas Blues::DISCOGS_STYLES
+    Brass & Military::DISCOGS_RELEASE_GENRES
+        Brass Band::DISCOGS_STYLES
+        Marches::DISCOGS_STYLES
+        Military::DISCOGS_STYLES
+        Pipe & Drum::DISCOGS_STYLES
+    Children’s::DISCOGS_RELEASE_GENRES
+        Educational::DISCOGS_STYLES
+        Nursery Rhymes::DISCOGS_STYLES
+        Story::DISCOGS_STYLES
+    Classical::DISCOGS_RELEASE_GENRES
+        Baroque::DISCOGS_STYLES
+        Choral::DISCOGS_STYLES
+        Classical::DISCOGS_STYLES
+        Contemporary::DISCOGS_STYLES
+        Early::DISCOGS_STYLES
+        Impressionist::DISCOGS_STYLES
+        Medieval::DISCOGS_STYLES
+        Modern::DISCOGS_STYLES
+        Neo-Classical::DISCOGS_STYLES
+        Neo-Romantic::DISCOGS_STYLES
+        Opera::DISCOGS_STYLES
+        Operetta::DISCOGS_STYLES
+        Oratorio::DISCOGS_STYLES
+        Post-Modern::DISCOGS_STYLES
+        Renaissance::DISCOGS_STYLES
+        Romantic::DISCOGS_STYLES
+        Serial::DISCOGS_STYLES
+        Twelve-tone::DISCOGS_STYLES
+        Zarzuela::DISCOGS_STYLES
+    Electronic::DISCOGS_RELEASE_GENRES
+        Abstract::DISCOGS_STYLES
+        Acid::DISCOGS_STYLES
+        Acid House::DISCOGS_STYLES
+        Acid Jazz::DISCOGS_STYLES
+        Ambient::DISCOGS_STYLES
+        Ballroom::DISCOGS_STYLES
+        Baltimore Club::DISCOGS_STYLES
+        Bassline::DISCOGS_STYLES
+        Beatdown::DISCOGS_STYLES
+        Berlin-School::DISCOGS_STYLES
+        Big Beat::DISCOGS_STYLES
+        Breakbeat::DISCOGS_STYLES
+        Breakcore::DISCOGS_STYLES
+        Breaks::DISCOGS_STYLES
+        Broken Beat::DISCOGS_STYLES
+        Chillwave::DISCOGS_STYLES
+        Chiptune::DISCOGS_STYLES
+        Dance-pop::DISCOGS_STYLES
+        Dark Ambient::DISCOGS_STYLES
+        Darkwave::DISCOGS_STYLES
+        Deep House::DISCOGS_STYLES
+        Deep Techno::DISCOGS_STYLES
+        Disco::DISCOGS_STYLES
+        Disco Polo::DISCOGS_STYLES
+        Donk::DISCOGS_STYLES
+        Doomcore::DISCOGS_STYLES
+        Downtempo::DISCOGS_STYLES
+        Drone::DISCOGS_STYLES
+        Drum n Bass::DISCOGS_STYLES
+        Dub::DISCOGS_STYLES
+        Dub Techno::DISCOGS_STYLES
+        Dubstep::DISCOGS_STYLES
+        Dungeon Synth::DISCOGS_STYLES
+        EBM::DISCOGS_STYLES
+        Electro::DISCOGS_STYLES
+        Electro House::DISCOGS_STYLES
+        Electroclash::DISCOGS_STYLES
+        Euro House::DISCOGS_STYLES
+        Euro-Disco::DISCOGS_STYLES
+        Eurobeat::DISCOGS_STYLES
+        Eurodance::DISCOGS_STYLES
+        Experimental::DISCOGS_STYLES
+        Freestyle::DISCOGS_STYLES
+        Funkot::DISCOGS_STYLES
+        Future Jazz::DISCOGS_STYLES
+        Gabber::DISCOGS_STYLES
+        Garage House::DISCOGS_STYLES
+        Ghetto::DISCOGS_STYLES
+        Ghetto House::DISCOGS_STYLES
+        Ghettotech::DISCOGS_STYLES
+        Glitch::DISCOGS_STYLES
+        Goa Trance::DISCOGS_STYLES
+        Grime::DISCOGS_STYLES
+        Hands Up::DISCOGS_STYLES
+        Happy Hardcore::DISCOGS_STYLES
+        Hard Beat::DISCOGS_STYLES
+        Hard House::DISCOGS_STYLES
+        Hard Techno::DISCOGS_STYLES
+        Hard Trance::DISCOGS_STYLES
+        Hardcore::DISCOGS_STYLES
+        Hardstyle::DISCOGS_STYLES
+        Harsh Noise Wall::DISCOGS_STYLES
+        Hi NRG::DISCOGS_STYLES
+        Hip Hop::DISCOGS_STYLES
+        Hip-House::DISCOGS_STYLES
+        House::DISCOGS_STYLES
+        IDM::DISCOGS_STYLES
+        Illbient::DISCOGS_STYLES
+        Industrial::DISCOGS_STYLES
+        Italo House::DISCOGS_STYLES
+        Italo-Disco::DISCOGS_STYLES
+        Italodance::DISCOGS_STYLES
+        J-Core::DISCOGS_STYLES
+        Jazzdance::DISCOGS_STYLES
+        Juke::DISCOGS_STYLES
+        Jumpstyle::DISCOGS_STYLES
+        Jungle::DISCOGS_STYLES
+        Latin::DISCOGS_STYLES
+        Leftfield::DISCOGS_STYLES
+        Lento Violento::DISCOGS_STYLES
+        Makina::DISCOGS_STYLES
+        Minimal::DISCOGS_STYLES
+        Minimal Techno::DISCOGS_STYLES
+        Modern Classical::DISCOGS_STYLES
+        Musique Concrète::DISCOGS_STYLES
+        Neo Trance::DISCOGS_STYLES
+        Neofolk::DISCOGS_STYLES
+        Nerdcore Techno::DISCOGS_STYLES
+        New Age::DISCOGS_STYLES
+        New Beat::DISCOGS_STYLES
+        New Wave::DISCOGS_STYLES
+        Noise::DISCOGS_STYLES
+        Nu-Disco::DISCOGS_STYLES
+        Power Electronics::DISCOGS_STYLES
+        Progressive Breaks::DISCOGS_STYLES
+        Progressive House::DISCOGS_STYLES
+        Progressive Trance::DISCOGS_STYLES
+        Psy-Trance::DISCOGS_STYLES
+        Rhythmic Noise::DISCOGS_STYLES
+        Schranz::DISCOGS_STYLES
+        Skweee::DISCOGS_STYLES
+        Sound Collage::DISCOGS_STYLES
+        Speed Garage::DISCOGS_STYLES
+        Speedcore::DISCOGS_STYLES
+        Synth-pop::DISCOGS_STYLES
+        Synthwave::DISCOGS_STYLES
+        Tech House::DISCOGS_STYLES
+        Tech Trance::DISCOGS_STYLES
+        Techno::DISCOGS_STYLES
+        Trance::DISCOGS_STYLES
+        Tribal::DISCOGS_STYLES
+        Tribal House::DISCOGS_STYLES
+        Trip Hop::DISCOGS_STYLES
+        Tropical House::DISCOGS_STYLES
+        UK Funky::DISCOGS_STYLES
+        UK Garage::DISCOGS_STYLES
+        Vaporwave::DISCOGS_STYLES
+        Witch House::DISCOGS_STYLES
+    Folk, World & Country::DISCOGS_RELEASE_GENRES
+        Aboriginal::DISCOGS_STYLES
+        African::DISCOGS_STYLES
+        Andalusian Classical::DISCOGS_STYLES
+        Appalachian Music::DISCOGS_STYLES
+        Bangladeshi Classical::DISCOGS_STYLES
+        Basque Music::DISCOGS_STYLES
+        Bengali Music::DISCOGS_STYLES
+        Bhangra::DISCOGS_STYLES
+        Bluegrass::DISCOGS_STYLES
+        Cajun::DISCOGS_STYLES
+        Cambodian Classical::DISCOGS_STYLES
+        Canzone Napoletana::DISCOGS_STYLES
+        Carnatic::DISCOGS_STYLES
+        Catalan Music::DISCOGS_STYLES
+        Celtic::DISCOGS_STYLES
+        Chacarera::DISCOGS_STYLES
+        Chamamé::DISCOGS_STYLES
+        Chinese Classical::DISCOGS_STYLES
+        Chutney::DISCOGS_STYLES
+        Cobla::DISCOGS_STYLES
+        Copla::DISCOGS_STYLES
+        Country::DISCOGS_STYLES
+        Dangdut::DISCOGS_STYLES
+        Éntekhno::DISCOGS_STYLES
+        Fado::DISCOGS_STYLES
+        Filk::DISCOGS_STYLES
+        Flamenco::DISCOGS_STYLES
+        Folk::DISCOGS_STYLES
+        Funaná::DISCOGS_STYLES
+        Gagaku::DISCOGS_STYLES
+        Gamelan::DISCOGS_STYLES
+        Gospel::DISCOGS_STYLES
+        Griot::DISCOGS_STYLES
+        Guarania::DISCOGS_STYLES
+        Hawaiian::DISCOGS_STYLES
+        Highlife::DISCOGS_STYLES
+        Hillbilly::DISCOGS_STYLES
+        Hindustani::DISCOGS_STYLES
+        Honky Tonk::DISCOGS_STYLES
+        Indian Classical::DISCOGS_STYLES
+        Jota::DISCOGS_STYLES
+        Kaseko::DISCOGS_STYLES
+        Keroncong::DISCOGS_STYLES
+        Kizomba::DISCOGS_STYLES
+        Klasik::DISCOGS_STYLES
+        Klezmer::DISCOGS_STYLES
+        Korean Court Music::DISCOGS_STYLES
+        Laïkó::DISCOGS_STYLES
+        Lao Music::DISCOGS_STYLES
+        Liscio::DISCOGS_STYLES
+        Luk Krung::DISCOGS_STYLES
+        Luk Thung::DISCOGS_STYLES
+        Maloya::DISCOGS_STYLES
+        Mbalax::DISCOGS_STYLES
+        Min’yō::DISCOGS_STYLES
+        Mizrahi::DISCOGS_STYLES
+        Mouth Music::DISCOGS_STYLES
+        Mugham::DISCOGS_STYLES
+        Népzene::DISCOGS_STYLES
+        Nordic::DISCOGS_STYLES
+        Ottoman Classical::DISCOGS_STYLES
+        Overtone Singing::DISCOGS_STYLES
+        Pacific::DISCOGS_STYLES
+        Pasodoble::DISCOGS_STYLES
+        Persian Classical::DISCOGS_STYLES
+        Philippine Classical::DISCOGS_STYLES
+        Phleng Phuea Chiwit::DISCOGS_STYLES
+        Piobaireachd::DISCOGS_STYLES
+        Polka::DISCOGS_STYLES
+        Progressive Bluegrass::DISCOGS_STYLES
+        Raï::DISCOGS_STYLES
+        Rebetiko::DISCOGS_STYLES
+        Romani::DISCOGS_STYLES
+        Rune Singing::DISCOGS_STYLES
+        Salegy::DISCOGS_STYLES
+        Sámi Music::DISCOGS_STYLES
+        Sea Shanties::DISCOGS_STYLES
+        Séga::DISCOGS_STYLES
+        Sephardic::DISCOGS_STYLES
+        Soukous::DISCOGS_STYLES
+        Thai Classical::DISCOGS_STYLES
+        Volksmusik::DISCOGS_STYLES
+        Waiata::DISCOGS_STYLES
+        Western Swing::DISCOGS_STYLES
+        Yemenite Jewish::DISCOGS_STYLES
+        Zamba::DISCOGS_STYLES
+        Zemer Ivri::DISCOGS_STYLES
+        Zouk::DISCOGS_STYLES
+        Zydeco::DISCOGS_STYLES
+    Funk/Soul::DISCOGS_RELEASE_GENRES
+        Afrobeat::DISCOGS_STYLES
+        Bayou Funk::DISCOGS_STYLES
+        Boogie::DISCOGS_STYLES
+        Contemporary R&B::DISCOGS_STYLES
+        Disco::DISCOGS_STYLES
+        Free Funk::DISCOGS_STYLES
+        Funk::DISCOGS_STYLES
+        Gogo::DISCOGS_STYLES
+        Gospel::DISCOGS_STYLES
+        Minneapolis Sound::DISCOGS_STYLES
+        Neo Soul::DISCOGS_STYLES
+        New Jack Swing::DISCOGS_STYLES
+        P.Funk::DISCOGS_STYLES
+        Psychedelic::DISCOGS_STYLES
+        Rhythm & Blues::DISCOGS_STYLES
+        Soul::DISCOGS_STYLES
+        Swingbeat::DISCOGS_STYLES
+        UK Street Soul::DISCOGS_STYLES
+    Hip Hop::DISCOGS_RELEASE_GENRES
+        Bass Music::DISCOGS_STYLES
+        Beatbox::DISCOGS_STYLES
+        Bongo Flava::DISCOGS_STYLES
+        Boom Bap::DISCOGS_STYLES
+        Bounce::DISCOGS_STYLES
+        Britcore::DISCOGS_STYLES
+        Cloud Rap::DISCOGS_STYLES
+        Conscious::DISCOGS_STYLES
+        Crunk::DISCOGS_STYLES
+        Cut-up/DJ::DISCOGS_STYLES
+        DJ Battle Tool::DISCOGS_STYLES
+        Electro::DISCOGS_STYLES
+        Favela Funk::DISCOGS_STYLES
+        G-Funk::DISCOGS_STYLES
+        Gangsta::DISCOGS_STYLES
+        Go-Go::DISCOGS_STYLES
+        Grime::DISCOGS_STYLES
+        Hardcore Hip-Hop::DISCOGS_STYLES
+        Hiplife::DISCOGS_STYLES
+        Horrorcore::DISCOGS_STYLES
+        Hyphy::DISCOGS_STYLES
+        Instrumental::DISCOGS_STYLES
+        Jazzy Hip-Hop::DISCOGS_STYLES
+        Kwaito::DISCOGS_STYLES
+        Miami Bass::DISCOGS_STYLES
+        Motswako::DISCOGS_STYLES
+        Pop Rap::DISCOGS_STYLES
+        Ragga HipHop::DISCOGS_STYLES
+        RnB/Swing::DISCOGS_STYLES
+        Screw::DISCOGS_STYLES
+        Spaza::DISCOGS_STYLES
+        Thug Rap::DISCOGS_STYLES
+        Trap::DISCOGS_STYLES
+        Trip Hop::DISCOGS_STYLES
+        Turntablism::DISCOGS_STYLES
+    Jazz::DISCOGS_RELEASE_GENRES
+        Afro-Cuban Jazz::DISCOGS_STYLES
+        Afrobeat::DISCOGS_STYLES
+        Avant-garde Jazz::DISCOGS_STYLES
+        Big Band::DISCOGS_STYLES
+        Bop::DISCOGS_STYLES
+        Bossa Nova::DISCOGS_STYLES
+        Cape Jazz::DISCOGS_STYLES
+        Contemporary Jazz::DISCOGS_STYLES
+        Cool Jazz::DISCOGS_STYLES
+        Dixieland::DISCOGS_STYLES
+        Easy Listening::DISCOGS_STYLES
+        Free Improvisation::DISCOGS_STYLES
+        Free Jazz::DISCOGS_STYLES
+        Fusion::DISCOGS_STYLES
+        Gypsy Jazz::DISCOGS_STYLES
+        Hard Bop::DISCOGS_STYLES
+        Jazz-Funk::DISCOGS_STYLES
+        Jazz-Rock::DISCOGS_STYLES
+        Latin Jazz::DISCOGS_STYLES
+        Modal::DISCOGS_STYLES
+        Post Bop::DISCOGS_STYLES
+        Ragtime::DISCOGS_STYLES
+        Smooth Jazz::DISCOGS_STYLES
+        Soul-Jazz::DISCOGS_STYLES
+        Space-Age::DISCOGS_STYLES
+        Swing::DISCOGS_STYLES
+    Latin::DISCOGS_RELEASE_GENRES
+        Afro-Cuban::DISCOGS_STYLES
+        Axé::DISCOGS_STYLES
+        Bachata::DISCOGS_STYLES
+        Baião::DISCOGS_STYLES
+        Batucada::DISCOGS_STYLES
+        Beguine::DISCOGS_STYLES
+        Bolero::DISCOGS_STYLES
+        Bomba::DISCOGS_STYLES
+        Boogaloo::DISCOGS_STYLES
+        Bossanova::DISCOGS_STYLES
+        Candombe::DISCOGS_STYLES
+        Carimbó::DISCOGS_STYLES
+        Cha-Cha::DISCOGS_STYLES
+        Champeta::DISCOGS_STYLES
+        Charanga::DISCOGS_STYLES
+        Choro::DISCOGS_STYLES
+        Compas::DISCOGS_STYLES
+        Conjunto::DISCOGS_STYLES
+        Corrido::DISCOGS_STYLES
+        Cuatro::DISCOGS_STYLES
+        Cubano::DISCOGS_STYLES
+        Cumbia::DISCOGS_STYLES
+        Danzon::DISCOGS_STYLES
+        Descarga::DISCOGS_STYLES
+        Forró::DISCOGS_STYLES
+        Gaita::DISCOGS_STYLES
+        Guaguancó::DISCOGS_STYLES
+        Guajira::DISCOGS_STYLES
+        Guaracha::DISCOGS_STYLES
+        Jibaro::DISCOGS_STYLES
+        Joropo::DISCOGS_STYLES
+        Lambada::DISCOGS_STYLES
+        Mambo::DISCOGS_STYLES
+        Marcha Carnavalesca::DISCOGS_STYLES
+        Mariachi::DISCOGS_STYLES
+        Marimba::DISCOGS_STYLES
+        Merengue::DISCOGS_STYLES
+        MPB::DISCOGS_STYLES
+        Musette::DISCOGS_STYLES
+        Música Criolla::DISCOGS_STYLES
+        Norteño::DISCOGS_STYLES
+        Nueva Cancion::DISCOGS_STYLES
+        Nueva Trova::DISCOGS_STYLES
+        Occitan::DISCOGS_STYLES
+        Pachanga::DISCOGS_STYLES
+        Plena::DISCOGS_STYLES
+        Porro::DISCOGS_STYLES
+        Quechua::DISCOGS_STYLES
+        Ranchera::DISCOGS_STYLES
+        Reggaeton::DISCOGS_STYLES
+        Rumba::DISCOGS_STYLES
+        Salsa::DISCOGS_STYLES
+        Samba::DISCOGS_STYLES
+        Samba-Canção::DISCOGS_STYLES
+        Seresta::DISCOGS_STYLES
+        Son::DISCOGS_STYLES
+        Son Montuno::DISCOGS_STYLES
+        Sonero::DISCOGS_STYLES
+        Tango::DISCOGS_STYLES
+        Tejano::DISCOGS_STYLES
+        Timba::DISCOGS_STYLES
+        Trova::DISCOGS_STYLES
+        Vallenato::DISCOGS_STYLES
+    Non-Music::DISCOGS_RELEASE_GENRES
+        Audiobook::DISCOGS_STYLES
+        Comedy::DISCOGS_STYLES
+        Dialogue::DISCOGS_STYLES
+        Education::DISCOGS_STYLES
+        Field Recording::DISCOGS_STYLES
+        Health-Fitness::DISCOGS_STYLES
+        Interview::DISCOGS_STYLES
+        Monolog::DISCOGS_STYLES
+        Movie Effects::DISCOGS_STYLES
+        Poetry::DISCOGS_STYLES
+        Political::DISCOGS_STYLES
+        Promotional::DISCOGS_STYLES
+        Public Broadcast::DISCOGS_STYLES
+        Public Service Announcement::DISCOGS_STYLES
+        Radioplay::DISCOGS_STYLES
+        Religious::DISCOGS_STYLES
+        Sermon::DISCOGS_STYLES
+        Sound Art::DISCOGS_STYLES
+        Sound Poetry::DISCOGS_STYLES
+        Special Effects::DISCOGS_STYLES
+        Speech::DISCOGS_STYLES
+        Spoken Word::DISCOGS_STYLES
+        Technical::DISCOGS_STYLES
+        Therapy::DISCOGS_STYLES
+    Pop::DISCOGS_RELEASE_GENRES
+        Ballad::DISCOGS_STYLES
+        Barbershop::DISCOGS_STYLES
+        Bollywood::DISCOGS_STYLES
+        Break-In::DISCOGS_STYLES
+        Bubblegum::DISCOGS_STYLES
+        Chanson::DISCOGS_STYLES
+        Enka::DISCOGS_STYLES
+        Ethno-pop::DISCOGS_STYLES
+        Europop::DISCOGS_STYLES
+        Indie Pop::DISCOGS_STYLES
+        J-pop::DISCOGS_STYLES
+        K-pop::DISCOGS_STYLES
+        Karaoke::DISCOGS_STYLES
+        Kayōkyoku::DISCOGS_STYLES
+        Levenslied::DISCOGS_STYLES
+        Light Music::DISCOGS_STYLES
+        Music Hall::DISCOGS_STYLES
+        Néo Kyma::DISCOGS_STYLES
+        Novelty::DISCOGS_STYLES
+        Parody::DISCOGS_STYLES
+        Schlager::DISCOGS_STYLES
+        Vocal::DISCOGS_STYLES
+    Reggae::DISCOGS_RELEASE_GENRES
+        Azonto::DISCOGS_STYLES
+        Bubbling::DISCOGS_STYLES
+        Calypso::DISCOGS_STYLES
+        Dancehall::DISCOGS_STYLES
+        Dub::DISCOGS_STYLES
+        Dub Poetry::DISCOGS_STYLES
+        Junkanoo::DISCOGS_STYLES
+        Lovers Rock::DISCOGS_STYLES
+        Mento::DISCOGS_STYLES
+        Ragga::DISCOGS_STYLES
+        Rapso::DISCOGS_STYLES
+        Reggae::DISCOGS_STYLES
+        Reggae Gospel::DISCOGS_STYLES
+        Reggae-Pop::DISCOGS_STYLES
+        Rocksteady::DISCOGS_STYLES
+        Roots Reggae::DISCOGS_STYLES
+        Ska::DISCOGS_STYLES
+        Soca::DISCOGS_STYLES
+        Steel Band::DISCOGS_STYLES
+    Rock::DISCOGS_RELEASE_GENRES
+        Acid Rock::DISCOGS_STYLES
+        Acoustic::DISCOGS_STYLES
+        Alternative Rock::DISCOGS_STYLES
+        AOR::DISCOGS_STYLES
+        Arena Rock::DISCOGS_STYLES
+        Art Rock::DISCOGS_STYLES
+        Atmospheric Black Metal::DISCOGS_STYLES
+        Avantgarde::DISCOGS_STYLES
+        Beat::DISCOGS_STYLES
+        Black Metal::DISCOGS_STYLES
+        Blues Rock::DISCOGS_STYLES
+        Brit Pop::DISCOGS_STYLES
+        Classic Rock::DISCOGS_STYLES
+        Coldwave::DISCOGS_STYLES
+        Country Rock::DISCOGS_STYLES
+        Crust::DISCOGS_STYLES
+        Death Metal::DISCOGS_STYLES
+        Deathcore::DISCOGS_STYLES
+        Deathrock::DISCOGS_STYLES
+        Depressive Black Metal::DISCOGS_STYLES
+        Doo Wop::DISCOGS_STYLES
+        Doom Metal::DISCOGS_STYLES
+        Dream Pop::DISCOGS_STYLES
+        Emo::DISCOGS_STYLES
+        Ethereal::DISCOGS_STYLES
+        Experimental::DISCOGS_STYLES
+        Folk Metal::DISCOGS_STYLES
+        Folk Rock::DISCOGS_STYLES
+        Funeral Doom Metal::DISCOGS_STYLES
+        Funk Metal::DISCOGS_STYLES
+        Garage Rock::DISCOGS_STYLES
+        Glam::DISCOGS_STYLES
+        Goregrind::DISCOGS_STYLES
+        Goth Rock::DISCOGS_STYLES
+        Gothic Metal::DISCOGS_STYLES
+        Grindcore::DISCOGS_STYLES
+        Grunge::DISCOGS_STYLES
+        Hard Rock::DISCOGS_STYLES
+        Hardcore::DISCOGS_STYLES
+        Heavy Metal::DISCOGS_STYLES
+        Horror Rock::DISCOGS_STYLES
+        Indie Rock::DISCOGS_STYLES
+        Industrial::DISCOGS_STYLES
+        Krautrock::DISCOGS_STYLES
+        Lo-Fi::DISCOGS_STYLES
+        Lounge::DISCOGS_STYLES
+        Math Rock::DISCOGS_STYLES
+        Melodic Death Metal::DISCOGS_STYLES
+        Melodic Hardcore::DISCOGS_STYLES
+        Metalcore::DISCOGS_STYLES
+        Mod::DISCOGS_STYLES
+        NDW::DISCOGS_STYLES
+        Neofolk::DISCOGS_STYLES
+        New Wave::DISCOGS_STYLES
+        No Wave::DISCOGS_STYLES
+        Noise::DISCOGS_STYLES
+        Noisecore::DISCOGS_STYLES
+        Nu Metal::DISCOGS_STYLES
+        Oi::DISCOGS_STYLES
+        Parody::DISCOGS_STYLES
+        Pop Punk::DISCOGS_STYLES
+        Pop Rock::DISCOGS_STYLES
+        Pornogrind::DISCOGS_STYLES
+        Post Rock::DISCOGS_STYLES
+        Post-Hardcore::DISCOGS_STYLES
+        Post-Metal::DISCOGS_STYLES
+        Post-Punk::DISCOGS_STYLES
+        Power Metal::DISCOGS_STYLES
+        Power Pop::DISCOGS_STYLES
+        Power Violence::DISCOGS_STYLES
+        Prog Rock::DISCOGS_STYLES
+        Progressive Metal::DISCOGS_STYLES
+        Psychedelic Rock::DISCOGS_STYLES
+        Psychobilly::DISCOGS_STYLES
+        Pub Rock::DISCOGS_STYLES
+        Punk::DISCOGS_STYLES
+        Rock & Roll::DISCOGS_STYLES
+        Rock Opera::DISCOGS_STYLES
+        Rockabilly::DISCOGS_STYLES
+        Shoegaze::DISCOGS_STYLES
+        Ska::DISCOGS_STYLES
+        Skiffle::DISCOGS_STYLES
+        Sludge Metal::DISCOGS_STYLES
+        Soft Rock::DISCOGS_STYLES
+        Southern Rock::DISCOGS_STYLES
+        Space Rock::DISCOGS_STYLES
+        Speed Metal::DISCOGS_STYLES
+        Stoner Rock::DISCOGS_STYLES
+        Surf::DISCOGS_STYLES
+        Swamp Pop::DISCOGS_STYLES
+        Symphonic Rock::DISCOGS_STYLES
+        Technical Death Metal::DISCOGS_STYLES
+        Thrash::DISCOGS_STYLES
+        Twist::DISCOGS_STYLES
+        Viking Metal::DISCOGS_STYLES
+        Yé-Yé::DISCOGS_STYLES
+    Stage & Screen::DISCOGS_RELEASE_GENRES
+        Musical::DISCOGS_STYLES
+        Score::DISCOGS_STYLES
+        Soundtrack::DISCOGS_STYLES
+        Theme::DISCOGS_STYLES
