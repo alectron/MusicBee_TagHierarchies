@@ -1,5 +1,6 @@
 Genres (MusicBee 3 Layer)
     Afro-Pop
+        Afro-Pop::Genre
         Afrobeat::Genre
         Apala::Genre
         Benga::Genre
@@ -112,8 +113,8 @@ Genres (MusicBee 3 Layer)
         Darkcore::Genre
         Downtempo::Genre
         Dream::Genre
-        Electro::Genre
         Electro-Hop::Genre
+        Electro::Genre
         Electroclash::Genre
         Electronic Rock::Genre
         Electronic::Genre
@@ -129,13 +130,13 @@ Genres (MusicBee 3 Layer)
         Hardstyle Trance::Genre
         Hi-NRG::Genre
         House
-            Ambient House::Genre
             Acid House::Genre
+            Ambient House::Genre
             Club-House::Genre
             Electro-House::Genre
             Euro-House::Genre
-            Italo-House::Genre
             House::Genre
+            Italo-House::Genre
         IDM::Genre
         Industrial::Genre
         Instrumental::Genre
@@ -146,21 +147,21 @@ Genres (MusicBee 3 Layer)
         Space::Genre
         Squee::Genre
         Techno
-            Hardcore Techno::Genre
             Euro-Techno::Genre
-            Techno::Genre
+            Hardcore Techno::Genre
             Techno-Industrial::Genre
+            Techno::Genre
         Trance
             Classic Trance::Genre
             Euro Trance::Genre
-            Hard Trance::Genre
             Goa Trance::Genre
+            Hard Trance::Genre
             Progressive Trance::Genre
             Psychedelic Trance::Genre
             Tech Trance::Genre
             Trance::Genre
-            Vocal Trance::Genre
             Uplifting::Genre
+            Vocal Trance::Genre
         Trip-Hop::Genre
     Folk
         Alternative Folk::Genre
@@ -186,8 +187,8 @@ Genres (MusicBee 3 Layer)
         Dirty Rap/Pornocore::Genre
         East Coast Hip-Hop::Genre
         G-Funk::Genre
-        Gangsta::Genre
         Gangsta-Rap::Genre
+        Gangsta::Genre
         Grime::Genre
         Hip-Hop::Genre
         Horrorcore::Genre
@@ -222,9 +223,9 @@ Genres (MusicBee 3 Layer)
         Jazz Blues::Genre
         Jazz Fusion::Genre
         Jazz Rap::Genre
-        Jazz::Genre
         Jazz-Funk::Genre
         Jazz-Rock::Genre
+        Jazz::Genre
         Latin Jazz::Genre
         M-Base::Genre
         Mainstream Jazz::Genre
@@ -320,8 +321,8 @@ Genres (MusicBee 3 Layer)
         Pop Punk::Genre
         Pop Rap::Genre
         Pop Rock::Genre
-        Pop::Genre
         Pop/Funk::Genre
+        Pop::Genre
         Post-BritPop::Genre
         Power Pop::Genre
         Psychedelic Pop::Genre

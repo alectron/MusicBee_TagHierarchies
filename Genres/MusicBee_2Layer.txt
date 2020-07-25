@@ -1,5 +1,6 @@
 Genres (MusicBee 2 Layer)
     Afro-Pop
+        Afro-Pop::Genre
         Afrobeat::Genre
         Apala::Genre
         Benga::Genre
@@ -104,8 +105,8 @@ Genres (MusicBee 2 Layer)
         Breakbeat::Genre
         Chillout::Genre
         Classic Trance::Genre
-        Club::Genre
         Club-House::Genre
+        Club::Genre
         Dance::Genre
         Dark Ambient::Genre
         Darkcore::Genre
@@ -113,9 +114,9 @@ Genres (MusicBee 2 Layer)
         Dream::Genre
         Drum & Bass::Genre
         Dubstep::Genre
-        Electro::Genre
         Electro-Hop::Genre
         Electro-House::Genre
+        Electro::Genre
         Electroclash::Genre
         Electronic Rock::Genre
         Electronic::Genre
@@ -150,8 +151,8 @@ Genres (MusicBee 2 Layer)
         Space::Genre
         Squee::Genre
         Tech Trance::Genre
-        Techno::Genre
         Techno-Industrial::Genre
+        Techno::Genre
         Trance::Genre
         Trip-Hop::Genre
         UK Garage::Genre
@@ -181,8 +182,8 @@ Genres (MusicBee 2 Layer)
         Dirty Rap/Pornocore::Genre
         East Coast Hip-Hop::Genre
         G-Funk::Genre
-        Gangsta::Genre
         Gangsta-Rap::Genre
+        Gangsta::Genre
         Grime::Genre
         Hip-Hop::Genre
         Horrorcore::Genre
@@ -217,9 +218,9 @@ Genres (MusicBee 2 Layer)
         Jazz Blues::Genre
         Jazz Fusion::Genre
         Jazz Rap::Genre
-        Jazz::Genre
         Jazz-Funk::Genre
         Jazz-Rock::Genre
+        Jazz::Genre
         Latin Jazz::Genre
         M-Base::Genre
         Mainstream Jazz::Genre
@@ -314,8 +315,8 @@ Genres (MusicBee 2 Layer)
         Pop Punk::Genre
         Pop Rap::Genre
         Pop Rock::Genre
-        Pop::Genre
         Pop/Funk::Genre
+        Pop::Genre
         Post-BritPop::Genre
         Power Pop::Genre
         Psychedelic Pop::Genre

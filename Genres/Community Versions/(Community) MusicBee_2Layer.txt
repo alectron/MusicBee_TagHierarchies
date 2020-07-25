@@ -1,4 +1,4 @@
-Genres (MusicBee 2 Layer)
+Genres (MusicBee 2 Layer-Community Version)
     Afro-Pop
         Afro-Pop::Genre
         Afrobeat::Genre
@@ -106,6 +106,7 @@ Genres (MusicBee 2 Layer)
         Big Beat::Genre
         Bitcore::Genre
         Breakbeat::Genre
+        Breakcore::Genre
         Chillout::Genre
         Chiptune::Genre
         Classic Trance::Genre
@@ -114,10 +115,12 @@ Genres (MusicBee 2 Layer)
         Dance::Genre
         Dark Ambient::Genre
         Darkcore::Genre
+        Disco
         Downtempo::Genre
         Dream::Genre
         Drum & Bass::Genre
         Dubstep::Genre
+        Dubtechno::Genre
         Dubtronica::Genre
         Electro::Genre
         Electro-Hop::Genre
@@ -131,11 +134,14 @@ Genres (MusicBee 2 Layer)
         Euro-House::Genre
         Euro-Techno::Genre
         Folktronica::Genre
+        Footwork::Genre
         Fusion::Genre
         Gabba::Genre
         Glitch::Genre
         Goa Trance::Genre
         Goa::Genre
+        Halftime::Genre
+        Juke::Genre
         Happy Hardcore::Genre
         Hard Trance::Genre
         Hardcore Techno::Genre
@@ -149,6 +155,9 @@ Genres (MusicBee 2 Layer)
         Italo-House::Genre
         Jazztronica::Genre
         Meditative::Genre
+        Miami Bass::Genre
+        Nu-disco::Genre
+        Post-disco::Genre
         Progressive Electronic::Genre
         Progressive Trance::Genre
         Psychedelic Trance::Genre
@@ -163,7 +172,7 @@ Genres (MusicBee 2 Layer)
         Trip-Hop::Genre
         UK Bass::Genre
         UK Garage::Genre
-        Uplifting::Genre
+        Uplifting Trance::Genre
         Vaporwave::Genre
         Vocal Trance::Genre
     Folk
@@ -257,6 +266,7 @@ Genres (MusicBee 2 Layer)
         Baithak Gana::Genre
         Bossa Nova::Genre
         Calypso::Genre
+        Chicha::Genre
         Chutney Soca::Genre
         Chutney::Genre
         Cumbia::Genre
