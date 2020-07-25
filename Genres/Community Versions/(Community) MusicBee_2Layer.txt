@@ -115,7 +115,6 @@ Genres (MusicBee 2 Layer-Community Version)
         Dance::Genre
         Dark Ambient::Genre
         Darkcore::Genre
-        Disco::Genre
         Downtempo::Genre
         Dream::Genre
         Drum & Bass::Genre
@@ -156,8 +155,6 @@ Genres (MusicBee 2 Layer-Community Version)
         Jazztronica::Genre
         Meditative::Genre
         Miami Bass::Genre
-        Nu-disco::Genre
-        Post-disco::Genre
         Progressive Electronic::Genre
         Progressive Trance::Genre
         Psychedelic Trance::Genre
@@ -509,13 +506,16 @@ Genres (MusicBee 2 Layer-Community Version)
         Weld::Genre
         World Fusion::Genre
     R&B
+        Alternative R&B::Genre
         Boogie::Genre
         Contemporary R&B::Genre
         Deep Funk::Genre
+        Disco::Genre
         Doo Wop::Genre
         Funk::Genre
         Go-Go::Genre
         Hip-Hop Soul::Genre
+        Indie R&B::Genre
         Neo-Soul::Genre
         New Jack Swing::Genre
         Northern Soul::Genre
