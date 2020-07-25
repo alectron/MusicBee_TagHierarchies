@@ -1,0 +1,3620 @@
+Discogs_Genres
+    Blues::DISCOGS_RELEASE_GENRES
+        Boogie Woogie::DISCOGS_STYLES
+        Chicago Blues::DISCOGS_STYLES
+        Country Blues::DISCOGS_STYLES
+        Delta Blues::DISCOGS_STYLES
+        East Coast Blues::DISCOGS_STYLES
+        Electric Blues::DISCOGS_STYLES
+        Harmonica Blues::DISCOGS_STYLES
+        Jump Blues::DISCOGS_STYLES
+        Louisiana Blues::DISCOGS_STYLES
+        Memphis Blues::DISCOGS_STYLES
+        Modern Electric Blues::DISCOGS_STYLES
+        Piano Blues::DISCOGS_STYLES
+        Piedmont Blues::DISCOGS_STYLES
+        Rhythm & Blues::DISCOGS_STYLES
+        Texas Blues::DISCOGS_STYLES
+    Brass & Military::DISCOGS_RELEASE_GENRES
+        Brass Band::DISCOGS_STYLES
+        Marches::DISCOGS_STYLES
+        Military::DISCOGS_STYLES
+        Pipe & Drum::DISCOGS_STYLES
+    Children’s::DISCOGS_RELEASE_GENRES
+        Educational::DISCOGS_STYLES
+        Nursery Rhymes::DISCOGS_STYLES
+        Story::DISCOGS_STYLES
+    Classical::DISCOGS_RELEASE_GENRES
+        Baroque::DISCOGS_STYLES
+        Choral::DISCOGS_STYLES
+        Classical::DISCOGS_STYLES
+        Contemporary::DISCOGS_STYLES
+        Early::DISCOGS_STYLES
+        Impressionist::DISCOGS_STYLES
+        Medieval::DISCOGS_STYLES
+        Modern::DISCOGS_STYLES
+        Neo-Classical::DISCOGS_STYLES
+        Neo-Romantic::DISCOGS_STYLES
+        Opera::DISCOGS_STYLES
+        Operetta::DISCOGS_STYLES
+        Oratorio::DISCOGS_STYLES
+        Post-Modern::DISCOGS_STYLES
+        Renaissance::DISCOGS_STYLES
+        Romantic::DISCOGS_STYLES
+        Serial::DISCOGS_STYLES
+        Twelve-tone::DISCOGS_STYLES
+        Zarzuela::DISCOGS_STYLES
+    Electronic::DISCOGS_RELEASE_GENRES
+        Abstract::DISCOGS_STYLES
+        Acid::DISCOGS_STYLES
+        Acid House::DISCOGS_STYLES
+        Acid Jazz::DISCOGS_STYLES
+        Ambient::DISCOGS_STYLES
+        Ballroom::DISCOGS_STYLES
+        Baltimore Club::DISCOGS_STYLES
+        Bassline::DISCOGS_STYLES
+        Beatdown::DISCOGS_STYLES
+        Berlin-School::DISCOGS_STYLES
+        Big Beat::DISCOGS_STYLES
+        Breakbeat::DISCOGS_STYLES
+        Breakcore::DISCOGS_STYLES
+        Breaks::DISCOGS_STYLES
+        Broken Beat::DISCOGS_STYLES
+        Chillwave::DISCOGS_STYLES
+        Chiptune::DISCOGS_STYLES
+        Dance-pop::DISCOGS_STYLES
+        Dark Ambient::DISCOGS_STYLES
+        Darkwave::DISCOGS_STYLES
+        Deep House::DISCOGS_STYLES
+        Deep Techno::DISCOGS_STYLES
+        Disco::DISCOGS_STYLES
+        Disco Polo::DISCOGS_STYLES
+        Donk::DISCOGS_STYLES
+        Doomcore::DISCOGS_STYLES
+        Downtempo::DISCOGS_STYLES
+        Drone::DISCOGS_STYLES
+        Drum n Bass::DISCOGS_STYLES
+        Dub::DISCOGS_STYLES
+        Dub Techno::DISCOGS_STYLES
+        Dubstep::DISCOGS_STYLES
+        Dungeon Synth::DISCOGS_STYLES
+        EBM::DISCOGS_STYLES
+        Electro::DISCOGS_STYLES
+        Electro House::DISCOGS_STYLES
+        Electroclash::DISCOGS_STYLES
+        Euro House::DISCOGS_STYLES
+        Euro-Disco::DISCOGS_STYLES
+        Eurobeat::DISCOGS_STYLES
+        Eurodance::DISCOGS_STYLES
+        Experimental::DISCOGS_STYLES
+        Freestyle::DISCOGS_STYLES
+        Funkot::DISCOGS_STYLES
+        Future Jazz::DISCOGS_STYLES
+        Gabber::DISCOGS_STYLES
+        Garage House::DISCOGS_STYLES
+        Ghetto::DISCOGS_STYLES
+        Ghetto House::DISCOGS_STYLES
+        Ghettotech::DISCOGS_STYLES
+        Glitch::DISCOGS_STYLES
+        Goa Trance::DISCOGS_STYLES
+        Grime::DISCOGS_STYLES
+        Hands Up::DISCOGS_STYLES
+        Happy Hardcore::DISCOGS_STYLES
+        Hard Beat::DISCOGS_STYLES
+        Hard House::DISCOGS_STYLES
+        Hard Techno::DISCOGS_STYLES
+        Hard Trance::DISCOGS_STYLES
+        Hardcore::DISCOGS_STYLES
+        Hardstyle::DISCOGS_STYLES
+        Harsh Noise Wall::DISCOGS_STYLES
+        Hi NRG::DISCOGS_STYLES
+        Hip Hop::DISCOGS_STYLES
+        Hip-House::DISCOGS_STYLES
+        House::DISCOGS_STYLES
+        IDM::DISCOGS_STYLES
+        Illbient::DISCOGS_STYLES
+        Industrial::DISCOGS_STYLES
+        Italo House::DISCOGS_STYLES
+        Italo-Disco::DISCOGS_STYLES
+        Italodance::DISCOGS_STYLES
+        J-Core::DISCOGS_STYLES
+        Jazzdance::DISCOGS_STYLES
+        Juke::DISCOGS_STYLES
+        Jumpstyle::DISCOGS_STYLES
+        Jungle::DISCOGS_STYLES
+        Latin::DISCOGS_STYLES
+        Leftfield::DISCOGS_STYLES
+        Lento Violento::DISCOGS_STYLES
+        Makina::DISCOGS_STYLES
+        Minimal::DISCOGS_STYLES
+        Minimal Techno::DISCOGS_STYLES
+        Modern Classical::DISCOGS_STYLES
+        Musique Concrète::DISCOGS_STYLES
+        Neo Trance::DISCOGS_STYLES
+        Neofolk::DISCOGS_STYLES
+        Nerdcore Techno::DISCOGS_STYLES
+        New Age::DISCOGS_STYLES
+        New Beat::DISCOGS_STYLES
+        New Wave::DISCOGS_STYLES
+        Noise::DISCOGS_STYLES
+        Nu-Disco::DISCOGS_STYLES
+        Power Electronics::DISCOGS_STYLES
+        Progressive Breaks::DISCOGS_STYLES
+        Progressive House::DISCOGS_STYLES
+        Progressive Trance::DISCOGS_STYLES
+        Psy-Trance::DISCOGS_STYLES
+        Rhythmic Noise::DISCOGS_STYLES
+        Schranz::DISCOGS_STYLES
+        Skweee::DISCOGS_STYLES
+        Sound Collage::DISCOGS_STYLES
+        Speed Garage::DISCOGS_STYLES
+        Speedcore::DISCOGS_STYLES
+        Synth-pop::DISCOGS_STYLES
+        Synthwave::DISCOGS_STYLES
+        Tech House::DISCOGS_STYLES
+        Tech Trance::DISCOGS_STYLES
+        Techno::DISCOGS_STYLES
+        Trance::DISCOGS_STYLES
+        Tribal::DISCOGS_STYLES
+        Tribal House::DISCOGS_STYLES
+        Trip Hop::DISCOGS_STYLES
+        Tropical House::DISCOGS_STYLES
+        UK Funky::DISCOGS_STYLES
+        UK Garage::DISCOGS_STYLES
+        Vaporwave::DISCOGS_STYLES
+        Witch House::DISCOGS_STYLES
+    Folk, World & Country::DISCOGS_RELEASE_GENRES
+        Aboriginal::DISCOGS_STYLES
+        African::DISCOGS_STYLES
+        Andalusian Classical::DISCOGS_STYLES
+        Appalachian Music::DISCOGS_STYLES
+        Bangladeshi Classical::DISCOGS_STYLES
+        Basque Music::DISCOGS_STYLES
+        Bengali Music::DISCOGS_STYLES
+        Bhangra::DISCOGS_STYLES
+        Bluegrass::DISCOGS_STYLES
+        Cajun::DISCOGS_STYLES
+        Cambodian Classical::DISCOGS_STYLES
+        Canzone Napoletana::DISCOGS_STYLES
+        Carnatic::DISCOGS_STYLES
+        Catalan Music::DISCOGS_STYLES
+        Celtic::DISCOGS_STYLES
+        Chacarera::DISCOGS_STYLES
+        Chamamé::DISCOGS_STYLES
+        Chinese Classical::DISCOGS_STYLES
+        Chutney::DISCOGS_STYLES
+        Cobla::DISCOGS_STYLES
+        Copla::DISCOGS_STYLES
+        Country::DISCOGS_STYLES
+        Dangdut::DISCOGS_STYLES
+        Éntekhno::DISCOGS_STYLES
+        Fado::DISCOGS_STYLES
+        Filk::DISCOGS_STYLES
+        Flamenco::DISCOGS_STYLES
+        Folk::DISCOGS_STYLES
+        Funaná::DISCOGS_STYLES
+        Gagaku::DISCOGS_STYLES
+        Gamelan::DISCOGS_STYLES
+        Gospel::DISCOGS_STYLES
+        Griot::DISCOGS_STYLES
+        Guarania::DISCOGS_STYLES
+        Hawaiian::DISCOGS_STYLES
+        Highlife::DISCOGS_STYLES
+        Hillbilly::DISCOGS_STYLES
+        Hindustani::DISCOGS_STYLES
+        Honky Tonk::DISCOGS_STYLES
+        Indian Classical::DISCOGS_STYLES
+        Jota::DISCOGS_STYLES
+        Kaseko::DISCOGS_STYLES
+        Keroncong::DISCOGS_STYLES
+        Kizomba::DISCOGS_STYLES
+        Klasik::DISCOGS_STYLES
+        Klezmer::DISCOGS_STYLES
+        Korean Court Music::DISCOGS_STYLES
+        Laïkó::DISCOGS_STYLES
+        Lao Music::DISCOGS_STYLES
+        Liscio::DISCOGS_STYLES
+        Luk Krung::DISCOGS_STYLES
+        Luk Thung::DISCOGS_STYLES
+        Maloya::DISCOGS_STYLES
+        Mbalax::DISCOGS_STYLES
+        Min’yō::DISCOGS_STYLES
+        Mizrahi::DISCOGS_STYLES
+        Mouth Music::DISCOGS_STYLES
+        Mugham::DISCOGS_STYLES
+        Népzene::DISCOGS_STYLES
+        Nordic::DISCOGS_STYLES
+        Ottoman Classical::DISCOGS_STYLES
+        Overtone Singing::DISCOGS_STYLES
+        Pacific::DISCOGS_STYLES
+        Pasodoble::DISCOGS_STYLES
+        Persian Classical::DISCOGS_STYLES
+        Philippine Classical::DISCOGS_STYLES
+        Phleng Phuea Chiwit::DISCOGS_STYLES
+        Piobaireachd::DISCOGS_STYLES
+        Polka::DISCOGS_STYLES
+        Progressive Bluegrass::DISCOGS_STYLES
+        Raï::DISCOGS_STYLES
+        Rebetiko::DISCOGS_STYLES
+        Romani::DISCOGS_STYLES
+        Rune Singing::DISCOGS_STYLES
+        Salegy::DISCOGS_STYLES
+        Sámi Music::DISCOGS_STYLES
+        Sea Shanties::DISCOGS_STYLES
+        Séga::DISCOGS_STYLES
+        Sephardic::DISCOGS_STYLES
+        Soukous::DISCOGS_STYLES
+        Thai Classical::DISCOGS_STYLES
+        Volksmusik::DISCOGS_STYLES
+        Waiata::DISCOGS_STYLES
+        Western Swing::DISCOGS_STYLES
+        Yemenite Jewish::DISCOGS_STYLES
+        Zamba::DISCOGS_STYLES
+        Zemer Ivri::DISCOGS_STYLES
+        Zouk::DISCOGS_STYLES
+        Zydeco::DISCOGS_STYLES
+    Funk/Soul::DISCOGS_RELEASE_GENRES
+        Afrobeat::DISCOGS_STYLES
+        Bayou Funk::DISCOGS_STYLES
+        Boogie::DISCOGS_STYLES
+        Contemporary R&B::DISCOGS_STYLES
+        Disco::DISCOGS_STYLES
+        Free Funk::DISCOGS_STYLES
+        Funk::DISCOGS_STYLES
+        Gogo::DISCOGS_STYLES
+        Gospel::DISCOGS_STYLES
+        Minneapolis Sound::DISCOGS_STYLES
+        Neo Soul::DISCOGS_STYLES
+        New Jack Swing::DISCOGS_STYLES
+        P.Funk::DISCOGS_STYLES
+        Psychedelic::DISCOGS_STYLES
+        Rhythm & Blues::DISCOGS_STYLES
+        Soul::DISCOGS_STYLES
+        Swingbeat::DISCOGS_STYLES
+        UK Street Soul::DISCOGS_STYLES
+    Hip Hop::DISCOGS_RELEASE_GENRES
+        Bass Music::DISCOGS_STYLES
+        Beatbox::DISCOGS_STYLES
+        Bongo Flava::DISCOGS_STYLES
+        Boom Bap::DISCOGS_STYLES
+        Bounce::DISCOGS_STYLES
+        Britcore::DISCOGS_STYLES
+        Cloud Rap::DISCOGS_STYLES
+        Conscious::DISCOGS_STYLES
+        Crunk::DISCOGS_STYLES
+        Cut-up/DJ::DISCOGS_STYLES
+        DJ Battle Tool::DISCOGS_STYLES
+        Electro::DISCOGS_STYLES
+        Favela Funk::DISCOGS_STYLES
+        G-Funk::DISCOGS_STYLES
+        Gangsta::DISCOGS_STYLES
+        Go-Go::DISCOGS_STYLES
+        Grime::DISCOGS_STYLES
+        Hardcore Hip-Hop::DISCOGS_STYLES
+        Hiplife::DISCOGS_STYLES
+        Horrorcore::DISCOGS_STYLES
+        Hyphy::DISCOGS_STYLES
+        Instrumental::DISCOGS_STYLES
+        Jazzy Hip-Hop::DISCOGS_STYLES
+        Kwaito::DISCOGS_STYLES
+        Miami Bass::DISCOGS_STYLES
+        Motswako::DISCOGS_STYLES
+        Pop Rap::DISCOGS_STYLES
+        Ragga HipHop::DISCOGS_STYLES
+        RnB/Swing::DISCOGS_STYLES
+        Screw::DISCOGS_STYLES
+        Spaza::DISCOGS_STYLES
+        Thug Rap::DISCOGS_STYLES
+        Trap::DISCOGS_STYLES
+        Trip Hop::DISCOGS_STYLES
+        Turntablism::DISCOGS_STYLES
+    Jazz::DISCOGS_RELEASE_GENRES
+        Afro-Cuban Jazz::DISCOGS_STYLES
+        Afrobeat::DISCOGS_STYLES
+        Avant-garde Jazz::DISCOGS_STYLES
+        Big Band::DISCOGS_STYLES
+        Bop::DISCOGS_STYLES
+        Bossa Nova::DISCOGS_STYLES
+        Cape Jazz::DISCOGS_STYLES
+        Contemporary Jazz::DISCOGS_STYLES
+        Cool Jazz::DISCOGS_STYLES
+        Dixieland::DISCOGS_STYLES
+        Easy Listening::DISCOGS_STYLES
+        Free Improvisation::DISCOGS_STYLES
+        Free Jazz::DISCOGS_STYLES
+        Fusion::DISCOGS_STYLES
+        Gypsy Jazz::DISCOGS_STYLES
+        Hard Bop::DISCOGS_STYLES
+        Jazz-Funk::DISCOGS_STYLES
+        Jazz-Rock::DISCOGS_STYLES
+        Latin Jazz::DISCOGS_STYLES
+        Modal::DISCOGS_STYLES
+        Post Bop::DISCOGS_STYLES
+        Ragtime::DISCOGS_STYLES
+        Smooth Jazz::DISCOGS_STYLES
+        Soul-Jazz::DISCOGS_STYLES
+        Space-Age::DISCOGS_STYLES
+        Swing::DISCOGS_STYLES
+    Latin::DISCOGS_RELEASE_GENRES
+        Afro-Cuban::DISCOGS_STYLES
+        Axé::DISCOGS_STYLES
+        Bachata::DISCOGS_STYLES
+        Baião::DISCOGS_STYLES
+        Batucada::DISCOGS_STYLES
+        Beguine::DISCOGS_STYLES
+        Bolero::DISCOGS_STYLES
+        Bomba::DISCOGS_STYLES
+        Boogaloo::DISCOGS_STYLES
+        Bossanova::DISCOGS_STYLES
+        Candombe::DISCOGS_STYLES
+        Carimbó::DISCOGS_STYLES
+        Cha-Cha::DISCOGS_STYLES
+        Champeta::DISCOGS_STYLES
+        Charanga::DISCOGS_STYLES
+        Choro::DISCOGS_STYLES
+        Compas::DISCOGS_STYLES
+        Conjunto::DISCOGS_STYLES
+        Corrido::DISCOGS_STYLES
+        Cuatro::DISCOGS_STYLES
+        Cubano::DISCOGS_STYLES
+        Cumbia::DISCOGS_STYLES
+        Danzon::DISCOGS_STYLES
+        Descarga::DISCOGS_STYLES
+        Forró::DISCOGS_STYLES
+        Gaita::DISCOGS_STYLES
+        Guaguancó::DISCOGS_STYLES
+        Guajira::DISCOGS_STYLES
+        Guaracha::DISCOGS_STYLES
+        Jibaro::DISCOGS_STYLES
+        Joropo::DISCOGS_STYLES
+        Lambada::DISCOGS_STYLES
+        Mambo::DISCOGS_STYLES
+        Marcha Carnavalesca::DISCOGS_STYLES
+        Mariachi::DISCOGS_STYLES
+        Marimba::DISCOGS_STYLES
+        Merengue::DISCOGS_STYLES
+        MPB::DISCOGS_STYLES
+        Musette::DISCOGS_STYLES
+        Música Criolla::DISCOGS_STYLES
+        Norteño::DISCOGS_STYLES
+        Nueva Cancion::DISCOGS_STYLES
+        Nueva Trova::DISCOGS_STYLES
+        Occitan::DISCOGS_STYLES
+        Pachanga::DISCOGS_STYLES
+        Plena::DISCOGS_STYLES
+        Porro::DISCOGS_STYLES
+        Quechua::DISCOGS_STYLES
+        Ranchera::DISCOGS_STYLES
+        Reggaeton::DISCOGS_STYLES
+        Rumba::DISCOGS_STYLES
+        Salsa::DISCOGS_STYLES
+        Samba::DISCOGS_STYLES
+        Samba-Canção::DISCOGS_STYLES
+        Seresta::DISCOGS_STYLES
+        Son::DISCOGS_STYLES
+        Son Montuno::DISCOGS_STYLES
+        Sonero::DISCOGS_STYLES
+        Tango::DISCOGS_STYLES
+        Tejano::DISCOGS_STYLES
+        Timba::DISCOGS_STYLES
+        Trova::DISCOGS_STYLES
+        Vallenato::DISCOGS_STYLES
+    Non-Music::DISCOGS_RELEASE_GENRES
+        Audiobook::DISCOGS_STYLES
+        Comedy::DISCOGS_STYLES
+        Dialogue::DISCOGS_STYLES
+        Education::DISCOGS_STYLES
+        Field Recording::DISCOGS_STYLES
+        Health-Fitness::DISCOGS_STYLES
+        Interview::DISCOGS_STYLES
+        Monolog::DISCOGS_STYLES
+        Movie Effects::DISCOGS_STYLES
+        Poetry::DISCOGS_STYLES
+        Political::DISCOGS_STYLES
+        Promotional::DISCOGS_STYLES
+        Public Broadcast::DISCOGS_STYLES
+        Public Service Announcement::DISCOGS_STYLES
+        Radioplay::DISCOGS_STYLES
+        Religious::DISCOGS_STYLES
+        Sermon::DISCOGS_STYLES
+        Sound Art::DISCOGS_STYLES
+        Sound Poetry::DISCOGS_STYLES
+        Special Effects::DISCOGS_STYLES
+        Speech::DISCOGS_STYLES
+        Spoken Word::DISCOGS_STYLES
+        Technical::DISCOGS_STYLES
+        Therapy::DISCOGS_STYLES
+    Pop::DISCOGS_RELEASE_GENRES
+        Ballad::DISCOGS_STYLES
+        Barbershop::DISCOGS_STYLES
+        Bollywood::DISCOGS_STYLES
+        Break-In::DISCOGS_STYLES
+        Bubblegum::DISCOGS_STYLES
+        Chanson::DISCOGS_STYLES
+        Enka::DISCOGS_STYLES
+        Ethno-pop::DISCOGS_STYLES
+        Europop::DISCOGS_STYLES
+        Indie Pop::DISCOGS_STYLES
+        J-pop::DISCOGS_STYLES
+        K-pop::DISCOGS_STYLES
+        Karaoke::DISCOGS_STYLES
+        Kayōkyoku::DISCOGS_STYLES
+        Levenslied::DISCOGS_STYLES
+        Light Music::DISCOGS_STYLES
+        Music Hall::DISCOGS_STYLES
+        Néo Kyma::DISCOGS_STYLES
+        Novelty::DISCOGS_STYLES
+        Parody::DISCOGS_STYLES
+        Schlager::DISCOGS_STYLES
+        Vocal::DISCOGS_STYLES
+    Reggae::DISCOGS_RELEASE_GENRES
+        Azonto::DISCOGS_STYLES
+        Bubbling::DISCOGS_STYLES
+        Calypso::DISCOGS_STYLES
+        Dancehall::DISCOGS_STYLES
+        Dub::DISCOGS_STYLES
+        Dub Poetry::DISCOGS_STYLES
+        Junkanoo::DISCOGS_STYLES
+        Lovers Rock::DISCOGS_STYLES
+        Mento::DISCOGS_STYLES
+        Ragga::DISCOGS_STYLES
+        Rapso::DISCOGS_STYLES
+        Reggae::DISCOGS_STYLES
+        Reggae Gospel::DISCOGS_STYLES
+        Reggae-Pop::DISCOGS_STYLES
+        Rocksteady::DISCOGS_STYLES
+        Roots Reggae::DISCOGS_STYLES
+        Ska::DISCOGS_STYLES
+        Soca::DISCOGS_STYLES
+        Steel Band::DISCOGS_STYLES
+    Rock::DISCOGS_RELEASE_GENRES
+        Acid Rock::DISCOGS_STYLES
+        Acoustic::DISCOGS_STYLES
+        Alternative Rock::DISCOGS_STYLES
+        AOR::DISCOGS_STYLES
+        Arena Rock::DISCOGS_STYLES
+        Art Rock::DISCOGS_STYLES
+        Atmospheric Black Metal::DISCOGS_STYLES
+        Avantgarde::DISCOGS_STYLES
+        Beat::DISCOGS_STYLES
+        Black Metal::DISCOGS_STYLES
+        Blues Rock::DISCOGS_STYLES
+        Brit Pop::DISCOGS_STYLES
+        Classic Rock::DISCOGS_STYLES
+        Coldwave::DISCOGS_STYLES
+        Country Rock::DISCOGS_STYLES
+        Crust::DISCOGS_STYLES
+        Death Metal::DISCOGS_STYLES
+        Deathcore::DISCOGS_STYLES
+        Deathrock::DISCOGS_STYLES
+        Depressive Black Metal::DISCOGS_STYLES
+        Doo Wop::DISCOGS_STYLES
+        Doom Metal::DISCOGS_STYLES
+        Dream Pop::DISCOGS_STYLES
+        Emo::DISCOGS_STYLES
+        Ethereal::DISCOGS_STYLES
+        Experimental::DISCOGS_STYLES
+        Folk Metal::DISCOGS_STYLES
+        Folk Rock::DISCOGS_STYLES
+        Funeral Doom Metal::DISCOGS_STYLES
+        Funk Metal::DISCOGS_STYLES
+        Garage Rock::DISCOGS_STYLES
+        Glam::DISCOGS_STYLES
+        Goregrind::DISCOGS_STYLES
+        Goth Rock::DISCOGS_STYLES
+        Gothic Metal::DISCOGS_STYLES
+        Grindcore::DISCOGS_STYLES
+        Grunge::DISCOGS_STYLES
+        Hard Rock::DISCOGS_STYLES
+        Hardcore::DISCOGS_STYLES
+        Heavy Metal::DISCOGS_STYLES
+        Horror Rock::DISCOGS_STYLES
+        Indie Rock::DISCOGS_STYLES
+        Industrial::DISCOGS_STYLES
+        Krautrock::DISCOGS_STYLES
+        Lo-Fi::DISCOGS_STYLES
+        Lounge::DISCOGS_STYLES
+        Math Rock::DISCOGS_STYLES
+        Melodic Death Metal::DISCOGS_STYLES
+        Melodic Hardcore::DISCOGS_STYLES
+        Metalcore::DISCOGS_STYLES
+        Mod::DISCOGS_STYLES
+        NDW::DISCOGS_STYLES
+        Neofolk::DISCOGS_STYLES
+        New Wave::DISCOGS_STYLES
+        No Wave::DISCOGS_STYLES
+        Noise::DISCOGS_STYLES
+        Noisecore::DISCOGS_STYLES
+        Nu Metal::DISCOGS_STYLES
+        Oi::DISCOGS_STYLES
+        Parody::DISCOGS_STYLES
+        Pop Punk::DISCOGS_STYLES
+        Pop Rock::DISCOGS_STYLES
+        Pornogrind::DISCOGS_STYLES
+        Post Rock::DISCOGS_STYLES
+        Post-Hardcore::DISCOGS_STYLES
+        Post-Metal::DISCOGS_STYLES
+        Post-Punk::DISCOGS_STYLES
+        Power Metal::DISCOGS_STYLES
+        Power Pop::DISCOGS_STYLES
+        Power Violence::DISCOGS_STYLES
+        Prog Rock::DISCOGS_STYLES
+        Progressive Metal::DISCOGS_STYLES
+        Psychedelic Rock::DISCOGS_STYLES
+        Psychobilly::DISCOGS_STYLES
+        Pub Rock::DISCOGS_STYLES
+        Punk::DISCOGS_STYLES
+        Rock & Roll::DISCOGS_STYLES
+        Rock Opera::DISCOGS_STYLES
+        Rockabilly::DISCOGS_STYLES
+        Shoegaze::DISCOGS_STYLES
+        Ska::DISCOGS_STYLES
+        Skiffle::DISCOGS_STYLES
+        Sludge Metal::DISCOGS_STYLES
+        Soft Rock::DISCOGS_STYLES
+        Southern Rock::DISCOGS_STYLES
+        Space Rock::DISCOGS_STYLES
+        Speed Metal::DISCOGS_STYLES
+        Stoner Rock::DISCOGS_STYLES
+        Surf::DISCOGS_STYLES
+        Swamp Pop::DISCOGS_STYLES
+        Symphonic Rock::DISCOGS_STYLES
+        Technical Death Metal::DISCOGS_STYLES
+        Thrash::DISCOGS_STYLES
+        Twist::DISCOGS_STYLES
+        Viking Metal::DISCOGS_STYLES
+        Yé-Yé::DISCOGS_STYLES
+    Stage & Screen::DISCOGS_RELEASE_GENRES
+        Musical::DISCOGS_STYLES
+        Score::DISCOGS_STYLES
+        Soundtrack::DISCOGS_STYLES
+        Theme::DISCOGS_STYLES
+Discogs_Countries
+    Africa
+    America North
+    America South
+    Asia
+    Europe
+        Germany
+        UK
+    Oceania  
+Genres (MusicBee 2 Layer)
+    Afro-Pop
+        Afro-Pop::Genre
+        Afrobeat::Genre
+        Apala::Genre
+        Benga::Genre
+        Bikutsi::Genre
+        Cape Jazz::Genre
+        Chimurenga::Genre
+        Fuji::Genre
+        Highlife::Genre
+        Hiplife::Genre
+        Isicathamiya::Genre
+        Jit::Genre
+        Juju::Genre
+        Kizomba::Genre
+        Kuduro::Genre
+        Kwaito::Genre
+        Kwela::Genre
+        Makossa::Genre
+        Marrabenta::Genre
+        Mbalax::Genre
+        Mbaqanga::Genre
+        Mbube::Genre
+        Morna::Genre
+        Museve::Genre
+        Palm-Wine::Genre
+        Rai::Genre
+        Sakara::Genre
+        Salegy::Genre
+        Soukous::Genre
+        Taarab::Genre
+    Avant-Garde
+        Avant-Garde::Genre
+        Experimental::Genre
+        Lo-fi::Genre
+        Minimalist::Genre
+        Musique Concrete::Genre
+    Ballroom
+        Bolero::Genre
+        Cha-cha-cha::Genre
+        East Coast Swing::Genre
+        Foxtrot::Genre
+        Jive::Genre
+        Paso Doble::Genre
+        Quickstep::Genre
+        Rumba::Genre
+        Tango::Genre
+        Viennese Waltz::Genre
+        Waltz::Genre
+    Blues
+        Blues Rock::Genre
+        Blues::Genre
+        Country Blues::Genre
+        Delta Blues::Genre
+        Electric Blues::Genre
+        Fife and Drum Blues::Genre
+        Jump Blues::Genre
+        Piano Blues::Genre
+        Rhythmic Soul::Genre
+    Classical
+        Classical Music::Genre
+        Classical::Genre
+        Sonata::Genre
+        Symphony::Genre
+    Country
+        Alternative Country::Genre
+        Americana::Genre
+        Bakersfield Sound::Genre
+        Bluegrass::Genre
+        Boogie-Woogie::Genre
+        Close Harmony::Genre
+        Country Blues::Genre
+        Country Rock::Genre
+        Country::Genre
+        Honky Tonk::Genre
+        Nashville Sound/Countrypolitan::Genre
+        Neotraditional country::Genre
+        Outlaw Country::Genre
+        Polka::Genre
+        Progressive Bluegrass::Genre
+        Progressive Country::Genre
+        Revival::Genre
+        Rockabilly::Genre
+        Traditional Bluegrass::Genre
+        Western Country::Genre
+        Western Swing::Genre
+    Easy Listening
+        Background Music::Genre
+        Beautiful Music::Genre
+        Easy Listening::Genre
+        Elevator Music::Genre
+        Furniture Music::Genre
+        Lounge::Genre
+        Middle of the Road::Genre
+    Electronic
+        Acid Breaks::Genre
+        Acid Electronic::Genre
+        Acid House::Genre
+        Acid::Genre
+        Ambient House::Genre
+        Ambient::Genre
+        Big Beat::Genre
+        Bitcore::Genre
+        Breakbeat::Genre
+        Chillout::Genre
+        Classic Trance::Genre
+        Club-House::Genre
+        Club::Genre
+        Dance::Genre
+        Dark Ambient::Genre
+        Darkcore::Genre
+        Downtempo::Genre
+        Dream::Genre
+        Drum & Bass::Genre
+        Dubstep::Genre
+        Electro-Hop::Genre
+        Electro-House::Genre
+        Electro::Genre
+        Electroclash::Genre
+        Electronic Rock::Genre
+        Electronic::Genre
+        Electronica::Genre
+        Euro Trance::Genre
+        Euro-Dance::Genre
+        Euro-House::Genre
+        Euro-Techno::Genre
+        Folktronica::Genre
+        Fusion::Genre
+        Gabba::Genre
+        Glitch::Genre
+        Goa Trance::Genre
+        Goa::Genre
+        Happy Hardcore::Genre
+        Hard Trance::Genre
+        Hardcore Techno::Genre
+        Hardcore::Genre
+        Hardstyle Trance::Genre
+        Hi-NRG::Genre
+        House::Genre
+        IDM::Genre
+        Industrial::Genre
+        Instrumental::Genre
+        Italo-House::Genre
+        Meditative::Genre
+        Progressive Electronic::Genre
+        Progressive Trance::Genre
+        Psychedelic Trance::Genre
+        Psychedelic::Genre
+        Rave::Genre
+        Space::Genre
+        Squee::Genre
+        Tech Trance::Genre
+        Techno-Industrial::Genre
+        Techno::Genre
+        Trance::Genre
+        Trip-Hop::Genre
+        UK Garage::Genre
+        Uplifting::Genre
+        Vocal Trance::Genre
+    Folk
+        Alternative Folk::Genre
+        Anti-Folk::Genre
+        Ballad::Genre
+        Folk Metal::Genre
+        Folk Rock::Genre
+        Folk::Genre
+        Folklore::Genre
+        Folktronica::Genre
+        Indie Folk::Genre
+        National Folk::Genre
+        Neo-Folk::Genre
+        Power Ballad::Genre
+        Progressive Folk::Genre
+        Traditional Folk::Genre
+    Hip-Hop & Rap
+        Alternative Hip-Hop::Genre
+        Chicano Rap::Genre
+        Christian Gangsta Rap::Genre
+        Christian Rap::Genre
+        Crunk::Genre
+        Dirty Rap/Pornocore::Genre
+        East Coast Hip-Hop::Genre
+        G-Funk::Genre
+        Gangsta-Rap::Genre
+        Gangsta::Genre
+        Grime::Genre
+        Hip-Hop::Genre
+        Horrorcore::Genre
+        Hyphy::Genre
+        Latin Rap::Genre
+        Miami Bass::Genre
+        Midwest Hip-Hop::Genre
+        Political Hip-Hop::Genre
+        Rap Metal::Genre
+        Rap Rock::Genre
+        Rapcore::Genre
+        Southern Hip-Hop::Genre
+        Turntablism::Genre
+        West Coast Hip-Hop::Genre
+    Jazz
+        Acid Jazz::Genre
+        Asian American Jazz::Genre
+        Avant-Garde Jazz::Genre
+        Bass::Genre
+        Bebop::Genre
+        Big Band::Genre
+        Booty Bass::Genre
+        Cabaret::Genre
+        Calypso Jazz::Genre
+        Chamber Jazz::Genre
+        Cool Jazz::Genre
+        Crossover Jazz::Genre
+        Dixieland::Genre
+        Free Jazz::Genre
+        Gypsy Jazz::Genre
+        Hard Bop::Genre
+        Jazz Blues::Genre
+        Jazz Fusion::Genre
+        Jazz Rap::Genre
+        Jazz-Funk::Genre
+        Jazz-Rock::Genre
+        Jazz::Genre
+        Latin Jazz::Genre
+        M-Base::Genre
+        Mainstream Jazz::Genre
+        Mini-Jazz::Genre
+        Modal Jazz::Genre
+        Nu Jazz::Genre
+        Scat::Genre
+        Smooth Jazz::Genre
+        Soul Jazz::Genre
+        Swing::Genre
+        Trad Jazz::Genre
+        Vocal Jazz::Genre
+        West Coast Jazz::Genre
+    Latin American
+        Bachata::Genre
+        Baithak Gana::Genre
+        Bossa Nova::Genre
+        Calypso::Genre
+        Chutney Soca::Genre
+        Chutney::Genre
+        Cumbia::Genre
+        Kompa::Genre
+        Latin::Genre
+        Mambo::Genre
+        Merengue::Genre
+        Rock en Español::Genre
+        Salsa::Genre
+        Samba::Genre
+        Soca::Genre
+        Son::Genre
+        Tejano::Genre
+        Tropicalismo::Genre
+        Zouk::Genre
+    Other
+        Anime::Genre
+        Chanson::Genre
+        Comedy::Genre
+        Humour::Genre
+        March::Genre
+        Musical::Genre
+        National Anthem::Genre
+        Opera::Genre
+        Other::Genre
+        Pranks::Genre
+        Primus::Genre
+        Satire::Genre
+        Soundtrack::Genre
+        Speech::Genre
+        Worldbeat::Genre
+    Pop
+        A capella::Genre
+        Arab Pop::Genre
+        Austro-Pop::Genre
+        Balkan Pop::Genre
+        Baroque Pop::Genre
+        Britpop::Genre
+        Bubblegum Pop::Genre
+        Chinese Pop::Genre
+        Dance Pop::Genre
+        Disco Polo::Genre
+        Dream-Pop::Genre
+        Duet::Genre
+        Electro-Pop::Genre
+        Euro-Pop::Genre
+        Eurobeat::Genre
+        French Pop::Genre
+        Hong Kong and Cantonese Pop::Genre
+        Hong Kong English Pop::Genre
+        Indian Pop::Genre
+        Indie Pop::Genre
+        Indonesian Pop::Genre
+        Instrumental Pop::Genre
+        Iranian Pop::Genre
+        Italo-Dance::Genre
+        Italo-Disco::Genre
+        Jangle Pop::Genre
+        Japanese Pop::Genre
+        Jpop::Genre
+        Korean Pop::Genre
+        Latin Pop::Genre
+        Levenslied::Genre
+        Louisiana Swamp Pop::Genre
+        Mandarin Pop::Genre
+        Mexican Pop::Genre
+        Musica Popular Brasileira::Genre
+        Neder-Pop::Genre
+        New Romantic::Genre
+        Noise Pop::Genre
+        Operatic Pop::Genre
+        Pinoy Pop::Genre
+        Pop Folk::Genre
+        Pop Punk::Genre
+        Pop Rap::Genre
+        Pop Rock::Genre
+        Pop/Funk::Genre
+        Pop::Genre
+        Post-BritPop::Genre
+        Power Pop::Genre
+        Psychedelic Pop::Genre
+        Russian Pop::Genre
+        Sophisti-Pop::Genre
+        Space Age Pop::Genre
+        Sunshine Pop::Genre
+        Surf Pop::Genre
+        Synth-Pop::Genre
+        Taiwanese Pop::Genre
+        Teen Pop::Genre
+        Thai Pop::Genre
+        Traditional Pop Music::Genre
+        Turkish Pop::Genre
+        Vis-Pop::Genre
+        Wonky Pop::Genre
+    Reggae
+        2 Tone::Genre
+        Dancehall::Genre
+        Dub::Genre
+        Lovers Rock::Genre
+        Ragga::Genre
+        Reggae::Genre
+        Reggaefusion::Genre
+        Reggaeton::Genre
+        Rocksteady::Genre
+        Ska::Genre
+    Regional and National
+        Arabesque::Genre
+        Celtic::Genre
+        Chalga::Genre
+        Enka::Genre
+        Ethnic::Genre
+        Flamenco::Genre
+        Greek Entechno::Genre
+        Greek Laika::Genre
+        Indigenous Music::Genre
+        Mor Lam Sing::Genre
+        National Folk::Genre
+        Native American::Genre
+        Schlager::Genre
+        Traditional Folk::Genre
+        Tribal::Genre
+    Religious
+        Contemporary Christian::Genre
+        Gospel::Genre
+        Gregorian Chant::Genre
+        Hymn::Genre
+        Rap::Genre
+        Spiritual::Genre
+    Rock
+        Acid Punk::Genre
+        Acid Rock::Genre
+        Acoustic::Genre
+        Alternative Rock::Genre
+        Alternative::Genre
+        AlternRock::Genre
+        Anarcho-Punk::Genre
+        Beat::Genre
+        Black Metal::Genre
+        Blues Rock::Genre
+        Brutal Death Metal::Genre
+        Chamber Music::Genre
+        Chinese Rock::Genre
+        Christian Metal::Genre
+        Christian Rock::Genre
+        Classic Rock::Genre
+        Crossover Thrash Metal::Genre
+        Crossover::Genre
+        Crust Punk::Genre
+        Cult::Genre
+        Dark Cabaret::Genre
+        Darkwave::Genre
+        Death Metal::Genre
+        Deathcore::Genre
+        Deathrock::Genre
+        Desert Rock::Genre
+        Djent::Genre
+        Doom Metal::Genre
+        Drone Metal::Genre
+        Drum Solo::Genre
+        Electronic Rock::Genre
+        Emo::Genre
+        Fast Fusion::Genre
+        Folk Metal::Genre
+        Folk Rock::Genre
+        Freestyle::Genre
+        Funk Metal::Genre
+        Garage Rock::Genre
+        Glam Metal::Genre
+        Glam Rock::Genre
+        Gothic Metal::Genre
+        Gothic Rock::Genre
+        Gothic::Genre
+        Grindcore::Genre
+        Groove Metal::Genre
+        Grunge::Genre
+        Hard Rock::Genre
+        Hardcore Punk::Genre
+        Heavy Metal::Genre
+        Indie Rock::Genre
+        Indie::Genre
+        Industrial Metal::Genre
+        Industrial Rock::Genre
+        Instrumental Rock::Genre
+        J-Rock::Genre
+        Jungle::Genre
+        Math Rock::Genre
+        Mathcore::Genre
+        Melodic Death Metal::Genre
+        Melodic Metalcore::Genre
+        Metal::Genre
+        Metalcore::Genre
+        Negerpunk::Genre
+        New Age::Genre
+        New Prog::Genre
+        New Wave::Genre
+        Noise::Genre
+        Nu Metal::Genre
+        Oldies::Genre
+        Paisley Underground::Genre
+        Polsk Punk::Genre
+        Post-Grunge::Genre
+        Post-Hardcore::Genre
+        Post-Punk::Genre
+        Post-Rock::Genre
+        Power Metal::Genre
+        Progressive Death Metal::Genre
+        Progressive Metal::Genre
+        Progressive Rock::Genre
+        Psychedelic Rock::Genre
+        Psychobilly::Genre
+        Punk Rock::Genre
+        Punk::Genre
+        Rap Rock::Genre
+        Retro::Genre
+        Rock & Roll::Genre
+        Rock and Roll::Genre
+        Rock en Español::Genre
+        Rock::Genre
+        Screamo::Genre
+        Shoegazer::Genre
+        Slow Jam::Genre
+        Slow Rock::Genre
+        Sludge Metal::Genre
+        Soft Rock::Genre
+        Southern Rock::Genre
+        Space Rock::Genre
+        Speed Metal::Genre
+        Surf Rock::Genre
+        Symphonic Metal::Genre
+        Symphonic Rock::Genre
+        Technical Death Metal::Genre
+        Terror::Genre
+        Thrash Metal::Genre
+        Thrashcore::Genre
+        Top 40::Genre
+        Unblack Metal::Genre
+        Vocal::Genre
+        Weld::Genre
+        World Fusion::Genre
+    R&B
+        Boogie::Genre
+        Contemporary R&B::Genre
+        Deep Funk::Genre
+        Disco::Genre
+        Doo Wop::Genre
+        Funk::Genre
+        Go-Go::Genre
+        Hip-Hop Soul::Genre
+        Neo-Soul::Genre
+        New Jack Swing::Genre
+        Northern Soul::Genre
+        P-Funk::Genre
+        Post-Disco::Genre
+        R&B::Genre
+        Soul::Genre
+Genres (MusicBee 3 Layer)
+    Afro-Pop
+        Afro-Pop::Genre
+        Afrobeat::Genre
+        Apala::Genre
+        Benga::Genre
+        Bikutsi::Genre
+        Cape Jazz::Genre
+        Chimurenga::Genre
+        Fuji::Genre
+        Highlife::Genre
+        Hiplife::Genre
+        Isicathamiya::Genre
+        Jit::Genre
+        Juju::Genre
+        Kizomba::Genre
+        Kuduro::Genre
+        Kwaito::Genre
+        Kwela::Genre
+        Makossa::Genre
+        Marrabenta::Genre
+        Mbalax::Genre
+        Mbaqanga::Genre
+        Mbube::Genre
+        Morna::Genre
+        Museve::Genre
+        Palm-Wine::Genre
+        Rai::Genre
+        Sakara::Genre
+        Salegy::Genre
+        Soukous::Genre
+        Taarab::Genre
+    Avant-Garde
+        Avant-Garde::Genre
+        Experimental::Genre
+        Lo-fi::Genre
+        Minimalist::Genre
+        Musique Concrete::Genre
+    Ballroom
+        Bolero::Genre
+        Cha-cha-cha::Genre
+        East Coast Swing::Genre
+        Foxtrot::Genre
+        Jive::Genre
+        Paso Doble::Genre
+        Quickstep::Genre
+        Rumba::Genre
+        Tango::Genre
+        Viennese Waltz::Genre
+        Waltz::Genre
+    Blues
+        Blues Rock::Genre
+        Blues::Genre
+        Country Blues::Genre
+        Delta Blues::Genre
+        Electric Blues::Genre
+        Fife and Drum Blues::Genre
+        Jump Blues::Genre
+        Piano Blues::Genre
+        Rhythmic Soul::Genre
+    Classical
+        Classical Music::Genre
+        Classical::Genre
+        Sonata::Genre
+        Symphony::Genre
+    Country
+        Alternative Country::Genre
+        Americana::Genre
+        Bakersfield Sound::Genre
+        Bluegrass::Genre
+        Boogie-Woogie::Genre
+        Close Harmony::Genre
+        Country Blues::Genre
+        Country Rock::Genre
+        Country::Genre
+        Honky Tonk::Genre
+        Nashville Sound/Countrypolitan::Genre
+        Neotraditional country::Genre
+        Outlaw Country::Genre
+        Polka::Genre
+        Progressive Bluegrass::Genre
+        Progressive Country::Genre
+        Revival::Genre
+        Rockabilly::Genre
+        Traditional Bluegrass::Genre
+        Western Country::Genre
+        Western Swing::Genre
+    Easy Listening
+        Background Music::Genre
+        Beautiful Music::Genre
+        Easy Listening::Genre
+        Elevator Music::Genre
+        Furniture Music::Genre
+        Lounge::Genre
+        Middle of the Road::Genre
+    Electronic
+        Acid Electronic::Genre
+        Acid::Genre
+        Ambient::Genre
+        Bass Music
+            UK Garage::Genre
+            Dubstep::Genre
+            Drum & Bass::Genre
+        Bitcore::Genre
+        Breakbeat
+            Acid Breaks::Genre
+            Big Beat::Genre
+            Breakbeat::Genre
+        Chillout::Genre
+        Club::Genre
+        Dance::Genre
+        Dark Ambient::Genre
+        Darkcore::Genre
+        Downtempo::Genre
+        Dream::Genre
+        Electro-Hop::Genre
+        Electro::Genre
+        Electroclash::Genre
+        Electronic Rock::Genre
+        Electronic::Genre
+        Electronica::Genre
+        Euro-Dance::Genre
+        Folktronica::Genre
+        Fusion::Genre
+        Gabba::Genre
+        Glitch::Genre
+        Goa::Genre
+        Happy Hardcore::Genre
+        Hardcore::Genre
+        Hardstyle Trance::Genre
+        Hi-NRG::Genre
+        House
+            Acid House::Genre
+            Ambient House::Genre
+            Club-House::Genre
+            Electro-House::Genre
+            Euro-House::Genre
+            House::Genre
+            Italo-House::Genre
+        IDM::Genre
+        Industrial::Genre
+        Instrumental::Genre
+        Meditative::Genre
+        Progressive Electronic::Genre
+        Psychedelic::Genre
+        Rave::Genre
+        Space::Genre
+        Squee::Genre
+        Techno
+            Euro-Techno::Genre
+            Hardcore Techno::Genre
+            Techno-Industrial::Genre
+            Techno::Genre
+        Trance
+            Classic Trance::Genre
+            Euro Trance::Genre
+            Goa Trance::Genre
+            Hard Trance::Genre
+            Progressive Trance::Genre
+            Psychedelic Trance::Genre
+            Tech Trance::Genre
+            Trance::Genre
+            Uplifting::Genre
+            Vocal Trance::Genre
+        Trip-Hop::Genre
+    Folk
+        Alternative Folk::Genre
+        Anti-Folk::Genre
+        Ballad::Genre
+        Folk Metal::Genre
+        Folk Rock::Genre
+        Folk::Genre
+        Folklore::Genre
+        Folktronica::Genre
+        Indie Folk::Genre
+        National Folk::Genre
+        Neo-Folk::Genre
+        Power Ballad::Genre
+        Progressive Folk::Genre
+        Traditional Folk::Genre
+    Hip-Hop & Rap
+        Alternative Hip-Hop::Genre
+        Chicano Rap::Genre
+        Christian Gangsta Rap::Genre
+        Christian Rap::Genre
+        Crunk::Genre
+        Dirty Rap/Pornocore::Genre
+        East Coast Hip-Hop::Genre
+        G-Funk::Genre
+        Gangsta-Rap::Genre
+        Gangsta::Genre
+        Grime::Genre
+        Hip-Hop::Genre
+        Horrorcore::Genre
+        Hyphy::Genre
+        Latin Rap::Genre
+        Miami Bass::Genre
+        Midwest Hip-Hop::Genre
+        Political Hip-Hop::Genre
+        Rap Metal::Genre
+        Rap Rock::Genre
+        Rapcore::Genre
+        Southern Hip-Hop::Genre
+        Turntablism::Genre
+        West Coast Hip-Hop::Genre
+    Jazz
+        Acid Jazz::Genre
+        Asian American Jazz::Genre
+        Avant-Garde Jazz::Genre
+        Bass::Genre
+        Bebop::Genre
+        Big Band::Genre
+        Booty Bass::Genre
+        Cabaret::Genre
+        Calypso Jazz::Genre
+        Chamber Jazz::Genre
+        Cool Jazz::Genre
+        Crossover Jazz::Genre
+        Dixieland::Genre
+        Free Jazz::Genre
+        Gypsy Jazz::Genre
+        Hard Bop::Genre
+        Jazz Blues::Genre
+        Jazz Fusion::Genre
+        Jazz Rap::Genre
+        Jazz-Funk::Genre
+        Jazz-Rock::Genre
+        Jazz::Genre
+        Latin Jazz::Genre
+        M-Base::Genre
+        Mainstream Jazz::Genre
+        Mini-Jazz::Genre
+        Modal Jazz::Genre
+        Nu Jazz::Genre
+        Scat::Genre
+        Smooth Jazz::Genre
+        Soul Jazz::Genre
+        Swing::Genre
+        Trad Jazz::Genre
+        Vocal Jazz::Genre
+        West Coast Jazz::Genre
+    Latin American
+        Bachata::Genre
+        Baithak Gana::Genre
+        Bossa Nova::Genre
+        Calypso::Genre
+        Chutney Soca::Genre
+        Chutney::Genre
+        Cumbia::Genre
+        Kompa::Genre
+        Latin::Genre
+        Mambo::Genre
+        Merengue::Genre
+        Reggaeton::Genre
+        Rock en Español::Genre
+        Salsa::Genre
+        Samba::Genre
+        Soca::Genre
+        Son::Genre
+        Tejano::Genre
+        Tropicalismo::Genre
+        Zouk::Genre
+    Other
+        Anime::Genre
+        Chanson::Genre
+        Comedy::Genre
+        Humour::Genre
+        March::Genre
+        Musical::Genre
+        National Anthem::Genre
+        Opera::Genre
+        Other::Genre
+        Pranks::Genre
+        Primus::Genre
+        Satire::Genre
+        Soundtrack::Genre
+        Speech::Genre
+        Worldbeat::Genre
+    Pop
+        A capella::Genre
+        Arab Pop::Genre
+        Austro-Pop::Genre
+        Balkan Pop::Genre
+        Baroque Pop::Genre
+        Britpop::Genre
+        Bubblegum Pop::Genre
+        Chinese Pop::Genre
+        Dance Pop::Genre
+        Disco Polo::Genre
+        Dream-Pop::Genre
+        Duet::Genre
+        Electro-Pop::Genre
+        Euro-Pop::Genre
+        Eurobeat::Genre
+        French Pop::Genre
+        Hong Kong and Cantonese Pop::Genre
+        Hong Kong English Pop::Genre
+        Indian Pop::Genre
+        Indie Pop::Genre
+        Indonesian Pop::Genre
+        Instrumental Pop::Genre
+        Iranian Pop::Genre
+        Italo-Dance::Genre
+        Italo-Disco::Genre
+        Jangle Pop::Genre
+        Japanese Pop::Genre
+        Jpop::Genre
+        Korean Pop::Genre
+        Latin Pop::Genre
+        Levenslied::Genre
+        Louisiana Swamp Pop::Genre
+        Mandarin Pop::Genre
+        Mexican Pop::Genre
+        Musica Popular Brasileira::Genre
+        Neder-Pop::Genre
+        New Romantic::Genre
+        Noise Pop::Genre
+        Operatic Pop::Genre
+        Pinoy Pop::Genre
+        Pop Folk::Genre
+        Pop Punk::Genre
+        Pop Rap::Genre
+        Pop Rock::Genre
+        Pop/Funk::Genre
+        Pop::Genre
+        Post-BritPop::Genre
+        Power Pop::Genre
+        Psychedelic Pop::Genre
+        Russian Pop::Genre
+        Sophisti-Pop::Genre
+        Space Age Pop::Genre
+        Sunshine Pop::Genre
+        Surf Pop::Genre
+        Synth-Pop::Genre
+        Taiwanese Pop::Genre
+        Teen Pop::Genre
+        Thai Pop::Genre
+        Traditional Pop Music::Genre
+        Turkish Pop::Genre
+        Vis-Pop::Genre
+        Wonky Pop::Genre
+        World Fusion::Genre
+    Reggae
+        2 Tone::Genre
+        Dancehall::Genre
+            Ragga::Genre
+        Dub::Genre
+        Lovers Rock::Genre
+        Reggae::Genre
+        Reggaefusion::Genre
+        Rocksteady::Genre
+        Ska::Genre
+    Regional and National
+        Arabesque::Genre
+        Celtic::Genre
+        Chalga::Genre
+        Enka::Genre
+        Ethnic::Genre
+        Flamenco::Genre
+        Greek Entechno::Genre
+        Greek Laika::Genre
+        Indigenous Music::Genre
+        Mor Lam Sing::Genre
+        National Folk::Genre
+        Native American::Genre
+        Schlager::Genre
+        Traditional Folk::Genre
+        Tribal::Genre
+    Religious
+        Contemporary Christian::Genre
+        Gospel::Genre
+        Gregorian Chant::Genre
+        Hymn::Genre
+        Rap::Genre
+        Spiritual::Genre
+    Rock
+        Acid Rock::Genre
+        Acoustic::Genre
+        Alternative Rock::Genre
+        Alternative::Genre
+        AlternRock::Genre
+        Beat::Genre
+        Blues Rock::Genre
+        Chamber Music::Genre
+        Chinese Rock::Genre
+        Christian Rock::Genre
+        Classic Rock::Genre
+        Crossover::Genre
+        Cult::Genre
+        Dark Cabaret::Genre
+        Darkwave::Genre
+        Deathcore::Genre
+        Deathrock::Genre
+        Desert Rock::Genre
+        Djent::Genre
+        Drum Solo::Genre
+        Electronic Rock::Genre
+        Emo::Genre
+        Fast Fusion::Genre
+        Folk Rock::Genre
+        Freestyle::Genre
+        Garage Rock::Genre
+        Glam Rock::Genre
+        Gothic Rock::Genre
+        Gothic::Genre
+        Grunge::Genre
+        Hard Rock::Genre
+        Indie Rock::Genre
+        Indie::Genre
+        Industrial Rock::Genre
+        Instrumental Rock::Genre
+        J-Rock::Genre
+        Jungle::Genre
+        Math Rock::Genre
+        Mathcore::Genre
+        Metal
+            Black Metal::Genre
+            Brutal Death Metal::Genre
+            Christian Metal::Genre
+            Crossover Thrash Metal::Genre
+            Death Metal::Genre
+            Doom Metal::Genre
+            Drone Metal::Genre
+            Folk Metal::Genre
+            Funk Metal::Genre
+            Glam Metal::Genre
+            Gothic Metal::Genre
+            Grindcore::Genre
+            Groove Metal::Genre
+            Heavy Metal::Genre
+            Industrial Metal::Genre
+            Melodic Death Metal::Genre
+            Melodic Metalcore::Genre
+            Metal::Genre
+            Metalcore::Genre
+            Nu Metal::Genre
+            Power Metal::Genre
+            Progressive Death Metal::Genre
+            Progressive Metal::Genre
+            Sludge Metal::Genre
+            Speed Metal::Genre
+            Symphonic Metal::Genre
+            Technical Death Metal::Genre
+            Thrash Metal::Genre
+            Unblack Metal::Genre
+        New Age::Genre
+        New Prog::Genre
+        New Wave::Genre
+        Noise::Genre
+        Oldies::Genre
+        Paisley Underground::Genre
+        Post-Grunge::Genre
+        Post-Hardcore::Genre
+        Post-Rock::Genre
+        Progressive Rock::Genre
+        Psychedelic Rock::Genre
+        Psychobilly::Genre
+        Punk
+            Acid Punk::Genre
+            Anarcho-Punk::Genre
+            Crust Punk::Genre
+            Hardcore Punk::Genre
+            Negerpunk::Genre
+            Polsk Punk::Genre
+            Post-Punk::Genre
+            Punk Rock::Genre
+            Punk::Genre
+        Rap Rock::Genre
+        Retro::Genre
+        Rock & Roll::Genre
+        Rock and Roll::Genre
+        Rock en Español::Genre
+        Rock::Genre
+        Screamo::Genre
+        Shoegazer::Genre
+        Slow Jam::Genre
+        Slow Rock::Genre
+        Soft Rock::Genre
+        Southern Rock::Genre
+        Space Rock::Genre
+        Surf Rock::Genre
+        Symphonic Rock::Genre
+        Terror::Genre
+        Thrashcore::Genre
+        Top 40::Genre
+        Vocal::Genre
+        Weld::Genre
+    R&B
+        Boogie::Genre
+        Contemporary R&B::Genre
+        Deep Funk::Genre
+        Disco::Genre
+        Doo Wop::Genre
+        Funk::Genre
+        Go-Go::Genre
+        Hip-Hop Soul::Genre
+        Neo-Soul::Genre
+        New Jack Swing::Genre
+        Northern Soul::Genre
+        P-Funk::Genre
+        Post-Disco::Genre
+        R&B::Genre
+        Soul::Genre
+Genres (MusicBee 2 Layer-Community Version)
+    Afro-Pop
+        Afro-Pop::Genre
+        Afrobeat::Genre
+        Apala::Genre
+        Benga::Genre
+        Bikutsi::Genre
+        Cape Jazz::Genre
+        Chimurenga::Genre
+        Fuji::Genre
+        Highlife::Genre
+        Hiplife::Genre
+        Isicathamiya::Genre
+        Jit::Genre
+        Juju::Genre
+        Kizomba::Genre
+        Kuduro::Genre
+        Kwaito::Genre
+        Kwela::Genre
+        Makossa::Genre
+        Marrabenta::Genre
+        Mbalax::Genre
+        Mbaqanga::Genre
+        Mbube::Genre
+        Morna::Genre
+        Museve::Genre
+        Palm-Wine::Genre
+        Rai::Genre
+        Sakara::Genre
+        Salegy::Genre
+        Soukous::Genre
+        Taarab::Genre
+    Avant-Garde
+        Avant-Garde::Genre
+        Experimental::Genre
+        Lo-fi::Genre
+        Minimalist::Genre
+        Musique Concrete::Genre
+    Ballroom
+        Bolero::Genre
+        Cha-cha-cha::Genre
+        East Coast Swing::Genre
+        Foxtrot::Genre
+        Jive::Genre
+        Paso Doble::Genre
+        Quickstep::Genre
+        Rumba::Genre
+        Tango::Genre
+        Viennese Waltz::Genre
+        Waltz::Genre
+    Blues
+        Blues::Genre
+        Blues Rock::Genre
+        Country Blues::Genre
+        Delta Blues::Genre
+        Electric Blues::Genre
+        Fife and Drum Blues::Genre
+        Jump Blues::Genre
+        Piano Blues::Genre
+        Rhythmic Soul::Genre
+    Classical
+        Classical Music::Genre
+        Classical::Genre
+        Sonata::Genre
+        Symphony::Genre
+    Country
+        Alternative Country::Genre
+        Americana::Genre
+        Bakersfield Sound::Genre
+        Bluegrass::Genre
+        Boogie-Woogie::Genre
+        Close Harmony::Genre
+        Country Blues::Genre
+        Country Rock::Genre
+        Country::Genre
+        Honky Tonk::Genre
+        Nashville Sound/Countrypolitan::Genre
+        Neotraditional country::Genre
+        Outlaw Country::Genre
+        Polka::Genre
+        Progressive Bluegrass::Genre
+        Progressive Country::Genre
+        Revival::Genre
+        Rockabilly::Genre
+        Traditional Bluegrass::Genre
+        Western Country::Genre
+        Western Swing::Genre
+    Easy Listening
+        Background Music::Genre
+        Beautiful Music::Genre
+        Easy Listening::Genre
+        Elevator Music::Genre
+        Furniture Music::Genre
+        Lounge::Genre
+        Middle of the Road::Genre
+        Muzak::Genre
+    Electronic
+        Acid Breaks::Genre
+        Acid Electronic::Genre
+        Acid House::Genre
+        Acid::Genre
+        Ambient House::Genre
+        Ambient::Genre
+        Bass Music::Genre
+        Berlin School::Genre
+        Big Beat::Genre
+        Bitcore::Genre
+        Breakbeat::Genre
+        Breakcore::Genre
+        Chillout::Genre
+        Chiptune::Genre
+        Classic Trance::Genre
+        Club::Genre
+        Club-House::Genre
+        Dance::Genre
+        Dark Ambient::Genre
+        Darkcore::Genre
+        Disco
+        Downtempo::Genre
+        Dream::Genre
+        Drum & Bass::Genre
+        Dubstep::Genre
+        Dubtechno::Genre
+        Dubtronica::Genre
+        Electro::Genre
+        Electro-Hop::Genre
+        Electro-House::Genre
+        Electroclash::Genre
+        Electronic Rock::Genre
+        Electronic::Genre
+        Electronica::Genre
+        Euro Trance::Genre
+        Euro-Dance::Genre
+        Euro-House::Genre
+        Euro-Techno::Genre
+        Folktronica::Genre
+        Footwork::Genre
+        Fusion::Genre
+        Gabba::Genre
+        Glitch::Genre
+        Goa Trance::Genre
+        Goa::Genre
+        Halftime::Genre
+        Juke::Genre
+        Happy Hardcore::Genre
+        Hard Trance::Genre
+        Hardcore Techno::Genre
+        Hardcore::Genre
+        Hardstyle Trance::Genre
+        Hi-NRG::Genre
+        House::Genre
+        IDM::Genre
+        Industrial::Genre
+        Instrumental::Genre
+        Italo-House::Genre
+        Jazztronica::Genre
+        Meditative::Genre
+        Miami Bass::Genre
+        Nu-disco::Genre
+        Post-disco::Genre
+        Progressive Electronic::Genre
+        Progressive Trance::Genre
+        Psychedelic Trance::Genre
+        Psychedelic::Genre
+        Rave::Genre
+        Space::Genre
+        Squee::Genre
+        Tech Trance::Genre
+        Techno::Genre
+        Techno-Industrial::Genre
+        Trance::Genre
+        Trip-Hop::Genre
+        UK Bass::Genre
+        UK Garage::Genre
+        Uplifting Trance::Genre
+        Vaporwave::Genre
+        Vocal Trance::Genre
+    Folk
+        Alternative Folk::Genre
+        Anti-Folk::Genre
+        Ballad::Genre
+        Folk Metal::Genre
+        Folk Rock::Genre
+        Folk::Genre
+        Folklore::Genre
+        Folktronica::Genre
+        Indie Folk::Genre
+        National Folk::Genre
+        Neo-Folk::Genre
+        Power Ballad::Genre
+        Progressive Folk::Genre
+        Traditional Folk::Genre
+    Hip-Hop & Rap
+        Afro-trap::Genre
+        Afroswing::Genre
+        Alternative Hip-Hop::Genre
+        Chicano Rap::Genre
+        Chopped and Screwed::Genre
+        Christian Gangsta Rap::Genre
+        Christian Rap::Genre
+        Crunk::Genre
+        Dirty Rap/Pornocore::Genre
+        East Coast Hip-Hop::Genre
+        Emo Rap::Genre
+        G-Funk::Genre
+        Gangsta::Genre
+        Gangsta-Rap::Genre
+        Grime::Genre
+        Hip-Hop::Genre
+        Hip-Hop Fusion::Genre
+        Horrorcore::Genre
+        Hyphy::Genre
+        Instrumental Hip-Hop::Genre
+        Latin Rap::Genre
+        Miami Bass::Genre
+        Midwest Hip-Hop::Genre
+        Mumble Rap::Genre
+        Political Hip-Hop::Genre
+        Rap::Genre
+        Rap Metal::Genre
+        Rap Rock::Genre
+        Rapcore::Genre
+        Southern Hip-Hop::Genre
+        Trap::Genre
+        Turntablism::Genre
+        UK Trap::Genre
+        West Coast Hip-Hop::Genre
+    Jazz
+        Acid Jazz::Genre
+        Asian American Jazz::Genre
+        Avant-Garde Jazz::Genre
+        Bass::Genre
+        Bebop::Genre
+        Big Band::Genre
+        Booty Bass::Genre
+        Cabaret::Genre
+        Calypso Jazz::Genre
+        Chamber Jazz::Genre
+        Cool Jazz::Genre
+        Crossover Jazz::Genre
+        Dixieland::Genre
+        Free Jazz::Genre
+        Gypsy Jazz::Genre
+        Hard Bop::Genre
+        Jazz::Genre
+        Jazz Blues::Genre
+        Jazz-Funk::Genre
+        Jazz Fusion::Genre
+        Jazz Rap::Genre
+        Jazz-Rock::Genre
+        Latin Jazz::Genre
+        M-Base::Genre
+        Mainstream Jazz::Genre
+        Mini-Jazz::Genre
+        Modal Jazz::Genre
+        Nu Jazz::Genre
+        Scat::Genre
+        Smooth Jazz::Genre
+        Soul Jazz::Genre
+        Swing::Genre
+        Trad Jazz::Genre
+        Vocal Jazz::Genre
+        West Coast Jazz::Genre
+    Latin American
+        Bachata::Genre
+        Baithak Gana::Genre
+        Bossa Nova::Genre
+        Calypso::Genre
+        Chicha::Genre
+        Chutney Soca::Genre
+        Chutney::Genre
+        Cumbia::Genre
+        Kompa::Genre
+        Latin::Genre
+        Mambo::Genre
+        Merengue::Genre
+        Rock en Español::Genre
+        Salsa::Genre
+        Samba::Genre
+        Soca::Genre
+        Son::Genre
+        Tejano::Genre
+        Tropicalismo::Genre
+        Zouk::Genre
+    Other
+        Anime::Genre
+        Chanson::Genre
+        Comedy::Genre
+        Humour::Genre
+        March::Genre
+        Misc::Genre
+        Musical::Genre
+        National Anthem::Genre
+        Opera::Genre
+        Other::Genre
+        Pranks::Genre
+        Primus::Genre
+        Satire::Genre
+        Soundtrack::Genre
+        Speech::Genre
+        Worldbeat::Genre
+    Pop
+        A capella::Genre
+        Arab Pop::Genre
+        Art Pop::Genre
+        Austro-Pop::Genre
+        Balkan Pop::Genre
+        Baroque Pop::Genre
+        Britpop::Genre
+        Bubblegum Pop::Genre
+        Chinese Pop::Genre
+        Dance Pop::Genre
+        Disco Polo::Genre
+        Dream-Pop::Genre
+        Duet::Genre
+        Electro-Pop::Genre
+        Euro-Pop::Genre
+        Eurobeat::Genre
+        French Pop::Genre
+        Hong Kong and Cantonese Pop::Genre
+        Hong Kong English Pop::Genre
+        Indian Pop::Genre
+        Indie Pop::Genre
+        Indonesian Pop::Genre
+        Instrumental Pop::Genre
+        Iranian Pop::Genre
+        Italo-Dance::Genre
+        Italo-Disco::Genre
+        Jangle Pop::Genre
+        Japanese Pop::Genre
+        Jpop::Genre
+        Korean Pop::Genre
+        Latin Pop::Genre
+        Levenslied::Genre
+        Louisiana Swamp Pop::Genre
+        Mandarin Pop::Genre
+        Mexican Pop::Genre
+        Musica Popular Brasileira::Genre
+        Neder-Pop::Genre
+        New Romantic::Genre
+        Noise Pop::Genre
+        Operatic Pop::Genre
+        Pinoy Pop::Genre
+        Pop Folk::Genre
+        Pop Punk::Genre
+        Pop Rap::Genre
+        Pop Rock::Genre
+        Pop::Genre
+        Pop/Funk::Genre
+        Post-BritPop::Genre
+        Power Pop::Genre
+        Psychedelic Pop::Genre
+        Russian Pop::Genre
+        Sophisti-Pop::Genre
+        Space Age Pop::Genre
+        Sunshine Pop::Genre
+        Surf Pop::Genre
+        Synth-Pop::Genre
+        Taiwanese Pop::Genre
+        Teen Pop::Genre
+        Thai Pop::Genre
+        Traditional Pop Music::Genre
+        Turkish Pop::Genre
+        Vis-Pop::Genre
+        Wonky Pop::Genre
+    Reggae
+        2 Tone::Genre
+        Dancehall::Genre
+        Dub::Genre
+        Lovers Rock::Genre
+        Ragga::Genre
+        Reggae::Genre
+        Reggaefusion::Genre
+        Reggaeton::Genre
+        Rocksteady::Genre
+        Ska::Genre
+    Regional and National
+        Arabesque::Genre
+        Celtic::Genre
+        Chalga::Genre
+        Enka::Genre
+        Ethnic::Genre
+        Flamenco::Genre
+        Greek Entechno::Genre
+        Greek Laika::Genre
+        Indigenous Music::Genre
+        Mor Lam Sing::Genre
+        National Folk::Genre
+        Native American::Genre
+        Schlager::Genre
+        Traditional Folk::Genre
+        Tribal::Genre
+    Religious
+        Contemporary Christian::Genre
+        Gospel::Genre
+        Gregorian Chant::Genre
+        Hymn::Genre
+        Rap::Genre
+        Spiritual::Genre
+    Rock
+        Acid Punk::Genre
+        Acid Rock::Genre
+        Acoustic::Genre
+        Alternative Rock::Genre
+        Alternative::Genre
+        AlternRock::Genre
+        Anarcho-Punk::Genre
+        Beat::Genre
+        Black Metal::Genre
+        Blues Rock::Genre
+        Brutal Death Metal::Genre
+        Chamber Music::Genre
+        Chinese Rock::Genre
+        Christian Metal::Genre
+        Christian Rock::Genre
+        Classic Rock::Genre
+        Crossover Thrash Metal::Genre
+        Crossover::Genre
+        Crust Punk::Genre
+        Cult::Genre
+        Dark Cabaret::Genre
+        Darkwave::Genre
+        Death Metal::Genre
+        Deathcore::Genre
+        Deathrock::Genre
+        Desert Rock::Genre
+        Djent::Genre
+        Doom Metal::Genre
+        Drone Metal::Genre
+        Drum Solo::Genre
+        Electronic Rock::Genre
+        Emo::Genre
+        Fast Fusion::Genre
+        Folk Metal::Genre
+        Folk Rock::Genre
+        Freestyle::Genre
+        Funk Metal::Genre
+        Garage Rock::Genre
+        Glam Metal::Genre
+        Glam Rock::Genre
+        Gothic Metal::Genre
+        Gothic Rock::Genre
+        Gothic::Genre
+        Grindcore::Genre
+        Groove Metal::Genre
+        Grunge::Genre
+        Hard Rock::Genre
+        Hardcore Punk::Genre
+        Heavy Metal::Genre
+        Indie Rock::Genre
+        Indie::Genre
+        Industrial Metal::Genre
+        Industrial Rock::Genre
+        Instrumental Rock::Genre
+        J-Rock::Genre
+        Jungle::Genre
+        Math Rock::Genre
+        Mathcore::Genre
+        Melodic Death Metal::Genre
+        Melodic Metalcore::Genre
+        Metal::Genre
+        Metalcore::Genre
+        Negerpunk::Genre
+        New Age::Genre
+        New Prog::Genre
+        New Wave::Genre
+        Noise::Genre
+        Nu Metal::Genre
+        Oldies::Genre
+        Paisley Underground::Genre
+        Polsk Punk::Genre
+        Post-Grunge::Genre
+        Post-Hardcore::Genre
+        Post-Punk::Genre
+        Post-Rock::Genre
+        Power Metal::Genre
+        Progressive Death Metal::Genre
+        Progressive Metal::Genre
+        Progressive Rock::Genre
+        Psychedelic Rock::Genre
+        Psychobilly::Genre
+        Punk Rock::Genre
+        Punk::Genre
+        Rap Rock::Genre
+        Retro::Genre
+        Rock & Roll::Genre
+        Rock and Roll::Genre
+        Rock en Español::Genre
+        Rock::Genre
+        Screamo::Genre
+        Shoegazer::Genre
+        Slow Jam::Genre
+        Slow Rock::Genre
+        Sludge Metal::Genre
+        Soft Rock::Genre
+        Southern Rock::Genre
+        Space Rock::Genre
+        Speed Metal::Genre
+        Surf Rock::Genre
+        Symphonic Metal::Genre
+        Symphonic Rock::Genre
+        Technical Death Metal::Genre
+        Terror::Genre
+        Thrash Metal::Genre
+        Thrashcore::Genre
+        Top 40::Genre
+        Unblack Metal::Genre
+        Vocal::Genre
+        Weld::Genre
+        World Fusion::Genre
+    R&B
+        Boogie::Genre
+        Contemporary R&B::Genre
+        Deep Funk::Genre
+        Disco::Genre
+        Doo Wop::Genre
+        Funk::Genre
+        Go-Go::Genre
+        Hip-Hop Soul::Genre
+        Neo-Soul::Genre
+        New Jack Swing::Genre
+        Northern Soul::Genre
+        Nu-disco::Genre
+        P-Funk::Genre
+        Post-disco::Genre
+        R&B::Genre
+        Soul::Genre
+Genres (MusicBee 3 Layer-Community Version)
+    Afro-Pop
+        Afro-Pop::Genre
+        Afrobeat::Genre
+        Apala::Genre
+        Benga::Genre
+        Bikutsi::Genre
+        Cape Jazz::Genre
+        Chimurenga::Genre
+        Fuji::Genre
+        Highlife::Genre
+        Hiplife::Genre
+        Isicathamiya::Genre
+        Jit::Genre
+        Juju::Genre
+        Kizomba::Genre
+        Kuduro::Genre
+        Kwaito::Genre
+        Kwela::Genre
+        Makossa::Genre
+        Marrabenta::Genre
+        Mbalax::Genre
+        Mbaqanga::Genre
+        Mbube::Genre
+        Morna::Genre
+        Museve::Genre
+        Palm-Wine::Genre
+        Rai::Genre
+        Sakara::Genre
+        Salegy::Genre
+        Soukous::Genre
+        Taarab::Genre
+    Avant-Garde
+        Avant-Garde::Genre
+        Experimental::Genre
+        Lo-fi::Genre
+        Minimalist::Genre
+        Musique Concrete::Genre
+    Ballroom
+        Ballroom::Genre
+        Bolero::Genre
+        Cha-cha-cha::Genre
+        East Coast Swing::Genre
+        Foxtrot::Genre
+        Jive::Genre
+        Paso Doble::Genre
+        Quickstep::Genre
+        Rumba::Genre
+        Tango::Genre
+        Viennese Waltz::Genre
+        Waltz::Genre
+    Blues
+        Blues::Genre
+        Blues Rock::Genre
+        Country Blues::Genre
+        Delta Blues::Genre
+        Electric Blues::Genre
+        Fife and Drum Blues::Genre
+        Jump Blues::Genre
+        Piano Blues::Genre
+        Rhythmic Soul::Genre
+    Classical
+        Classical Music::Genre
+        Classical::Genre
+        Sonata::Genre
+        Symphony::Genre
+    Country
+        Alternative Country::Genre
+        Americana::Genre
+        Bakersfield Sound::Genre
+        Bluegrass::Genre
+        Boogie-Woogie::Genre
+        Close Harmony::Genre
+        Country::Genre
+        Country Blues::Genre
+        Country Rock::Genre
+        Honky Tonk::Genre
+        Nashville Sound/Countrypolitan::Genre
+        Neotraditional country::Genre
+        Outlaw Country::Genre
+        Polka::Genre
+        Progressive Bluegrass::Genre
+        Progressive Country::Genre
+        Revival::Genre
+        Rockabilly::Genre
+        Traditional Bluegrass::Genre
+        Western Country::Genre
+        Western Swing::Genre
+    Easy Listening
+        Background Music::Genre
+        Beautiful Music::Genre
+        Easy Listening::Genre
+        Elevator Music::Genre
+        Furniture Music::Genre
+        Lounge::Genre
+        Middle of the Road::Genre
+        Muzak::Genre
+    Electronic
+        Acid Electronic::Genre
+        Acid::Genre
+        Ambient::Genre
+        Bass Music
+            Bass Music::Genre
+            Breakcore::Genre
+            Drum & Bass::Genre
+            Dubstep::Genre
+            Footwork::Genre
+            Halftime::Genre
+            Miami Bass::Genre
+            UK Bass::Genre
+            UK Garage::Genre
+        Bitcore::Genre
+        Breakbeat
+            Acid Breaks::Genre
+            Big Beat::Genre
+            Breakbeat::Genre
+        Chillout::Genre
+        Chiptune::Genre
+        Club::Genre
+        Dance::Genre
+        Dark Ambient::Genre
+        Darkcore::Genre
+        Disco
+            Disco::Genre
+            Nu-disco::Genre
+            Post-disco::Genre
+        Downtempo::Genre
+        Dream::Genre
+        Electro::Genre
+        Electro-Hop::Genre
+        Electroclash::Genre
+        Electronic Rock::Genre
+        Electronic::Genre
+        Electronica
+            Berlin School::Genre
+            Dubtronica::Genre
+            Folktronica::Genre
+            Electronica::Genre
+            Jazztronica::Genre
+        Euro-Dance::Genre
+        Fusion::Genre
+        Gabba::Genre
+        Glitch::Genre
+        Goa::Genre
+        Juke::Genre
+        Happy Hardcore::Genre
+        Hardcore::Genre
+        Hardstyle Trance::Genre
+        Hi-NRG::Genre
+        House
+            Ambient House::Genre
+            Acid House::Genre
+            Club-House::Genre
+            Electro-House::Genre
+            Euro-House::Genre
+            Italo-House::Genre
+            House::Genre
+        IDM::Genre
+        Industrial::Genre
+        Instrumental::Genre
+        Meditative::Genre
+        Progressive Electronic::Genre
+        Psychedelic::Genre
+        Rave::Genre
+        Space::Genre
+        Squee::Genre
+        Techno
+            Dubtechno::Genre
+            Hardcore Techno::Genre
+            Euro-Techno::Genre
+            Techno::Genre
+            Techno-Industrial::Genre
+        Trance
+            Classic Trance::Genre
+            Euro Trance::Genre
+            Hard Trance::Genre
+            Goa Trance::Genre
+            Progressive Trance::Genre
+            Psychedelic Trance::Genre
+            Tech Trance::Genre
+            Trance::Genre
+            Vocal Trance::Genre
+            Uplifting Trance::Genre
+        Trip-Hop::Genre
+        Vaporwave::Genre
+    Folk
+        Alternative Folk::Genre
+        Anti-Folk::Genre
+        Ballad::Genre
+        Folk Metal::Genre
+        Folk Rock::Genre
+        Folk::Genre
+        Folklore::Genre
+        Folktronica::Genre
+        Indie Folk::Genre
+        National Folk::Genre
+        Neo-Folk::Genre
+        Power Ballad::Genre
+        Progressive Folk::Genre
+        Traditional Folk::Genre
+    Hip-Hop & Rap
+        Alternative Hip-Hop::Genre
+        Chicano Rap::Genre
+        Chopped and Screwed::Genre
+        Christian Gangsta Rap::Genre
+        Christian Rap::Genre
+        Crunk::Genre
+        Dirty Rap/Pornocore::Genre
+        East Coast Hip-Hop::Genre
+        G-Funk::Genre
+        Gangsta::Genre
+        Gangsta-Rap::Genre
+        Grime::Genre
+        Hip-Hop::Genre
+        Hip-Hop Fusion
+            Afroswing::Genre
+            Emo Rap::Genre
+            Hip-Hop Fusion::Genre
+            Instrumental Hip-Hop::Genre
+            Mumble Rap::Genre
+            Trap::Genre
+            UK Trap::Genre
+        Horrorcore::Genre
+        Hyphy::Genre
+        Latin Rap::Genre
+        Miami Bass::Genre
+        Midwest Hip-Hop::Genre
+        Political Hip-Hop::Genre
+        Rap::Genre
+        Rap Metal::Genre
+        Rap Rock::Genre
+        Rapcore::Genre
+        Southern Hip-Hop::Genre
+        Turntablism::Genre
+        West Coast Hip-Hop::Genre
+    Jazz
+        Acid Jazz::Genre
+        Asian American Jazz::Genre
+        Avant-Garde Jazz::Genre
+        Bass::Genre
+        Bebop::Genre
+        Big Band::Genre
+        Booty Bass::Genre
+        Cabaret::Genre
+        Calypso Jazz::Genre
+        Chamber Jazz::Genre
+        Cool Jazz::Genre
+        Crossover Jazz::Genre
+        Dixieland::Genre
+        Free Jazz::Genre
+        Gypsy Jazz::Genre
+        Hard Bop::Genre
+        Jazz::Genre
+        Jazz Blues::Genre
+        Jazz-Funk::Genre
+        Jazz Fusion::Genre
+        Jazz Rap::Genre
+        Jazz-Rock::Genre
+        Latin Jazz::Genre
+        M-Base::Genre
+        Mainstream Jazz::Genre
+        Mini-Jazz::Genre
+        Modal Jazz::Genre
+        Nu Jazz::Genre
+        Scat::Genre
+        Smooth Jazz::Genre
+        Soul Jazz::Genre
+        Swing::Genre
+        Trad Jazz::Genre
+        Vocal Jazz::Genre
+        West Coast Jazz::Genre
+    Latin American
+        Bachata::Genre
+        Baithak Gana::Genre
+        Bossa Nova::Genre
+        Calypso::Genre
+        Chutney Soca::Genre
+        Chutney::Genre
+        Cumbia::Genre
+            Chicha::Genre
+        Kompa::Genre
+        Latin::Genre
+        Mambo::Genre
+        Merengue::Genre
+        Reggaeton::Genre
+        Rock en Español::Genre
+        Salsa::Genre
+        Samba::Genre
+        Soca::Genre
+        Son::Genre
+        Tejano::Genre
+        Tropicalismo::Genre
+        Zouk::Genre
+    Other
+        Anime::Genre
+        Chanson::Genre
+        Comedy::Genre
+        Humour::Genre
+        March::Genre
+        Misc::Genre
+        Musical::Genre
+        National Anthem::Genre
+        Opera::Genre
+        Other::Genre
+        Pranks::Genre
+        Primus::Genre
+        Satire::Genre
+        Soundtrack::Genre
+        Speech::Genre
+        Worldbeat::Genre
+    Pop
+        A capella::Genre
+        Arab Pop::Genre
+        Art Pop::Genre
+        Austro-Pop::Genre
+        Balkan Pop::Genre
+        Baroque Pop::Genre
+        Britpop::Genre
+        Bubblegum Pop::Genre
+        Chinese Pop::Genre
+        Dance Pop::Genre
+        Disco Polo::Genre
+        Dream-Pop::Genre
+        Duet::Genre
+        Electro-Pop::Genre
+        Euro-Pop::Genre
+        Eurobeat::Genre
+        French Pop::Genre
+        Hong Kong and Cantonese Pop::Genre
+        Hong Kong English Pop::Genre
+        Indian Pop::Genre
+        Indie Pop::Genre
+        Indonesian Pop::Genre
+        Instrumental Pop::Genre
+        Iranian Pop::Genre
+        Italo-Dance::Genre
+        Italo-Disco::Genre
+        Jangle Pop::Genre
+        Japanese Pop::Genre
+        Jpop::Genre
+        Korean Pop::Genre
+        Latin Pop::Genre
+        Levenslied::Genre
+        Louisiana Swamp Pop::Genre
+        Mandarin Pop::Genre
+        Mexican Pop::Genre
+        Musica Popular Brasileira::Genre
+        Neder-Pop::Genre
+        New Romantic::Genre
+        Noise Pop::Genre
+        Operatic Pop::Genre
+        Pinoy Pop::Genre
+        Pop Folk::Genre
+        Pop Punk::Genre
+        Pop Rap::Genre
+        Pop Rock::Genre
+        Pop::Genre
+        Pop/Funk::Genre
+        Post-BritPop::Genre
+        Power Pop::Genre
+        Psychedelic Pop::Genre
+        Russian Pop::Genre
+        Sophisti-Pop::Genre
+        Space Age Pop::Genre
+        Sunshine Pop::Genre
+        Surf Pop::Genre
+        Synth-Pop::Genre
+        Taiwanese Pop::Genre
+        Teen Pop::Genre
+        Thai Pop::Genre
+        Traditional Pop Music::Genre
+        Turkish Pop::Genre
+        Vis-Pop::Genre
+        Wonky Pop::Genre
+        World Fusion::Genre
+    Reggae
+        2 Tone::Genre
+        Dancehall::Genre
+            Ragga::Genre
+        Dub::Genre
+        Lovers Rock::Genre
+        Reggae::Genre
+        Reggaefusion::Genre
+        Rocksteady::Genre
+        Ska::Genre
+    Regional and National
+        Arabesque::Genre
+        Celtic::Genre
+        Chalga::Genre
+        Enka::Genre
+        Ethnic::Genre
+        Flamenco::Genre
+        Greek Entechno::Genre
+        Greek Laika::Genre
+        Indigenous Music::Genre
+        Mor Lam Sing::Genre
+        National Folk::Genre
+        Native American::Genre
+        Schlager::Genre
+        Traditional Folk::Genre
+        Tribal::Genre
+    Religious
+        Contemporary Christian::Genre
+        Gospel::Genre
+        Gregorian Chant::Genre
+        Hymn::Genre
+        Rap::Genre
+        Spiritual::Genre
+    Rock
+        Acid Rock::Genre
+        Acoustic::Genre
+        Alternative Rock::Genre
+        Alternative::Genre
+        AlternRock::Genre
+        Beat::Genre
+        Blues Rock::Genre
+        Chamber Music::Genre
+        Chinese Rock::Genre
+        Christian Rock::Genre
+        Classic Rock::Genre
+        Crossover::Genre
+        Cult::Genre
+        Dark Cabaret::Genre
+        Darkwave::Genre
+        Deathcore::Genre
+        Deathrock::Genre
+        Desert Rock::Genre
+        Djent::Genre
+        Drum Solo::Genre
+        Electronic Rock::Genre
+        Emo::Genre
+        Fast Fusion::Genre
+        Folk Rock::Genre
+        Freestyle::Genre
+        Garage Rock::Genre
+        Glam Rock::Genre
+        Gothic Rock::Genre
+        Gothic::Genre
+        Grunge::Genre
+        Hard Rock::Genre
+        Indie Rock::Genre
+        Indie::Genre
+        Industrial Rock::Genre
+        Instrumental Rock::Genre
+        J-Rock::Genre
+        Jungle::Genre
+        Math Rock::Genre
+        Mathcore::Genre
+        Metal
+            Black Metal::Genre
+            Brutal Death Metal::Genre
+            Christian Metal::Genre
+            Crossover Thrash Metal::Genre
+            Death Metal::Genre
+            Doom Metal::Genre
+            Drone Metal::Genre
+            Folk Metal::Genre
+            Funk Metal::Genre
+            Glam Metal::Genre
+            Gothic Metal::Genre
+            Grindcore::Genre
+            Groove Metal::Genre
+            Heavy Metal::Genre
+            Industrial Metal::Genre
+            Melodic Death Metal::Genre
+            Melodic Metalcore::Genre
+            Metal::Genre
+            Metalcore::Genre
+            Nu Metal::Genre
+            Power Metal::Genre
+            Progressive Death Metal::Genre
+            Progressive Metal::Genre
+            Sludge Metal::Genre
+            Speed Metal::Genre
+            Symphonic Metal::Genre
+            Technical Death Metal::Genre
+            Thrash Metal::Genre
+            Unblack Metal::Genre
+        New Age::Genre
+        New Prog::Genre
+        New Wave::Genre
+        Noise::Genre
+        Oldies::Genre
+        Paisley Underground::Genre
+        Post-Grunge::Genre
+        Post-Hardcore::Genre
+        Post-Rock::Genre
+        Progressive Rock::Genre
+        Psychedelic Rock::Genre
+        Psychobilly::Genre
+        Punk
+            Acid Punk::Genre
+            Anarcho-Punk::Genre
+            Crust Punk::Genre
+            Hardcore Punk::Genre
+            Negerpunk::Genre
+            Polsk Punk::Genre
+            Post-Punk::Genre
+            Punk Rock::Genre
+            Punk::Genre
+        Rap Rock::Genre
+        Retro::Genre
+        Rock & Roll::Genre
+        Rock and Roll::Genre
+        Rock en Español::Genre
+        Rock::Genre
+        Screamo::Genre
+        Shoegazer::Genre
+        Slow Jam::Genre
+        Slow Rock::Genre
+        Soft Rock::Genre
+        Southern Rock::Genre
+        Space Rock::Genre
+        Surf Rock::Genre
+        Symphonic Rock::Genre
+        Terror::Genre
+        Thrashcore::Genre
+        Top 40::Genre
+        Vocal::Genre
+        Weld::Genre
+    R&B
+        Boogie::Genre
+        Contemporary R&B::Genre
+        Deep Funk::Genre
+        Doo Wop::Genre
+        Funk::Genre
+        Go-Go::Genre
+        Hip-Hop Soul::Genre
+        Neo-Soul::Genre
+        New Jack Swing::Genre
+        Northern Soul::Genre
+        P-Funk::Genre
+        R&B::Genre
+        Soul::Genre
+Genres (hiccup)
+    African
+        Africa::Genre
+        Afrobeat::Genre
+        Bikutsi::Genre
+        Chimurenga::Genre
+        Fuji::Genre
+        Highlife::Genre
+        Kizomba::Genre
+        Maloya::Genre
+        Mbalax::Genre
+        Mbaqanga::Genre
+        Mbube::Genre
+        Morna::Genre
+        Raï::Genre
+            Pop raï::Genre
+        Salegy::Genre
+        Soukous::Genre
+        Taarab::Genre
+        Malagasy::Genre
+        Yoruba music::Genre
+    Americana::Genre
+    Asian::Genre
+        C-pop::Genre
+            Cantopop::Genre
+            Hokkien pop::Genre
+            Mandopop::Genre
+        Dangdut::Genre
+        Eleki::Genre
+        J-pop::Genre
+            Denpa::Genre
+            Ryuukouka::Genre
+        J-rock::Genre
+            Kawaii metal::Genre
+            Kayoukyoku::Genre
+            Shibuya-kei::Genre
+            Techno kayō::Genre
+        K-pop::Genre
+        Luk krung::Genre
+        Luk thung::Genre
+        Manila sound::Genre
+        Pinoy pop::Genre
+        Trot::Genre
+        Bhangra::Genre
+        Sarala gee::Genre
+        V-Pop::Genre
+    Baroque pop::Genre
+    Blues::Genre
+        Acoustic blues::Genre
+        African blues::Genre
+        British blues::Genre
+        Chicago blues::Genre
+        Country blues::Genre
+        Delta blues::Genre
+        Electric blues::Genre
+        Electric Texas blues::Genre
+        Hill country blues::Genre
+        Jump blues::Genre
+        New Orleans blues::Genre
+        Piano blues::Genre
+        Soul blues::Genre
+        St. Louis blues::Genre
+        Swamp blues::Genre
+        Texas blues::Genre
+        Vaudeville blues::Genre
+        West Coast blues::Genre
+    Central American::Genre
+        Afro::Genre
+        Chutney::Genre
+        Compas::Genre
+        Mambo::Genre
+        Mariachi::Genre
+        Nueva trova::Genre
+        Pachanga::Genre
+        Punto guajiro::Genre
+        Reggaeton::Genre
+            Neoperreo::Genre
+        Rocksteady::Genre
+        Sega::Genre
+        Soca::Genre
+        Songo::Genre
+        Tejano::Genre
+        Timba::Genre
+        Zouk::Genre
+        Zouk-love::Genre
+    Classical::Genre
+        Medieval era (500–1400)::Genre
+            Ars antiqua::Genre
+            Ars nova::Genre
+            Ars subtilior::Genre
+            Plainsong::Genre
+        Renaissance era (1400–1600)::Genre
+        Baroque era (1600–1760)::Genre
+            Early baroque (1600–1654)::Genre
+            Middle baroque (1654–1707)::Genre
+            Late baroque (1680–1760)::Genre
+        Classical era (1730–1820)::Genre
+        Romantic era (1780–1910)::Genre
+            Early romantic (1780—1850)::Genre
+            Late Romantic (1850—1910)::Genre
+        Modernist era (1890–1980)::Genre
+            Impressionist (1890–1930)::Genre
+            Post-romanticism (1890–1930)::Genre
+            Expressionism (1900–1930)::Genre
+            Neoclassicism (1920–1950)::Genre
+            Serialism (1920–1980)::Genre
+        Postmodernist era (1930– )::Genre
+            Neoromanticism (1930– )::Genre
+            Contemporary (1950– )::Genre
+            Experimentalism (1950– )::Genre
+            Minimalism (1960– )::Genre
+            Postminimalism (1980– )::Genre
+            Modern (1830–1930)::Genre
+                Minimalism::Genre
+        Latin American classical music::Genre
+        Modern classical::Genre
+    Contemporary folk::Genre
+        Anti-folk::Genre
+        Indie folk::Genre
+        Neofolk::Genre
+        Progressive folk::Genre
+        Psychedelic folk::Genre
+        Skiffle::Genre
+    Contemporary country::Genre
+        Country rap::Genre
+        Neo-traditionalist country::Genre
+    Country::Genre
+        Bakersfield sound::Genre
+        Outlaw country::Genre
+        Alternative country::Genre
+            Gothic country::Genre
+            Progressive country::Genre
+        Bluegrass::Genre
+            Bluegrass gospel::Genre
+            Neo-traditional bluegrass::Genre
+            Progressive bluegrass::Genre
+            Traditional bluegrass::Genre
+        Country pop::Genre
+            Countrypolitan::Genre
+        Honky tonk::Genre
+        Red dirt::Genre
+        Texas country::Genre
+        Western swing::Genre
+    EDM
+        Alternative Dance::Genre
+        Breakbeat:Genre
+            Acid breaks::Genre
+            Big beat::Genre
+            Breakbeat hardcore::Genre
+            Darkcore::Genre
+            Florida breaks::Genre
+            Nu skool breaks::Genre
+        Deconstructed club::Genre
+        Drum and bass:Genre
+            Darkstep::Genre
+            Drumfunk::Genre
+            Drumstep::Genre
+            Halftime::Genre
+            Hardstep::Genre
+            Jazzstep::Genre
+            Jump-up::Genre
+            Liquid funk::Genre
+            Minimal drum and bass::Genre
+            Neurofunk::Genre
+            Sambass::Genre
+            Techstep::Genre
+        Dubstep::Genre
+            Brostep::Genre
+            Chillstep::Genre
+            Deathstep::Genre
+            Melodic dubstep::Genre
+        EBM::Genre
+        Electro::Genre
+        Electro-industrial::Genre
+            Aggrotech::Genre
+            Dark electro::Genre
+            Death industrial::Genre
+            Power electronics::Genre
+        Electro swing::Genre
+        Eurodance::Genre
+            Italo dance::Genre
+        Future garage::Genre
+        Future bass::Genre
+        Futurepop::Genre
+        Ghettotech::Genre
+        Grime::Genre
+            Weightless::Genre
+        Hardcore::Genre
+            Freeform::Genre
+            Gabber::Genre
+            Happy gabber::Genre
+            Happy hardcore::Genre
+            Hardstyle::Genre
+            Industrial hardcore::Genre
+            Noizecore::Genre
+            Nu style gabber::Genre
+            Speedcore::Genre
+            Terrorcore::Genre
+        Hard NRG::Genre
+        Hi-NRG::Genre
+        House::Genre
+            Acid house::Genre
+            Anthem house::Genre
+            Brit house::Genre
+            Classic house::Genre
+            Diva house::Genre
+            Electro house::Genre
+            French house::Genre
+            Funky house::Genre
+            Garage::Genre
+            Ghetto house::Genre
+            Hip house::Genre
+            Italo House::Genre
+            Latin house::Genre
+            Microhouse::Genre
+            Moombahton::Genre
+            Progressive house::Genre
+            Tribal house::Genre
+            UK hard house::Genre
+        Jungle::Genre
+            Dancehall jungle::Genre
+            Disco jungle::Genre
+            Experimental jungle::Genre
+            Oldskool::Genre
+            Ragga Jungle::Genre
+        Latin freestyle::Genre
+        New beat::Genre
+        Nu-disco::Genre
+        Tech House::Genre
+        Techno::Genre
+            Acid techno::Genre
+            Ambient techno::Genre
+            Detroit techno::Genre
+            Dub techno::Genre
+            Industrial techno::Genre
+            Minimal techno::Genre
+        Tecnobrega::Genre
+        Trance::Genre
+            Acid trance::Genre
+            Ambient trance::Genre
+            Dream trance::Genre
+            Goa trance::Genre
+            Hard trance::Genre
+            Ibiza trance::Genre
+            Progressive trance::Genre
+            Psytrance::Genre
+            Tech trance::Genre
+            Uplifting trance::Genre
+            Vocal trance::Genre
+            UK Garage::Genre
+                2 Step::Genre
+                Bassline::Genre
+                Speed Garage::Genre
+    Electronic::Genre
+        Acid jazz::Genre
+        Downtempo::Genre
+        Dungeon synth::Genre
+        Electroclash::Genre
+        Folktronica::Genre
+        Funktronica::Genre
+        Glitch::Genre
+            Glitch hop::Genre
+        IDM::Genre
+            Breakcore::Genre
+            Flashcore::Genre
+            Drill and bass::Genre
+        Illbient::Genre
+        Indietronica::Genre
+        Musique concrète::Genre
+        Post-industrial::Genre
+            Dark ambient::Genre
+        Psybient::Genre
+        Synth punk::Genre
+        Synthwave::Genre
+            Darksynth::Genre
+        Witch House::Genre
+    Funk::Genre
+        Brit funk::Genre
+        Deep funk::Genre
+        Go-go::Genre
+        Latin funk::Genre
+        P-funk::Genre
+        Synth funk::Genre
+    Gospel::Genre
+        Progressive southern gospel::Genre
+        Southern gospel::Genre
+        Traditional black gospel::Genre
+        Urban gospel::Genre
+    Jazz::Genre
+        Jazz traditional::Genre
+            Bebop::Genre
+            Big band::Genre
+            Cape jazz::Genre
+            Chamber jazz::Genre
+            Cool jazz::Genre
+            Dixieland::Genre
+            Gypsy jazz::Genre
+            Hard bop::Genre
+            Mainstream jazz::Genre
+            Neo-bop::Genre
+            Orchestral jazz::Genre
+            Post-bop::Genre
+            Stride::Genre
+            Vocal jazz::Genre
+            West Coast jazz::Genre
+        Avant-garde jazz::Genre
+        Crossover jazz::Genre
+        Free funk::Genre
+        Free jazz::Genre
+        Jazz-funk::Genre
+        Jazz fusion::Genre
+            Flamenco Jazz::Genre
+            J-fusion::Genre
+            Jazz-rock::Genre
+        Latin jazz::Genre
+            Afro-Brazilian jazz::Genre
+            Afro-Cuban jazz::Genre
+            Samba-jazz::Genre
+        Soul jazz::Genre
+    Latin::Genre
+        Bachata::Genre
+        Bolero::Genre
+        Bossa nova::Genre
+        Canción::Genre
+        Cha-cha-chá::Genre
+        Choro::Genre
+        Cumbia::Genre
+        Guaracha::Genre
+        Latin alternative::Genre
+        Latin soul::Genre
+        Marchinha::Genre
+            Samba-reggae::Genre
+        Música popular brasileira::Genre
+        Nueva canción::Genre
+        Pagode::Genre
+            Pagode romântico::Genre
+        Rumba::Genre
+            Guaguancó::Genre
+        Salsa::Genre
+            Salsa dura::Genre
+            Salsa romántica::Genre
+        Samba::Genre
+            Samba-canção::Genre
+            Samba-exaltação::Genre
+            Samba-rock::Genre
+        Samba-choro::Genre
+        Sertanejo::Genre
+            Sertanejo romântico::Genre
+            Sertanejo universitário::Genre
+        Tango::Genre
+            Tango nuevo::Genre
+    New Age::Genre
+    Non-music::Genre
+        Sound art::Genre
+        Sound poetry::Genre
+        Sounds and effects::Genre
+        Spoken word::Genre
+    Pop/Rock
+        Pop::Genre
+            Sophisti-pop::Genre
+        Rock::Genre
+            Hard rock::Genre
+        Afroswing::Genre
+        Alternative metal::Genre
+            Christian metal::Genre
+            Funk metal::Genre
+            Nu metal::Genre
+        Alternative rock::Genre
+            Afro-punk::Genre
+            Britpop::Genre
+            College rock::Genre
+            Dream pop::Genre
+            Gothic rock::Genre
+            Grunge::Genre
+            Indie pop::Genre
+            Indie rock::Genre
+            Jangle pop::Genre
+            Neo-Psychedelia::Genre
+            Noise pop::Genre
+            Paisley underground::Genre
+            Post-Britpop::Genre
+            Post-grunge::Genre
+            Shoegaze::Genre
+            Slowcore::Genre
+        Art rock::Genre
+        Beat music::Genre
+        Balkan pop-folk::Genre
+        Blackgaze::Genre
+        Blues rock::Genre
+        Bubblegum::Genre
+        Chalga::Genre
+        Chamber pop::Genre
+        Chanson::Genre
+            Nouvelle chanson française::Genre
+        Classical crossover::Genre
+            Operatic pop::Genre
+        Country rock::Genre
+        Crossover thrash::Genre
+        Crunkcore::Genre
+        Dance-pop::Genre
+        Dance-rock::Genre
+        Dance-punk::Genre
+        Dark jazz::Genre
+        Dark wave::Genre
+            Ethereal wave::Genre
+            Neoclassical darkwave::Genre
+        Deathgrind::Genre
+        Digital hardcore::Genre
+        Disco::Genre
+            Disco polo::Genre
+            Eurodisco::Genre
+            Italo disco::Genre
+            Post-disco::Genre
+            Space disco::Genre
+        Electronicore::Genre
+        Emo::Genre
+            Emo-pop::Genre
+            Screamo::Genre
+        Europop::Genre
+        Folk metal::Genre
+            Medieval folk metal::Genre
+        Folk pop::Genre
+        Folk rock::Genre
+            Celtic rock::Genre
+            Medieval rock::Genre
+        Funk rock::Genre
+        Garage rock::Genre
+        Glam rock::Genre
+        Grindcore::Genre
+            Goregrind::Genre
+            Gorenoise::Genre
+        Heartland rock::Genre
+        Heavy metal::Genre
+            Atmospheric black metal::Genre
+            Black metal::Genre
+            Blackened death metal::Genre
+            Death 'n' roll::Genre
+            Death metal::Genre
+            Doom metal::Genre
+            Experimental metal::Genre
+            Glam metal::Genre
+            Gothic metal::Genre
+            Groove metal::Genre
+            Industrial metal::Genre
+            Latin metal::Genre
+            Melodic black metal::Genre
+            Melodic death metal::Genre
+            Melodic metalcore::Genre
+            Neoclassical metal::Genre
+            Power metal::Genre
+            Progressive metal::Genre
+            Sludge metal::Genre
+            Speed metal::Genre
+            Symphonic metal::Genre
+            Symphonic black metal::Genre
+            Symphonic death metal::Genre
+            Symphonic gothic metal::Genre
+            Symphonic power metal::Genre
+            Technical death metal::Genre
+            Trance metal::Genre
+            Thrash metal::Genre
+            Viking metal::Genre
+        Hip hop::Genre
+            Alternative hip hop::Genre
+            Chicano rap::Genre
+            Christian hip hop::Genre
+            Conscious hip hop::Genre
+            Crunk::Genre
+            Dirty rap::Genre
+            Disco rap::Genre
+            East Coast hip hop::Genre
+            Experimental hip hop::Genre
+            Freestyle rap::Genre
+            Funk carioca::Genre
+            G-funk::Genre
+            Gangsta rap::Genre
+            Hardcore hip hop::Genre
+            Horrorcore::Genre
+            Industrial hip hop::Genre
+            Jazz rap::Genre
+            Latin rap::Genre
+            Miami bass::Genre
+            Phonk::Genre
+            Southern hip hop::Genre
+            Trap::Genre
+            Martial industrial::Genre
+        Industrial rock::Genre
+        Italo Pop::Genre
+        Krautrock::Genre
+        Latin pop::Genre
+        Latin rock::Genre
+        Levenslied::Genre
+        Metalcore::Genre
+            Deathcore::Genre
+            Mathcore::Genre
+            Progressive deathcore::Genre
+            Progressive metalcore::Genre
+            Symphonic deathcore::Genre
+        Mexican pop::Genre
+        Neue Deutsche Härte::Genre
+        Neue Deutsche Welle::Genre
+        New jack swing::Genre
+        New wave::Genre
+        Nintendocore::Genre
+        Noise rock::Genre
+        Nordic folk rock::Genre
+        Nu jazz::Genre
+        Pop soul::Genre
+        Post-hardcore::Genre
+        Post-metal::Genre
+        Post-punk::Genre
+            Easycore::Genre
+        Post-punk revival::Genre
+        Power pop::Genre
+        Progressive rock::Genre
+            Math rock::Genre
+            Neo-progressive rock::Genre
+        Psychedelic pop::Genre
+        Psychedelic rock::Genre
+            Acid rock::Genre
+        Psychobilly::Genre
+            Gothabilly::Genre
+        Pub rock::Genre
+        Punk blues::Genre
+        Punk rock::Genre
+            Anarcho-punk::Genre
+            Celtic punk::Genre
+            Cowpunk::Genre
+            Crust punk::Genre
+            D-Beat::Genre
+            Deathrock::Genre
+            Folk punk::Genre
+            Garage punk::Genre
+            Glam punk::Genre
+            Gypsy punk::Genre
+            Hardcore punk::Genre
+            Oi!::Genre
+            Pop punk::Genre
+            Riot grrrl::Genre
+            Skate punk::Genre
+            Thrashcore::Genre
+        Rap rock::Genre
+            Rap metal::Genre
+            Rapcore::Genre
+        Rock & roll::Genre
+        Rockabilly::Genre
+        Samba rock::Genre
+        Schlager::Genre
+        Ska::Genre
+            Third wave ska::Genre
+            J-Ska::Genre
+            Ska-core::Genre
+        Ska punk::Genre
+        Smooth jazz::Genre
+        Soft rock::Genre
+        Southern rock::Genre
+        Space age pop::Genre
+        Space rock::Genre
+        Stoner rock::Genre
+        Sunshine pop::Genre
+        Surf music::Genre
+            Instrumental surf::Genre
+            Surf pop::Genre
+            Surf punk::Genre
+            Surf rock::Genre
+            Vocal surf::Genre
+        Swamp rock::Genre
+        Symphonic rock::Genre
+            Symphonic progressive rock::Genre
+        Synth-pop::Genre
+        Teen pop::Genre
+        Traditional pop::Genre
+        Two Tone::Genre
+        Zolo::Genre
+    Reggae::Genre
+        Dub::Genre
+        Lovers rock::Genre
+        Pop reggae::Genre
+        Rocksteady::Genre
+        Roots reggae::Genre
+        Dancehall::Genre
+            Bashment::Genre
+            Dancehall pop::Genre
+            Digital dancehall::Genre
+            Ragga::Genre
+    Rhythm and blues::Genre
+        Doo-wop::Genre
+        Hip hop soul::Genre
+        Quiet storm::Genre
+    Soul::Genre
+        Blue-eyed soul::Genre
+        British soul::Genre
+        Chicago soul::Genre
+        Detroit soul::Genre
+        Memphis soul::Genre
+        Neo soul::Genre
+        New Orleans soul::Genre
+        Philadelphia soul::Genre
+        Psychedelic soul::Genre
+        Smooth soul::Genre
+        Southern soul::Genre
+    World music::Genre
+        Global fusion::Genre
+        World fusion::Genre
+        World fusion jazz::Genre
+        Worldbeat::Genre
+    Ethnic - Africa::Genre
+        African traditional music::Genre
+        Amazigh music::Genre
+            Tuareg music::Genre
+        Apala::Genre
+        Benga::Genre
+        Gnawa::Genre
+        Jùjú::Genre
+        Kuduro::Genre
+        Kwaito::Genre
+        Kwela::Genre
+        Malagasy folk music::Genre
+        Muziki wa dansi::Genre
+        Mande music::Genre
+        Nguni folk music::Genre
+        Palm-wine::Genre
+        Semba::Genre
+        Shona mbira music::Genre
+        Songhai music::Genre
+        Sungura::Genre
+        Tizita::Genre
+    Ethnic - Asia::Genre
+        Asian traditional music::Genre
+        Altai traditional music::Genre
+        Armenian folk music::Genre
+        Bengali folk music::Genre
+        Burmese classical music::Genre
+        Burmese folk music::Genre
+            Mono::Genre
+        Carnatic classical music::Genre
+        Chinese classical music::Genre
+        Chinese folk music::Genre
+        Gamelan::Genre
+        Ghazal::Genre
+        Hindustani classical music::Genre
+        Iranian folk music::Genre
+        Israeli folk music::Genre
+        Japanese folk music::Genre
+            Amami shimauta::Genre
+            Heikyoku::Genre
+            Min'yō::Genre
+            Rōkyoku::Genre
+            Taiko::Genre
+            Tsugaru shamisen::Genre
+        Keroncong::Genre
+        Khmer folk music::Genre
+        Khyal::Genre
+        Kundiman::Genre
+        Kurdish folk music::Genre
+        Molam::Genre
+        Mongolian traditional music::Genre
+            Mongolian long song::Genre
+            Mongolian throat singing::Genre
+        Nhạc vàng::Genre
+        Peking Opera::Genre
+        Persian classical music::Genre
+        Persian pop::Genre
+        Phleng phuea chiwit::Genre
+        Pop Ghazal::Genre
+        Qawwali::Genre
+        Sanjo::Genre
+        Shidaiqu::Genre
+        Sinhalese folk music::Genre
+        Southeast Asian classical music::Genre
+        Tajik traditional music::Genre
+            Shashmaqom::Genre
+        Tatar folk music::Genre
+        Thai classical music::Genre
+        Tibetan traditional music::Genre
+        Traditional arabic pop::Genre
+        Turkish classical music::Genre
+        Turkish folk music::Genre
+        Uyghur traditional music::Genre
+        Uzbek traditional music::Genre
+        Vietnamese folk music::Genre
+    Ethnic - Europe::Genre
+        European traditional music::Genre
+        Alpine folk music::Genre
+        Basque folk music::Genre
+        Catalan folk music::Genre
+            Catalan rumba::Genre
+            Sardana::Genre
+        English folk music::Genre
+        Estonian folk music::Genre
+        Flamenco rumba::Genre
+        Flemish folk music::Genre
+        French folk music::Genre
+            Breton Celtic folk music::Genre
+        German folk music::Genre
+        Hungarian folk music::Genre
+        Irish folk music::Genre
+            Sean-nós::Genre
+        Italian folk music::Genre
+            Cantu a tenore::Genre
+            Canzone napoletana::Genre
+        Neo-Medieval folk::Genre
+        Nordic folk music::Genre
+            Danish folk music::Genre
+            Faroese folk music::Genre
+            Finnish folk music::Genre
+            Icelandic folk music::Genre
+            Joik::Genre
+            Norwegian folk music::Genre
+            Runolaulu::Genre
+            Swedish folk music::Genre
+        Polish folk music::Genre
+            Poezja śpiewana::Genre
+        Polka::Genre
+        Portuguese folk music::Genre
+            Fado::Genre
+        Scottish folk music::Genre
+            Pibroch::Genre
+            Pipe Band::Genre
+        Spanish folk music::Genre
+            Aragonese folk music::Genre
+            Asturian folk music::Genre
+            Canarian folk music::Genre
+            Chotis madrileño::Genre
+            Copla::Genre
+            Cuplé::Genre
+            Flamenco::Genre
+            Galician folk music::Genre
+            Pasodoble::Genre
+            Saeta::Genre
+            Sevillanas::Genre
+            Zarzuela::Genre
+        Welsh folk music::Genre
+    Ethnic - East Europe::Genre
+        East-European traditional music::Genre
+        Albanian folk music::Genre
+        Balkan brass band::Genre
+        Belarusian folk music::Genre
+        Bulgarian folk music::Genre
+        Croatian folk music::Genre
+        Csango folk music::Genre
+        Goral music::Genre
+        Greek folk music::Genre
+        Kef music::Genre
+        Klapa::Genre
+        Laika::Genre
+        Latvian folk music::Genre
+        Lithuanian folk music::Genre
+        Macedonian folk music::Genre
+        Manele::Genre
+        Romani folk music::Genre
+        Romanian folk music::Genre
+        Sevdalinka::Genre
+        Slovak folk music::Genre
+        Slovenian folk music::Genre
+        Starogradska muzika::Genre
+        Ukrainian folk music::Genre
+        Warsaw city folk::Genre
+    Ethnic - Central America::Genre
+        Central American traditional music::Genre
+        Mento::Genre
+        Bolero son::Genre
+        Danzón::Genre
+        Guajira::Genre
+        Son cubano::Genre
+            Son montuno::Genre
+        Santería music::Genre
+    Ethnic - Jewish music::Genre
+        Jewish music::Genre
+            Ashkenazi music::Genre
+            Cantillation::Genre
+            Jewish liturgical music::Genre
+            Klezmer::Genre
+            Mizrahi music::Genre
+            Sephardic music::Genre
+    Ethnic - North America::Genre
+        American traditional music::Genre
+        Canadian traditional music::Genre
+        Cape Breton folk music::Genre
+        Appalachian folk music::Genre
+        Cajun::Genre
+        Creole::Genre
+        French-Canadian folk::Genre
+        Indigenous music of North America::Genre
+        Inuit music::Genre
+        Jug band::Genre
+        Mexican folk music::Genre
+            Son huasteco::Genre
+            Son jarocho::Genre
+        Native American::Genre
+        Newfoundland folk music::Genre
+        Norteño::Genre
+        Old-time::Genre
+        Ranchera::Genre
+        Swamp pop::Genre
+        Trova::Genre
+        Zydeco::Genre
+        Cowboy::Genre
+        Canadian maritime folk::Genre
+        Traditional cajun::Genre
+    Ethnic - Oceania::Genre
+        Australian traditional music::Genre
+            Australian folk music::Genre
+            Indigenous Australian music::Genre
+        Ethnic Papuan::Genre
+            Papuan traditional music::Genre
+        Ethnic Polynesian::Genre
+            Austronesian traditional music::Genre
+            Fijian music::Genre
+            Hawaiian music::Genre
+            Māori traditional music::Genre
+            Samoan music::Genre
+    Ethnic - Russia::Genre
+        Russian traditional music::Genre
+            Bard music::Genre
+            Russian chanson::Genre
+            Russian folk music::Genre
+            Russian liturgical music::Genre
+            Russian romance::Genre
+            Soviet estrada::Genre
+            Znamenny chant::Genre
+    Ethnic - South America::Genre
+        South American traditional music::Genre
+        Chamamé::Genre
+        Cueca::Genre
+        Forró::Genre
+        Kaseko::Genre
+        Milonga::Genre
+        Vallenato::Genre
+        Andean folk music::Genre
+            Chacarera::Genre
+            Huayno::Genre
+        Joropo::Genre
+        Lambada::Genre
+        Malagueña Venezolana::Genre
+        Música criolla Peruana::Genre
+            Vals criollo::Genre
+        Parang::Genre
+        Plena::Genre
+        Porro::Genre
+        Sertanejo de raiz::Genre
+            Moda de viola::Genre
+        Zamba::Genre
+Musical Instruments (monash)
+    Aerophones (Wind)
+        Free Aerophones
+            Beating Reed
+                Single Reed
+                    Organ Reed Pipes::Instruments
+                Double Reed
+                    Voice::Instruments
+                    Voice Female::Instruments
+                    Voice Kid::Instruments
+                    Voice Male::Instruments
+                    Choir::Instruments
+            Free Reed
+                Framed Reed
+                    Foot Blown
+                        Harmonium::Instruments
+                        Reed Organ::Instruments
+                    Hand Blown
+                        Accordion::Instruments
+                        Bayan::Instruments
+                        Concertina::Instruments
+                    Mouth Blown
+                        Harmonica::Instruments
+                        Khaem::Instruments
+                        Sheng::Instruments
+                        Sho::Instruments
+                Unframed Reed
+                    Mouth Blown and Plucked
+                        Harp Jew's::Instruments
+                    Mouth Blown
+                        Leaf Instrument::Instruments
+                    Wind Blown
+                        Aeolian Harp::Instruments
+                        Bull-Roarer::Instruments
+        Pipe Aerophones
+            Brass
+                With Halves
+                    Cornet::Instruments
+                    Eurphonium::Instruments
+                    Trumpet::Instruments
+                    Tube::Instruments
+                Without Halves
+                    Bugle::Instruments
+                    Conch Shell::Instruments
+                    Didgeridoo::Instruments
+                    Trombone::Instruments
+            Reed Pipe
+                Single Reeds
+                    Clarinet::Instruments
+                    Saxophone::Instruments
+                Double Reeds
+                    Oboe::Instruments
+                    Bassoon::Instruments
+            Edge
+                True Flutes
+                    Flute::Instruments
+                    Jug::Instruments
+                    Panpipes::Instruments
+                    Piccolo::Instruments
+                Whistle Flutes
+                    Organ Flue Pipes::Instruments
+                    Recorder::Instruments
+                    Whistle::Instruments
+    Electrophones
+        Electric/Acoustic
+            Electric Guitar::Instruments
+            Bass Electric::Instruments
+        Electronic
+            Digital
+                303::Instruments
+                808::Instruments
+                909::Instruments
+                Moog::Instruments
+                Synthesizer ARP::Instruments
+            Electromagnetic
+                Theremin::Instruments
+                Ondes Martenot::Instruments
+                Synthesizer::Instruments
+                Electric Organ::Instruments
+    Chordophones (Strings)
+        Bowed
+            Cello::Instruments
+            Bass Double::Instruments
+            Strings::Instruments
+            Viola::Instruments
+            Violin::Instruments
+        Plucked
+            Banjo::Instruments
+            Guitar::Instruments
+            Guitar Acoustic::Instruments
+            Guitar Ukelele::Instruments
+            Harp::Instruments
+            Harpsichord::Instruments
+        Struck
+            Hammer Dulcimer::Instruments
+            Piano::Instruments
+    Percussion
+        Percussion::Instruments
+            Idiophones
+                Pitched
+                    Plucked
+                        Music Box::Instruments
+                        Kalimba::Instruments
+                        Mbira::Instruments
+                    Rubbed
+                        Prayer Bowls::Instruments
+                        Glass Harmonica::Instruments
+                    Struck
+                        Bell::Instruments
+                        Celesta::Instruments
+                        Glockenspiel::Instruments
+                        Gong::Instruments
+                        Rimba::Instruments
+                        Triangle::Instruments
+                        Xylophone::Instruments
+                Unpitched
+                    Struck
+                        Castanets::Instruments
+                        Slit Drums::Instruments
+                    Shaken
+                        Rattle::Instruments
+                        Jungles::Instruments
+            Membraphones
+                Determinate Pitch
+                    Struck
+                        Timpani::Instruments
+                        Roto Drums::Instruments
+                Ineterminate Pitch
+                    Blown
+                        Kazoo::Instruments
+                    Rubbed
+                        Friction Drum::Instruments
+                    Struck
+                        Bass Drum::Instruments
+                        Bongo::Instruments
+                        Congas::Instruments
+                        Snare Drum::Instrument
