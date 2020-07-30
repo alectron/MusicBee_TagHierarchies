@@ -15,8 +15,8 @@ Genres
     Blues
         Acoustic blues::Genre
         American folk music::Genre
-        Blues::Genre
         Blues Rock::Genre
+        Blues::Genre
         Boogie woogie::Genre
         British blues::Genre
         Chicago blues::Genre
@@ -56,27 +56,27 @@ Genres
         Aria::Genre
         Art music::Genre
         Ballet::Genre
-        Baroque::Genre
         Baroque Era::Genre
+        Baroque::Genre
         Cantata::Genre
         Chamber music::Genre
         Choral::Genre
         Church cantata::Genre
-        Classical::Genre
         Classical music::Genre
+        Classical::Genre
         Concerto::Genre
-        Contemporary classical::Genre
         Contemporary classical music::Genre
-        Early::Genre
+        Contemporary classical::Genre
         Early music::Genre
         Early romantic::Genre
+        Early::Genre
         Étude::Genre
         Impressionist::Genre
         Madrigal::Genre
         Mass::Genre
         Medieval::Genre
-        Modern::Genre
         Modern classical::Genre
+        Modern::Genre
         Motet::Genre
         Neo-classical::Genre
         Neo-romantic::Genre
@@ -95,9 +95,9 @@ Genres
         Post-classical::Genre
         Post-modern::Genre
         Renaissance::Genre
-        Romantic::Genre
         Romantic classical::Genre
         Romantic era::Genre
+        Romantic::Genre
         Serial::Genre
         Sonata::Genre
         Song-cycle::Genre
@@ -113,9 +113,9 @@ Genres
         Bluegrass::Genre
         Boogie-Woogie::Genre
         Close Harmony::Genre
-        Country::Genre
         Country Blues::Genre
         Country Rock::Genre
+        Country::Genre
         Honky Tonk::Genre
         Nashville Sound/Countrypolitan::Genre
         Neotraditional country::Genre
@@ -138,30 +138,31 @@ Genres
         Middle of the Road::Genre
         Muzak::Genre
     Electronic
-        Acid::Genre
         Acid Electronic::Genre
         Acid jazz::Genre
+        Acid::Genre
         Alternative dance::Genre
-        Ambient::Genre
         Ambient music::Genre
+        Ambient::Genre
         Avant-Garde
             Avant-Garde::Genre
             Experimental::Genre
-            Lo-Fi::Genre
             Lo-Fi music::Genre
+            Lo-Fi::Genre
             Low fidelity::Genre
             Minimal wave::Genre
             Minimalist::Genre
             Musique Concrete::Genre
         Bass Music
             Bass Music::Genre
+            Bass::Genre
             Bassline::Genre
             Breakcore::Genre
             Drill and bass::Genre
             Drill 'n' bass::Genre
             Drum & Bass::Genre
-            Drum n Bass::Genre
             Drum and Bass:Genre
+            Drum n Bass::Genre
             Dubstep::Genre
             Footwork::Genre
             Halftime::Genre
@@ -177,8 +178,8 @@ Genres
         Breakbeat
             Acid Breaks::Genre
             Big Beat::Genre
-            Breakbeat::Genre
             Breakbeat hardcore::Genre
+            Breakbeat::Genre
             Breakcore::Genre
             Breaks::Genre
         Bubbling::Genre
@@ -198,22 +199,22 @@ Genres
         Dungeon synth::Genre
         EBM::Genre
         EDM::Genre
-        Electro::Genre
         Electro swing::Genre
+        Electro::Genre
+        Electroclash::Genre
         Electro-funk::Genre
         Electro-Hop::Genre
         Electro-industrial::Genre
-        Electroclash::Genre
-        Electronic::Genre
         Electronic dance music::Genre
         Electronic music::Genre
         Electronic Rock::Genre
+        Electronic::Genre
         Electronica
-            Berlin School::Genre
             Berlin school of electronic music::Genre
+            Berlin School::Genre
             Dubtronica::Genre
-            Folktronica::Genre
             Electronica::Genre
+            Folktronica::Genre
             Jazztronica::Genre
         Electronicore::Genre
         Euro-Dance::Genre
@@ -226,20 +227,19 @@ Genres
         Glitch::Genre
         Goa::Genre
         Grime::Genre
-        Juke::Genre
         Hands up::Genre
+        Happy Hardcore::Genre
         Hard beat::Genre
         Hardbag::Genre
         Hardcore::Genre
         Hardstyle Trance::Genre
         Harsh noise wall::Genre
         Harsh noise::Genre
-        Happy Hardcore::Genre
         Hauntology::Genre
         Hi-NRG::Genre
         House
-            Ambient House::Genre
             Acid House::Genre
+            Ambient House::Genre
             Club-house::Genre
             Deep house::Genre
             Electro house::Genre
@@ -253,8 +253,8 @@ Genres
             Hard house::Genre
             Hip house::Genre
             Hip-house::Genre
-            House::Genre
             House music::Genre
+            House::Genre
             Italo house::Genre
             Microhouse::Genre
             Progressive house::Genre
@@ -269,8 +269,9 @@ Genres
         Industrial::Genre
         Instrumental::Genre
         Intelligent dance music::Genre
-        J-core::Genre
         Jazzdance::Genre
+        J-core::Genre
+        Juke::Genre
         Jungle::Genre
         Lento violento::Genre
         Lowercase::Genre
@@ -336,36 +337,36 @@ Genres
         Alternative folk::Genre
         Anti-folk::Genre
         Appalachian music::Genre
-        Bluegrass::Genre
         Bluegrass music::Genre
+        Bluegrass::Genre
         Boogie-woogie::Genre
         Cajun::Genre
-        Contemporary folk::Genre
         Contemporary folk music::Genre
+        Contemporary folk::Genre
         Contemporary gospel::Genre
         Fife and drum blues::Genre
-        Folk::Genre
         Folk jazz::Genre
         Folk music::Genre
+        Folk::Genre
         Folk-pop::Genre
         Freak folk::Genre
-        Gospel::Genre
         Gospel music::Genre
+        Gospel::Genre
         Indie folk::Genre
         Louisiana swamp pop::Genre
         Neofolk::Genre
         Old-time::Genre
         Pop folk::Genre
         Progressive bluegrass::Genre
-        Progressive folk::Genre
         Progressive folk music::Genre
+        Progressive folk::Genre
         Psychedelic folk::Genre
         Skiffle::Genre
         Spiritual::Genre
         Traditional bluegrass::Genre
         Traditional folk::Genre
-        Zydeco::Genre
         Traditional folk::Genre
+        Zydeco::Genre
         Zydeco::Genre
     Hip-Hop & Rap
         Alternative hip hop::Genre
@@ -400,7 +401,6 @@ Genres
         Hardcore hip-hop::Genre
         Hip hop music::Genre
         Hip hop::Genre
-        Hip-Hop::Genre
         Hip-Hop Fusion
             Afroswing::Genre
             Emo Rap::Genre
@@ -409,6 +409,7 @@ Genres
             Mumble Rap::Genre
             Trap::Genre
             UK Trap::Genre
+        Hip-Hop::Genre
         Hiplife::Genre
         Horrorcore::Genre
         Hyphy::Genre
@@ -465,16 +466,16 @@ Genres
         Gypsy Jazz::Genre
         Hard Bop::Genre
         Instrumental jazz::Genre
-        Jazz::Genre
         Jazz Blues::Genre
-        Jazz-Funk::Genre
         Jazz Fusion::Genre
         Jazz Rap::Genre
-        Jazz-Rock::Genre
         Jazz standard::Genre
+        Jazz::Genre
+        Jazz-Funk::Genre
+        Jazz-Rock::Genre
         Latin Jazz::Genre
-        M-Base::Genre
         Mainstream Jazz::Genre
+        M-Base::Genre
         Mini-Jazz::Genre
         Modal Jazz::Genre
         Modern jazz::Genre
@@ -487,8 +488,8 @@ Genres
         Soul Jazz::Genre
         Straight-ahead jazz::Genre
         Stride::Genre
-        Swing::Genre
         Swing music::Genre
+        Swing::Genre
         Trad Jazz::Genre
         Vocal Jazz::Genre
         West Coast Jazz::Genre
@@ -663,8 +664,8 @@ Genres
             Funk::Genre
             Gogo::Genre
             Nu-funk::Genre
-            P-funk::Genre
             P.Funk::Genre
+            P-funk::Genre
             Psychedelic funk::Genre
         Go-Go::Genre
         Indie R&B::Genre
@@ -688,8 +689,8 @@ Genres
             Pop soul::Genre
             Rhythmic soul::Genre
             Smooth soul::Genre
-            Soul::Genre
             Soul music::Genre
+            Soul::Genre
             Southern soul::Genre
             UK street soul::Genre
         Swingbeat::Genre
@@ -700,12 +701,12 @@ Genres
             Ragga::Genre
         Dub   
             Ambient dub::Genre
-            Dub::Genre
             Dub poetry::Genre
+            Dub::Genre
         Lovers Rock::Genre
-        Reggae::Genre
         Reggae fusion::Genre
         Reggae gospel::Genre
+        Reggae::Genre
         Reggaefusion::Genre
         Rocksteady::Genre
         Roots reggae::Genre
@@ -727,8 +728,8 @@ Genres
         Arena rock::Genre
         Art rock::Genre
         Beat music
-            Beat::Genre
             Beat Music::Genre
+            Beat::Genre
         Blackgaze::Genre
         Blues rock::Genre
         Blues-rock::Genre
@@ -878,14 +879,14 @@ Genres
         Post-Rock::Genre
         Power pop::Genre
         Powerviolence::Genre
-       Progressive Rock
+        Progressive Rock
             Avant-prog::Genre
             Neo-progressive rock::Genre
             New Prog::Genre
-            Progressive Rock::Genre
             Prog rock::Genre
-            Prog-rock::Genre
+            Progressive Rock::Genre
             Progressive rock::Genre
+            Prog-rock::Genre
             Proto-prog::Genre
         Psychedelic Rock::Genre
         Psychedelic soul::Genre
@@ -948,8 +949,8 @@ Genres
         Zeuhl::Genre
     Stage & Screen
         Cabaret::Genre
-        Musical::Genre
         Musical theater::Genre
+        Musical::Genre
         Score::Genre
         Show tune::Genre
         Soundtrack::Genre
@@ -963,9 +964,9 @@ Genres
         Acoustic music::Genre
         Anime::Genre
         Arabesque::Genre
+        Avant-garde music::Genre
         Avantgarde::Genre
         Avant-garde::Genre
-        Avant-garde music::Genre
         Background music::Genre
         Ballad::Genre
         Ballroom::Genre
@@ -977,19 +978,19 @@ Genres
         Cha-Cha::Genre
         Cha-cha-chá::Genre
         Chillout::Genre
-        Christmas::Genre
         Christmas music::Genre
+        Christmas::Genre
         Close harmony::Genre
         Comedy::Genre
         Contemporary::Genre
         Contra::Genre
         Crossover::Genre
         Dance music::Genre
-        Drone::Genre
         Drone music::Genre
+        Drone::Genre
         Easy listening::Genre
-        Experimental::Genre
         Experimental music::Genre
+        Experimental::Genre
         Filk::Genre
         Film score::Genre
         Foxtrot::Genre
@@ -997,23 +998,23 @@ Genres
         Furniture music::Genre
         Gregorian chant::Genre
         Humor::Genre
-        Industrial::Genre
         Industrial musical::Genre
+        Industrial::Genre
         Instrumental::Genre
         Jive::Genre
         Karaoke::Genre
         Leftfield::Genre
         Light music::Genre
         Liturgical music::Genre
-        Lounge::Genre
         Lounge music::Genre
+        Lounge::Genre
         Mainstream::Genre
         March::Genre
         M-base::Genre
         Meditative::Genre
         Middle of the road::Genre
-        Minimal::Genre
         Minimal music::Genre
+        Minimal::Genre
         Minimalism::Genre
         Music hall::Genre
         Musical improvisation::Genre
@@ -1029,22 +1030,22 @@ Genres
         Political::Genre
         Power ballad::Genre
         Production music::Genre
-        Progressive::Genre
         Progressive music::Genre
+        Progressive::Genre
         Promotional::Genre
         Protest song::Genre
-        Psychedelic::Genre
         Psychedelic music::Genre
+        Psychedelic::Genre
         Public broadcast::Genre
         Quickstep::Genre
         Radioplay::Genre
-        Religious::Genre
         Religious music::Genre
+        Religious::Genre
         Satire::Genre
         Slow waltz::Genre
         Sound collage::Genre
-        Space::Genre
         Space music::Genre
+        Space::Genre
         Steampunk::Genre
         Third stream::Genre
         Top 40::Genre
@@ -1056,8 +1057,8 @@ Genres
     World
         African
             Afoxê::Genre
-            African::Genre
             African blues::Genre
+            African::Genre
             Afro pop music::Genre
             Afrobeat::Genre
             Apala::Genre
@@ -1130,10 +1131,10 @@ Genres
             Bengali music::Genre
             Bhangra::Genre
             Carnatic::Genre
-            Hindustani::Genre
             Hindustani classical music::Genre
-            Indian classical::Genre
+            Hindustani::Genre
             Indian classical music::Genre
+            Indian classical::Genre
             Indian pop::Genre
             Klasik::Genre
             Qawwali::Genre
@@ -1163,11 +1164,11 @@ Genres
             Ghazal::Genre
             Iranian pop::Genre
             Klezmer::Genre
-            Mizrahi::Genre
             Mizrahi music::Genre
+            Mizrahi::Genre
             Mugham::Genre
-            Ottoman classical::Genre
             Ottoman classical music::Genre
+            Ottoman classical::Genre
             Persian classical::Genre
             Turkish pop::Genre
             Yemenite jewish::Genre
@@ -1175,8 +1176,8 @@ Genres
         Central American
             Calypso jazz::Genre
             Chicano rock::Genre
-            Chutney::Genre
             Chutney soca::Genre
+            Chutney::Genre
             Junkanoo::Genre
             Mento::Genre
             Mexican pop::Genre
@@ -1190,8 +1191,8 @@ Genres
             Basque music::Genre
             Canzone napoletana::Genre
             Catalan music::Genre
-            Celtic::Genre
             Celtic music::Genre
+            Celtic::Genre
             Chalga::Genre
             Chanson::Genre
             Cobla::Genre
@@ -1227,11 +1228,11 @@ Genres
             Rock en español::Genre
             Rune singing::Genre
             Sámi music::Genre
-            Schlager::Genre
             Schlager music::Genre
+            Schlager::Genre
             Sea shanties::Genre
-            Sephardic::Genre
             Sephardic music::Genre
+            Sephardic::Genre
             Swedish ballad tradition::Genre
             Tacsonamaidh aileag::Genre
             Vis-pop::Genre
@@ -1247,8 +1248,8 @@ Genres
             Baião::Genre
             Batucada::Genre
             Beguine::Genre
-            Bolero::Genre
             Bolero son::Genre
+            Bolero::Genre
             Bomba::Genre
             Boogaloo::Genre
             Bossa nova::Genre
@@ -1273,12 +1274,12 @@ Genres
             Jibaro::Genre
             Joropo::Genre
             Lambada::Genre
-            Latin::Genre
             Latin american music::Genre
             Latin ballad::Genre
             Latin music::Genre
             Latin R&B::Genre
             Latin soul::Genre
+            Latin::Genre
             Mambo::Genre
             Marcha carnavalesca::Genre
             Mariachi::Genre
@@ -1304,12 +1305,12 @@ Genres
             Samba::Genre
             Samba-canção::Genre
             Seresta::Genre
-            Son::Genre
             Son montuno::Genre
+            Son::Genre
             Sonero::Genre
             Tango::Genre
-            Tejano::Genre
             Tejano music::Genre
+            Tejano::Genre
             Timba::Genre
             Trova::Genre
             Vallenato::Genre
@@ -1325,8 +1326,8 @@ Genres
         South-American
             Baithak gana::Genre
             Brazilian rock::Genre
-            Calypso::Genre
             Calypso music::Genre
+            Calypso::Genre
             Chacarera::Genre
             Chamamé::Genre
             Changüí::Genre
@@ -1352,7 +1353,7 @@ Genres
             Zouk::Genre
         Traditional song::Genre
         Tribal::Genre
-        World::Genre
         World fusion::Genre
         World music::Genre
+        World::Genre
         Worldbeat::Genre
