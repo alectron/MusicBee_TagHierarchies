@@ -715,7 +715,6 @@ Genres
         Gospel::Genre
         Gregorian Chant::Genre
         Hymn::Genre
-        Rap::Genre
         Spiritual::Genre
     Rock
         Acid Rock::Genre
