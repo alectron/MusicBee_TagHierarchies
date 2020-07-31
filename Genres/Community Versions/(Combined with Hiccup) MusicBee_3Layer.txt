@@ -1,7 +1,7 @@
 Genres
     Blues · Country · Folk
         Americana
-            Americana::genre
+            Americana::Genre
         Blues
             Acoustic blues::Genre
             American folk music::Genre
@@ -166,124 +166,124 @@ Genres
                 Breakcore::Genre
                 Breaks::Genre
             Hardcore
-                Doomcore::genre
-                Gabba::genre
-                Gabber::genre
-                Happy hardcore::genre
-                Hard beat::genre
-                Hard techno::genre
-                Hardcore::genre
-                Hardstyle::genre
-                Industrial techno::genre
-                J-core::genre
-                Speedcore::genre
-                Techno-industrial::genre
-                Terror::genre
-                Terrorcore::genre
+                Doomcore::Genre
+                Gabba::Genre
+                Gabber::Genre
+                Happy hardcore::Genre
+                Hard beat::Genre
+                Hard techno::Genre
+                Hardcore::Genre
+                Hardstyle::Genre
+                Industrial techno::Genre
+                J-core::Genre
+                Speedcore::Genre
+                Techno-industrial::Genre
+                Terror::Genre
+                Terrorcore::Genre
             House
-                Acid house::genre
-                Ambient house::genre
-                Baltimore club::genre
-                Club::genre
-                Club-house::genre
-                Deep house::genre
-                Donk::genre
-                Electro house::genre
-                Electro-hop::genre
-                Electro-house::genre
-                Euro house::genre
-                Euro-house::genre
-                French house::genre
-                Funky house::genre
-                Garage house::genre
-                Ghetto house::genre
-                Hard house::genre
-                Hardbag::genre
-                Hip house::genre
-                Hip-house::genre
-                House::genre
-                House music::genre
+                Acid house::Genre
+                Ambient house::Genre
+                Baltimore club::Genre
+                Club::Genre
+                Club-house::Genre
+                Deep house::Genre
+                Donk::Genre
+                Electro house::Genre
+                Electro-hop::Genre
+                Electro-house::Genre
+                Euro house::Genre
+                Euro-house::Genre
+                French house::Genre
+                Funky house::Genre
+                Garage house::Genre
+                Ghetto house::Genre
+                Hard house::Genre
+                Hardbag::Genre
+                Hip house::Genre
+                Hip-house::Genre
+                House::Genre
+                House music::Genre
                 Italo house::Genre
-                Juke::genre
-                Microhouse::genre
-                Progressive house::genre
-                Tech house::genre
-                Tribal house::genre
+                Juke::Genre
+                Microhouse::Genre
+                Progressive house::Genre
+                Tech house::Genre
+                Tribal house::Genre
                 Tribal::Genre
-                Tropical house::genre
-                Vocal house::genre
+                Tropical house::Genre
+                Vocal house::Genre
             Other
-                Alternative dance::genre
-                Bubbling::genre
+                Alternative dance::Genre
+                Bubbling::Genre
                 Dance::Genre
                 Dark electro::Genre
-                Darkcore::genre
-                EBM::genre
-                EDM::genre
-                Electro swing::genre
-                Electro::genre
-                Electro-funk::genre
-                Electronic dance music::genre
+                Darkcore::Genre
+                EBM::Genre
+                EDM::Genre
+                Electro swing::Genre
+                Electro::Genre
+                Electro-funk::Genre
+                Electronic dance music::Genre
                 Electronicore::Genre
-                Eurodance::genre
-                Euro-dance::genre
-                Future garage::genre
-                Futurepop::genre
-                Garage::genre
-                Ghettotech::genre
-                Grime::genre
-                Hands up::genre
-                Jazzdance::genre
-                Jungle::genre
+                Eurodance::Genre
+                Euro-dance::Genre
+                Future garage::Genre
+                Futurepop::Genre
+                Garage::Genre
+                Ghettotech::Genre
+                Grime::Genre
+                Hands up::Genre
+                Jazzdance::Genre
+                Jungle::Genre
                 Lento violento::Genre
-                New beat::genre
-                Nu-disco::genre
-                Ragga jungle::genre
-                Rave::genre
-                Skweee::genre
-                Speed garage::genre
+                New beat::Genre
+                Nu-disco::Genre
+                Ragga jungle::Genre
+                Rave::Genre
+                Skweee::Genre
+                Speed garage::Genre
                 Squee::Genre
-                UK funky::genre
+                UK funky::Genre
             Techno
-                Acid::genre
-                Acid electronic::genre
-                Acid techno::genre
-                Ambient techno::genre
-                Deep techno::genre
-                Detroit techno::genre
-                Dub techno::genre
+                Acid::Genre
+                Acid electronic::Genre
+                Acid techno::Genre
+                Ambient techno::Genre
+                Deep techno::Genre
+                Detroit techno::Genre
+                Dub techno::Genre
                 Dubtechno::Genre
-                Euro-techno::genre
+                Euro-techno::Genre
                 Hardcore techno::Genre
-                Makina::genre
-                Minimal techno::genre
-                Nerdcore techno::genre
-                Schranz::genre
-                Techno::genre
+                Makina::Genre
+                Minimal techno::Genre
+                Nerdcore techno::Genre
+                Schranz::Genre
+                Techno::Genre
             Trance
-                Classic trance::genre
-                Euro trance::genre
-                Goa::genre
-                Goa trance::genre
-                Hard trance::genre
-                Hardstyle trance::genre
-                Melodic trance::genre
-                Neo trance::genre
-                Progressive trance::genre
-                Psychedelic trance::genre
-                Psytrance::genre
-                Psy-trance::genre
-                Tech trance::genre
-                Trance::genre
-                Uplifting trance::genre
-                Vocal trance::genre
+                Classic trance::Genre
+                Euro trance::Genre
+                Goa::Genre
+                Goa trance::Genre
+                Hard trance::Genre
+                Hardstyle trance::Genre
+                Melodic trance::Genre
+                Neo trance::Genre
+                Progressive trance::Genre
+                Psychedelic trance::Genre
+                Psytrance::Genre
+                Psy-trance::Genre
+                Tech trance::Genre
+                Trance::Genre
+                Uplifting trance::Genre
+                Vocal trance::Genre
         Electronic
             Ambient
-                Ambient::genre
-                Ambient dub::genre
-                Ambient music::genre
-                Dark ambient::genre
-                Ritual ambient::genre
+                Ambient::Genre
+                Ambient dub::Genre
+                Ambient music::Genre
+                Dark ambient::Genre
+                Ritual ambient::Genre
             Avant-Garde
                 Avant-Garde::Genre
                 Experimental::Genre
@@ -312,50 +312,50 @@ Genres
             IDM
                 Drill and bass::Genre
                 Drill 'n' bass::Genre
-                IDM::genre
-                Flashcore::genre
-                Intelligent dance music::genre
+                IDM::Genre
+                Flashcore::Genre
+                Intelligent dance music::Genre
             Other
-                Acid jazz::genre
-                Berlin-school::genre
-                Bitcore::genre
+                Acid jazz::Genre
+                Berlin-school::Genre
+                Bitcore::Genre
                 Chillout::Genre
-                Chillwave::genre
-                Chiptune::genre
-                Downtempo::genre
+                Chillwave::Genre
+                Chiptune::Genre
+                Downtempo::Genre
                 Dream::Genre
-                Dungeon synth::genre
-                Electroclash::genre
+                Dungeon synth::Genre
+                Electroclash::Genre
                 Electro-industrial::Genre
-                Electronic music::genre
-                Electronic::genre
+                Electronic music::Genre
+                Electronic::Genre
                 Fusion::Genre
-                Future jazz::genre
-                Glitch::genre
+                Future jazz::Genre
+                Glitch::Genre
                 Harsh noise wall::Genre
                 Harsh noise::Genre
-                Hauntology::genre
+                Hauntology::Genre
                 Hi-NRG::Genre
-                Illbient::genre
-                Indietronica::genre
+                Illbient::Genre
+                Indietronica::Genre
                 Industrial::Genre
                 Instrumental::Genre
-                Lowercase::genre
+                Lowercase::Genre
                 Meditative::Genre
-                Musique concrète::genre
-                Nightcore::genre
-                Nu jazz::genre
+                Musique concrète::Genre
+                Nightcore::Genre
+                Nu jazz::Genre
                 Power electronics::Genre
-                Progressive electronic::genre
+                Progressive electronic::Genre
                 Psychedelic::Genre
                 Rhythmic noise::Genre
                 Space::Genre
-                Synthwave::genre
-                Tribal ambient::genre
-                Trip hop::genre
-                Trip-hop::genre
-                Vaporwave::genre
-                Witch house::genre
+                Synthwave::Genre
+                Tribal ambient::Genre
+                Trip hop::Genre
+                Trip-hop::Genre
+                Vaporwave::Genre
+                Witch house::Genre
     Hip-Hop · Rap
         Hip-Hop
             Alternative hip hop::Genre
@@ -756,48 +756,48 @@ Genres
             Nu-disco::Genre
             Post-disco::Genre
         Funk
-            Bayou funk::genre
-            Deep funk::genre
+            Bayou funk::Genre
+            Deep funk::Genre
             Free funk::Genre
-            Funk::genre
-            Gogo::genre
-            Go-go::genre
-            Nu-funk::genre
-            P.Funk::genre
-            P-funk::genre
-            Psychedelic funk::genre
+            Funk::Genre
+            Gogo::Genre
+            Go-go::Genre
+            Nu-funk::Genre
+            P.Funk::Genre
+            P-funk::Genre
+            Psychedelic funk::Genre
         R&B
             Alternative R&B::Genre
-            Contemporary R&B::genre
+            Contemporary R&B::Genre
             Doo Wop::Genre
-            Doo-wop::genre
-            Hip hop soul::genre
-            Hip-hop soul::genre
+            Doo-wop::Genre
+            Hip hop soul::Genre
+            Hip-hop soul::Genre
             Indie R&B::Genre
-            New jack swing::genre
-            Quiet storm::genre
-            R&B::genre
-            Rhythm and blues::genre
-            Slow jam::genre
-            Swingbeat::genre
+            New jack swing::Genre
+            Quiet storm::Genre
+            R&B::Genre
+            Rhythm and blues::Genre
+            Slow jam::Genre
+            Swingbeat::Genre
         Soul
-            Blue-eyed soul::genre
-            Deep soul::genre
-            Funk soul::genre
-            Minneapolis sound::genre
-            Motown::genre
-            Neo soul::genre
+            Blue-eyed soul::Genre
+            Deep soul::Genre
+            Funk soul::Genre
+            Minneapolis sound::Genre
+            Motown::Genre
+            Neo soul::Genre
             Neo-Soul::Genre
-            Northern soul::genre
-            Philadelphia soul::genre
-            Pop soul::genre
-            Psychedelic soul::genre
-            Rhythmic soul::genre
-            Smooth soul::genre
-            Soul::genre
-            Soul music::genre
-            Southern soul::genre
-            UK street soul::genre
+            Northern soul::Genre
+            Philadelphia soul::Genre
+            Pop soul::Genre
+            Psychedelic soul::Genre
+            Rhythmic soul::Genre
+            Smooth soul::Genre
+            Soul::Genre
+            Soul music::Genre
+            Southern soul::Genre
+            UK street soul::Genre
     Reggae
         2 Tone::Genre
         Dancehall
@@ -823,250 +823,250 @@ Genres
         Spiritual::Genre
     Rock · Metal · Punk
         Rock
-            Acid rock::genre
-            Acoustic rock::genre
+            Acid rock::Genre
+            Acoustic rock::Genre
             Acoustic::Genre
-            Adult Oriented Rock::genre
-            Alternative rock::genre
+            Adult Oriented Rock::Genre
+            Alternative rock::Genre
             Alternative::Genre
-            Alternrock::genre
-            AOR::genre
-            Arena rock::genre
-            Art rock::genre
-            Avant-prog::genre
-            Beat music::genre
-            Beat::genre
-            Blues rock::genre
-            Blues-rock::genre
-            Brit pop::genre
-            Britpop::genre
-            Canterbury scene::genre
-            Christian rock::genre
-            Classic rock::genre
-            College rock::genre
-            Comedy rock::genre
-            Country rock::genre
-            Crossover Prog::genre
-            Dance-rock::genre
-            Dark cabaret::genre
-            Desert rock::genre
-            Electronic rock::genre
-            Experimental rock::genre
-            Folk rock::genre
-            French rock::genre
-            Funk rock::genre
-            Garage rock::genre
-            Glam rock::genre
-            Glam::genre
-            Glamrock::genre
-            Goth rock::genre
-            Gothic rock::genre
-            Gothic::genre
-            Grunge::genre
-            Hard rock::genre
-            Heartland rock::genre
-            Indie rock::genre
-            Indie::genre
-            Indorock::genre
-            Industrial rock::genre
-            Instrumental rock::genre
-            Jam band::genre
-            Krautrock::genre
-            Latin rock::genre
-            Madchester::genre
-            Mainstream rock::genre
-            Math rock::genre
-            Melodic rock::genre
-            Mod::genre
-            NDW::genre
-            Neo-prog::genre
-            Neo-progressive rock::genre
-            Neo-psychedelia::genre
-            Neo-rockabilly::genre
-            Neue Deutsche Welle::genre
+            Alternrock::Genre
+            AOR::Genre
+            Arena rock::Genre
+            Art rock::Genre
+            Avant-prog::Genre
+            Beat music::Genre
+            Beat::Genre
+            Blues rock::Genre
+            Blues-rock::Genre
+            Brit pop::Genre
+            Britpop::Genre
+            Canterbury scene::Genre
+            Christian rock::Genre
+            Classic rock::Genre
+            College rock::Genre
+            Comedy rock::Genre
+            Country rock::Genre
+            Crossover Prog::Genre
+            Dance-rock::Genre
+            Dark cabaret::Genre
+            Desert rock::Genre
+            Electronic rock::Genre
+            Experimental rock::Genre
+            Folk rock::Genre
+            French rock::Genre
+            Funk rock::Genre
+            Garage rock::Genre
+            Glam rock::Genre
+            Glam::Genre
+            Glamrock::Genre
+            Goth rock::Genre
+            Gothic rock::Genre
+            Gothic::Genre
+            Grunge::Genre
+            Hard rock::Genre
+            Heartland rock::Genre
+            Indie rock::Genre
+            Indie::Genre
+            Indorock::Genre
+            Industrial rock::Genre
+            Instrumental rock::Genre
+            Jam band::Genre
+            Krautrock::Genre
+            Latin rock::Genre
+            Madchester::Genre
+            Mainstream rock::Genre
+            Math rock::Genre
+            Melodic rock::Genre
+            Mod::Genre
+            NDW::Genre
+            Neo-prog::Genre
+            Neo-progressive rock::Genre
+            Neo-psychedelia::Genre
+            Neo-rockabilly::Genre
+            Neue Deutsche Welle::Genre
             New Age::Genre
-            New prog::genre
-            New wave::genre
-            No wave::genre
-            Noise pop::genre
-            Noise rock::genre
-            Occult rock::genre
+            New prog::Genre
+            New wave::Genre
+            No wave::Genre
+            Noise pop::Genre
+            Noise rock::Genre
+            Occult rock::Genre
             Oldies::Genre
-            Paisley underground::genre
-            Piano rock::genre
-            Post-britpop::genre
-            Post-grunge::genre
-            Post-progressive::genre
-            Post-punk revival::genre
-            Post-rock::genre
-            Power pop::genre
-            Prog rock::genre
-            Progressive rock::genre
-            Prog-rock::genre
-            Proto-prog::genre
-            Psychedelia::genre
-            Psychedelic rock::genre
-            Pub rock::genre
-            Rap rock::genre
-            Rapcore::genre
-            Reggae rock::genre
-            Rock & roll::genre
-            Rock and roll::genre
-            Rock music::genre
-            Rock opera::genre
-            Rock pop::genre
-            Rock::genre
-            Roots rock::genre
-            Sadcore::genre
-            Shock rock::genre
-            Shoegaze::genre
-            Shoegazing::genre
-            Slow rock::genre
-            Slowcore::genre
-            Soft rock::genre
-            Southern rock::genre
-            Space rock::genre
-            Stoner metal::genre
-            Stoner rock::genre
-            Surf music::genre
-            Surf rock::genre
-            Surf::genre
-            Swamp pop::genre
-            Swamp rock::genre
-            Symphonic prog::genre
-            Symphonic rock::genre
-            Twist::genre
-            Yacht rock::genre
-            Zeuhl::genre
+            Paisley underground::Genre
+            Piano rock::Genre
+            Post-britpop::Genre
+            Post-grunge::Genre
+            Post-progressive::Genre
+            Post-punk revival::Genre
+            Post-rock::Genre
+            Power pop::Genre
+            Prog rock::Genre
+            Progressive rock::Genre
+            Prog-rock::Genre
+            Proto-prog::Genre
+            Psychedelia::Genre
+            Psychedelic rock::Genre
+            Pub rock::Genre
+            Rap rock::Genre
+            Rapcore::Genre
+            Reggae rock::Genre
+            Rock & roll::Genre
+            Rock and roll::Genre
+            Rock music::Genre
+            Rock opera::Genre
+            Rock pop::Genre
+            Rock::Genre
+            Roots rock::Genre
+            Sadcore::Genre
+            Shock rock::Genre
+            Shoegaze::Genre
+            Shoegazing::Genre
+            Slow rock::Genre
+            Slowcore::Genre
+            Soft rock::Genre
+            Southern rock::Genre
+            Space rock::Genre
+            Stoner metal::Genre
+            Stoner rock::Genre
+            Surf music::Genre
+            Surf rock::Genre
+            Surf::Genre
+            Swamp pop::Genre
+            Swamp rock::Genre
+            Symphonic prog::Genre
+            Symphonic rock::Genre
+            Twist::Genre
+            Yacht rock::Genre
+            Zeuhl::Genre
         Heavy metal
-            Atmospheric black metal::genre
-            Avant-garde metal::genre
-            Black metal::genre
-            Blackened death metal::genre
-            Blackgaze::genre
-            Brutal death metal::genre
-            Christian metal::genre
-            Death metal::genre
-            Death-doom metal::genre
-            Depressive black metal::genre
-            Djent::genre
-            Doom metal::genre
-            Drone metal::genre
-            Folk metal::genre
-            Funeral doom metal::genre
-            Glam metal::genre
-            Gothic metal::genre
-            Groove metal::genre
-            Heavy metal::genre
-            Heavy psych::genre
-            Heavy rock::genre
-            Industrial metal::genre
-            Melodic black metal::genre
-            Melodic death metal::genre
-            Melodic metalcore::genre
-            Metal::genre
-            Neo-classical metal::genre
-            Old school death metal::genre
-            Pop metal::genre
-            Post-metal::genre
-            Power metal::genre
-            Progressive death metal::genre
-            Progressive metal::genre
-            Sludge metal::genre
-            Speed metal::genre
-            Symphonic black metal::genre
-            Symphonic metal::genre
-            Technical death metal::genre
-            Thrash metal::genre
-            Traditional heavy metal::genre
-            Viking metal::genre
+            Atmospheric black metal::Genre
+            Avant-garde metal::Genre
+            Black metal::Genre
+            Blackened death metal::Genre
+            Blackgaze::Genre
+            Brutal death metal::Genre
+            Christian metal::Genre
+            Death metal::Genre
+            Death-doom metal::Genre
+            Depressive black metal::Genre
+            Djent::Genre
+            Doom metal::Genre
+            Drone metal::Genre
+            Folk metal::Genre
+            Funeral doom metal::Genre
+            Glam metal::Genre
+            Gothic metal::Genre
+            Groove metal::Genre
+            Heavy metal::Genre
+            Heavy psych::Genre
+            Heavy rock::Genre
+            Industrial metal::Genre
+            Melodic black metal::Genre
+            Melodic death metal::Genre
+            Melodic metalcore::Genre
+            Metal::Genre
+            Neo-classical metal::Genre
+            Old school death metal::Genre
+            Pop metal::Genre
+            Post-metal::Genre
+            Power metal::Genre
+            Progressive death metal::Genre
+            Progressive metal::Genre
+            Sludge metal::Genre
+            Speed metal::Genre
+            Symphonic black metal::Genre
+            Symphonic metal::Genre
+            Technical death metal::Genre
+            Thrash metal::Genre
+            Traditional heavy metal::Genre
+            Viking metal::Genre
         Other
-            Alternative metal::genre
-            Boogie rock::genre
-            Dark electro::genre
-            Dark wave::genre
-            Darkwave::genre
-            Deathcore::genre
-            Deathgrind::genre
-            Deconstructed club::genre
+            Alternative metal::Genre
+            Boogie rock::Genre
+            Dark electro::Genre
+            Dark wave::Genre
+            Darkwave::Genre
+            Deathcore::Genre
+            Deathgrind::Genre
+            Deconstructed club::Genre
             Drum Solo::Genre
-            Electro-industrial::genre
-            Electronicore::genre
-            Ethereal wave::genre
-            Ethereal::genre
-            Funk metal::genre
-            Grindcore::genre
-            Harsh noise wall::genre
-            Harsh noise::genre
-            Industrial music::genre
-            Industrial::genre
-            Martial industrial::genre
-            Mathcore::genre
-            Metalcore::genre
-            Mincecore::genre
-            Neue Deutsche Härte::genre
-            Noise music::genre
-            Noise::genre
-            Nu metal::genre
-            Post-club::genre
-            Post-industrial music::genre
-            Post-industrial::genre
-            Power electronics::genre
-            Power noise::genre
-            Rap metal::genre
-            Rhythmic noise::genre
-            Trancecore::genre
-            Unblack metal::genre
+            Electro-industrial::Genre
+            Electronicore::Genre
+            Ethereal wave::Genre
+            Ethereal::Genre
+            Funk metal::Genre
+            Grindcore::Genre
+            Harsh noise wall::Genre
+            Harsh noise::Genre
+            Industrial music::Genre
+            Industrial::Genre
+            Martial industrial::Genre
+            Mathcore::Genre
+            Metalcore::Genre
+            Mincecore::Genre
+            Neue Deutsche Härte::Genre
+            Noise music::Genre
+            Noise::Genre
+            Nu metal::Genre
+            Post-club::Genre
+            Post-industrial music::Genre
+            Post-industrial::Genre
+            Power electronics::Genre
+            Power noise::Genre
+            Rap metal::Genre
+            Rhythmic noise::Genre
+            Trancecore::Genre
+            Unblack metal::Genre
         Punk
-            Acid punk::genre
-            Alternative punk::genre
-            Anarcho-punk::genre
-            Art punk::genre
-            Beatdown::genre
-            Celtic punk::genre
-            Coldwave::genre
-            Cowpunk::genre
-            Crossover thrash metal::genre
-            Crust punk::genre
-            Crust::genre
-            Cyberpunk::genre
-            Dance-punk::genre
-            D-beat::genre
-            Deathrock::genre
-            Digital hardcore::genre
-            Electropunk::genre
-            Emo::genre
-            Emocore::genre
-            Folk punk::genre
-            Garage punk::genre
-            Goregrind::genre
-            Hardcore punk::genre
-            Horror punk::genre
-            Horror rock::genre
-            Melodic hardcore::genre
+            Acid punk::Genre
+            Alternative punk::Genre
+            Anarcho-punk::Genre
+            Art punk::Genre
+            Beatdown::Genre
+            Celtic punk::Genre
+            Coldwave::Genre
+            Cowpunk::Genre
+            Crossover thrash metal::Genre
+            Crust punk::Genre
+            Crust::Genre
+            Cyberpunk::Genre
+            Dance-punk::Genre
+            D-beat::Genre
+            Deathrock::Genre
+            Digital hardcore::Genre
+            Electropunk::Genre
+            Emo::Genre
+            Emocore::Genre
+            Folk punk::Genre
+            Garage punk::Genre
+            Goregrind::Genre
+            Hardcore punk::Genre
+            Horror punk::Genre
+            Horror rock::Genre
+            Melodic hardcore::Genre
             Negerpunk::Genre
-            Noisecore::genre
-            Oi::genre
-            Pop punk::genre
-            Pornogrind::genre
-            Post-hardcore::genre
-            Post-punk::genre
-            Powerviolence::genre
-            Protopunk::genre
-            Proto-punk::genre
-            Psychobilly::genre
-            Punk blues::genre
-            Punk rock::genre
-            Punk::genre
-            Queercore::genre
-            Rockabilly::genre
-            Screamo::genre
-            Ska punk::genre
-            Skacore::genre
-            Street punk::genre
-            Synthpunk::genre
-            Thrash::genre
-            Thrashcore::genre
+            Noisecore::Genre
+            Oi::Genre
+            Pop punk::Genre
+            Pornogrind::Genre
+            Post-hardcore::Genre
+            Post-punk::Genre
+            Powerviolence::Genre
+            Protopunk::Genre
+            Proto-punk::Genre
+            Psychobilly::Genre
+            Punk blues::Genre
+            Punk rock::Genre
+            Punk::Genre
+            Queercore::Genre
+            Rockabilly::Genre
+            Screamo::Genre
+            Ska punk::Genre
+            Skacore::Genre
+            Street punk::Genre
+            Synthpunk::Genre
+            Thrash::Genre
+            Thrashcore::Genre
     World
         African
             Afoxê::Genre
