@@ -15,7 +15,7 @@ Genres
             Delta blues::Genre
             East coast blues::Genre
             Electric blues::Genre
-            Fife and Drum Blues::Genres
+            Fife and Drum Blues::Genre
             Harmonica blues::Genre
             Jazz blues::Genre
             Jump blues::Genre
@@ -355,7 +355,7 @@ Genres
                 Trip hop::Genre
                 Trip-hop::Genre
                 Vaporwave::Genre
-                Witch house::Genre
+                Witch House::Genre
     Hip-Hop · Rap
         Hip-Hop
             Alternative hip hop::Genre
@@ -508,7 +508,7 @@ Genres
             Lullaby::Genre
             Nursery rhymes::Genre
             Story::Genre
-        Non-Music
+        Misc
             Anime::Genre
             Audiobook::Genre
             Chanson::Genre
@@ -520,6 +520,7 @@ Genres
             March::Genre
             Misc::Genre
             Movie effects::Genre
+			Movie Soundtrack::Genre
             Musical::Genre
             National Anthem::Genre
             Non-music::Genre
@@ -535,6 +536,7 @@ Genres
             Speech::Genre
             Spoken word::Genre
             Therapy::Genre
+			Video Game Soundtreack::Genre
             Worldbeat::Genre
         Stage & Screen
             Cabaret::Genre
@@ -746,6 +748,7 @@ Genres
         Turkish Pop::Genre
         Vis-Pop::Genre
         Wonky Pop::Genre
+		Wonky::Genre
         Yé-yé::Genre
     Disco · Funk · R&B · Soul
         Disco
