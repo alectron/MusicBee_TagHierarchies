@@ -1,13 +1,21 @@
-//based on https://mimo-international.com/MIMO/
-//cleaned up, unified for MusicBee tag hierarchy use, and part of https://github.com/alectron/MusicBee_TagHierarchies
-//not found on MIMO: Orutu; AutoTune, Juno-106, ARP Odyssey, Delay, Break - Amen, Break - Apache, Break - Funky Drummer, Break - Levee Breaks, Break - Triggaman, Sound - Hoover, Sound - Wilhelm scream, , ARP 2600, ARP Odyssey, CS-80, DX7, JD-800, Juno-106, Minimoog, OB-Xa, Prophet-5, SH-101, Synthesizer, TB-303, TR-606, TR-707, TR-808, TR-909, Wavestation, Animal Sounds, Bird, Choir, Voice Female, Voice Humming, Voice Kid, Voice Male, Voice Robot, Voice::Instruments
-// Different connotation than on MIMO: Beatbox,
+// Based on https://mimo-international.com/MIMO/
+// Cleaned up, unified for MusicBee tag hierarchy use, and part of https://github.com/alectron/MusicBee_TagHierarchies
 //--------------------
-//changes: added Orutu, Juno-106, ARP Odyssey, chamged Synth naming prefixes to be more exact
+//--------------------
+// Traditional instruments not found on MIMO: 
+// Orutu, 
+//-------------------- 
+// Non traditional instruments not found on MIMO or outside of scope: 
+// AutoTune, Juno-106, ARP Odyssey, Delay, Talk box, Break - Amen, Break - Apache, Break - Funky Drummer, Break - Levee Breaks, Break - Triggaman, Sound - Hoover, Sound - Wilhelm scream, ARP 2600, ARP Odyssey, CS-80, DX7, JD-800, Juno-106, Minimoog, OB-Xa, Prophet-5, SH-101, Synthesizer, TB-303, TR-606, TR-707, TR-808, TR-909, Wavestation, Animal Sounds, Bird, Choir, Voice Female, Voice Humming, Voice Kid, Voice Male, Voice Robot, Voice::Instruments
+//--------------------
+// Different connotation than on MIMO: 
+// Beatbox,
+//--------------------
+// Changes: added Guzheng, Rubab, Talk box
 //--------------------
 Electronic instruments
     Electronic
-        Accordion-synthesizer::Instruments 
+        Accordion-synthesizer::Instruments
         Assemblage of electronic modules::Instruments
         Clavioline::Instruments
         Gmebaphone::Instruments
@@ -25,7 +33,8 @@ Electronic instruments
     Effects
         AutoTune::Instruments
         Delay::Instruments
-        Vocoder::Instruments  
+        Talk box::Instruments
+        Vocoder::Instruments
     Samples
         Break - Amen::Instruments
         Break - Apache::Instruments
@@ -55,18 +64,18 @@ Electronic instruments
 Keyboard instruments
     Clavichords
         Clavichord::Instruments
-        Organ clavichord::Instruments 
+        Organ clavichord::Instruments
     Harpsichords
         Clavicytherium::Instruments
         Claviorgan::Instruments
-        Double virginal::Instruments 
+        Double virginal::Instruments
         Harpsichord::Instruments
         Muselar::Instruments
         Portable harpsichord::Instruments
         Spinet::Instruments
         Virginal::Instruments
     Metallophones Keyboard instruments
-        Celesta::Instruments 
+        Celesta::Instruments
     Organs
         Aeolian organ::Instruments
         Cabinet organ::Instruments
@@ -74,7 +83,7 @@ Keyboard instruments
         Organ::Instruments
         Portative organ::Instruments
         Positive organ::Instruments
-        Pyrophone::Instruments 
+        Pyrophone::Instruments
     Other Keyboard instruments
         Electric organ::Instruments
         Electronic organ::Instruments
@@ -82,8 +91,8 @@ Keyboard instruments
         Klavizilinder::Instruments
         Melodion::Instruments
         Piano quatuor::Instruments
-        Streichklavier::Instruments 
-        Synclavier::Instruments 
+        Streichklavier::Instruments
+        Synclavier::Instruments
         Terpodion::Instruments
     Pianofortes
         Automatic piano::Instruments
@@ -105,14 +114,14 @@ Keyboard instruments
         Piano organisé::Instruments
         Piano table::Instruments
         Piano à pédalier::Instruments
-        Piano-guitar::Instruments 
+        Piano-guitar::Instruments
         Pianoforte::Instruments
         Pyramid pianoforte::Instruments
         Square pianoforte::Instruments
         Tangent piano::Instruments
         Upright pianoforte::Instruments
     Reed organs
-        Aéréphone::Instruments 
+        Aéréphone::Instruments
         Claviphone::Instruments
         Harmonichord::Instruments
         Harmoniphone::Instruments
@@ -161,7 +170,7 @@ Mechanical instruments
     Phonola::Instruments
     Piano player::Instruments
     Player piano::Instruments
-    Pneumatic piano::Instruments 
+    Pneumatic piano::Instruments
     Polyphon::Instruments
     Symphonion::Instruments
 Mirlitons
@@ -172,7 +181,7 @@ Other instruments
     Crystal Baschet::Instruments
     Crystallophone::Instruments
     Dulcitone::Instruments
-    Fusu de nuxi::Instruments 
+    Fusu de nuxi::Instruments
     Glasschord::Instruments
     Horse's hoof effect::Instruments
     Jaltarang::Instruments
@@ -234,11 +243,11 @@ Percussion instruments
         Washint::Instruments
         Windbell::Instruments
         Yinqing::Instruments
-        Yo::Instruments 
+        Yo::Instruments
         Yoryeong::Instruments
         Zan::Instruments
     Clappers
-        Abak::Instruments 
+        Abak::Instruments
         Batte d'arlequin::Instruments
         Bones::Instruments
         Cap ke::Instruments
@@ -605,7 +614,7 @@ Percussion instruments
         Woka::Instruments
         Yaogu::Instruments
         Yeongdo::Instruments
-        Yeonggo::Instruments 
+        Yeonggo::Instruments
         Yonggo::Instruments
         Youba::Instruments
         Zambomba::Instruments
@@ -653,7 +662,7 @@ Percussion instruments
         Maung::Instruments
         Nyo::Instruments
         Pong::Instruments
-        Seolsoe::Instruments 
+        Seolsoe::Instruments
         Shoko::Instruments
         Suwukan::Instruments
         Tam am la::Instruments
@@ -664,7 +673,7 @@ Percussion instruments
         Yunluo::Instruments
         Zhengluo::Instruments
     Jingles
-        Bangul::Instruments 
+        Bangul::Instruments
         Chimta::Instruments
         Jingle::Instruments
         Lozhky::Instruments
@@ -681,7 +690,7 @@ Percussion instruments
         Jharidap::Instruments
         Kettledrum::Instruments
         Khurdak::Instruments
-        Kvakhi::Instruments 
+        Kvakhi::Instruments
         Madar::Instruments
         Nagara::Instruments
         Nakers::Instruments
@@ -696,7 +705,7 @@ Percussion instruments
         Tubilattes::Instruments
     Lamellaphones
         Bantyu::Instruments
-        Claviola::Instruments 
+        Claviola::Instruments
         Ikembe::Instruments
         Ilimba::Instruments
         Insimbi::Instruments
@@ -723,7 +732,7 @@ Percussion instruments
         Lithophone::Instruments
         P'yon'gyong::Instruments
         Qing::Instruments
-        T'ukkyong::Instruments 
+        T'ukkyong::Instruments
     Metallophones
         Chime bar::Instruments
         Gender::Instruments
@@ -736,7 +745,7 @@ Percussion instruments
         Lyra glockenspiel::Instruments
         Metallophone::Instruments
         Ocleal::Instruments
-        Orpheal::Instruments 
+        Orpheal::Instruments
         Panghyang::Instruments
         Penyacah::Instruments
         Resting bell::Instruments
@@ -773,13 +782,13 @@ Percussion instruments
         Kashtha tarang::Instruments
         Kyi-zi::Instruments
         Launut::Instruments
-        Moktak::Instruments 
+        Moktak::Instruments
         Mokugyo::Instruments
         Mugu::Instruments
         Musical waterpot::Instruments
         Quitiplas::Instruments
         Rain machine::Instruments
-        Struck idiophone::Instruments 
+        Struck idiophone::Instruments
         Tintinca::Instruments
         Toa::Instruments
         Triangle::Instruments
@@ -811,7 +820,7 @@ Percussion instruments
         Legwegwe::Instruments
         Lengwow::Instruments
         Lezim::Instruments
-        M'feul::Instruments 
+        M'feul::Instruments
         Maracas::Instruments
         Mouassi::Instruments
         Moumouaka::Instruments
@@ -846,7 +855,7 @@ Percussion instruments
         Guiro::Instruments
         Kenyen::Instruments
         Omichicahuaztli::Instruments
-        Reco-reco::Instruments 
+        Reco-reco::Instruments
         Reque reque::Instruments
         Scraped idiophone::Instruments
         Scraped stick::Instruments
@@ -865,7 +874,7 @@ Percussion instruments
         Kovïzh::Instruments
         Kubing::Instruments
         Marranzanu::Instruments
-        Mukkuri::Instruments 
+        Mukkuri::Instruments
         Murcang::Instruments
         Susap::Instruments
         Tombagl::Instruments
@@ -901,7 +910,7 @@ Percussion instruments
         Tregnon::Instruments
         Valimba::Instruments
         Xylophone::Instruments
-        Xèma::Instruments 
+        Xèma::Instruments
         Zanga::Instruments
 Stringed instruments
     Citterns
@@ -911,11 +920,11 @@ Stringed instruments
         Cithrinchen::Instruments
         Cittern::Instruments
         English guitar::Instruments
-        Tourterelle::Instruments 
+        Tourterelle::Instruments
     Double basses
         Basy::Instruments
         Double bass::Instruments
-        Gorduna::Instruments 
+        Gorduna::Instruments
         Octobass::Instruments
     Fiddles
         Arababu::Instruments
@@ -972,7 +981,7 @@ Stringed instruments
         Nyckelharpa::Instruments
         One-string fiddle::Instruments
         Orutu::Instruments
-        Pulluvan vina::Instruments 
+        Pulluvan vina::Instruments
         Qobuz::Instruments
         Rabab::Instruments
         Rababa::Instruments
@@ -994,7 +1003,7 @@ Stringed instruments
         Yehu::Instruments
         Zhonghu::Instruments
     Guitars
-        Alto guitar::Instruments 
+        Alto guitar::Instruments
         Banjo-mandolin::Instruments
         Banjo::Instruments
         Banjulele::Instruments
@@ -1034,7 +1043,7 @@ Stringed instruments
         Kori::Instruments
         N'goni::Instruments
         Sarong::Instruments
-        Seperewa::Instruments 
+        Seperewa::Instruments
         Simbing::Instruments
         Soron::Instruments
         Tokô::Instruments
@@ -1056,7 +1065,7 @@ Stringed instruments
         Nedomu::Instruments
         Ngombi::Instruments
         Ombi::Instruments
-        Para::Instruments 
+        Para::Instruments
         Saung-gauk::Instruments
         Spike harp::Instruments
         Wa-konghu::Instruments
@@ -1065,7 +1074,7 @@ Stringed instruments
         Hurdy-gurdy::Instruments
         Lira organizzata::Instruments
         Orpheon::Instruments
-        Tekerö::Instruments 
+        Tekerö::Instruments
     Lutes
         Angel lute::Instruments
         Archlute::Instruments
@@ -1147,6 +1156,7 @@ Stringed instruments
         Quwaytara::Instruments
         Rabel::Instruments
         Ruan::Instruments
+        Rubab::Instruments
         Sanshin::Instruments
         Sanxian::Instruments
         Sapeh::Instruments
@@ -1167,7 +1177,7 @@ Stringed instruments
         Surbahar::Instruments
         Surmanjali::Instruments
         Sursrngar::Instruments
-        Tahardant::Instruments 
+        Tahardant::Instruments
         Tahardjan::Instruments
         Tambura::Instruments
         Tamburica::Instruments
@@ -1195,7 +1205,7 @@ Stringed instruments
         Ndongo::Instruments
     Mandolins
         Bandolim::Instruments
-        Double mandolin::Instruments 
+        Double mandolin::Instruments
         Mandolin::Instruments
         Mandoloncello::Instruments
         Mandore::Instruments
@@ -1204,7 +1214,7 @@ Stringed instruments
     Monochords
         Anandalahari::Instruments
         Gopiyantra::Instruments
-        Gubgubi::Instruments 
+        Gubgubi::Instruments
         Monochord::Instruments
         Trumpet marine::Instruments
     Musical bows
@@ -1217,7 +1227,7 @@ Stringed instruments
         Gora::Instruments
         Lesiba::Instruments
         Llg'ase::Instruments
-        Lonlon::Instruments 
+        Lonlon::Instruments
         Lukombe::Instruments
         Lunko::Instruments
         Mouth bow::Instruments
@@ -1232,7 +1242,7 @@ Stringed instruments
     Violas
         Tenor viola::Instruments
         Tenor violin::Instruments
-        Viola alta::Instruments 
+        Viola alta::Instruments
         Viola::Instruments
         Violalin::Instruments
     Violins
@@ -1244,7 +1254,7 @@ Stringed instruments
         Kit::Instruments
         Pochette d'amour::Instruments
         Viola arpa::Instruments
-        Viola d'amore::Instruments 
+        Viola d'amore::Instruments
         Violin d'amore::Instruments
         Violin::Instruments
         Violino piccolo::Instruments
@@ -1252,7 +1262,7 @@ Stringed instruments
         Arpeggione::Instruments
         Controviolino::Instruments
         Gardon::Instruments
-        Tenor new violin::Instruments 
+        Tenor new violin::Instruments
         Viola pomposa::Instruments
         Violoncello piccolo::Instruments
         Violoncello::Instruments
@@ -1303,6 +1313,7 @@ Stringed instruments
         Gondang buluh::Instruments
         Guitar-zither::Instruments
         Gusli::Instruments
+        Guzheng::Instruments
         Harp-zither::Instruments
         Higheghe::Instruments
         Hommel::Instruments
@@ -1346,7 +1357,7 @@ Stringed instruments
         Santur::Instruments
         Sasando::Instruments
         Scheitholt::Instruments
-        Seul::Instruments 
+        Seul::Instruments
         Shichigen-kin::Instruments
         Siter::Instruments
         Sluday::Instruments
@@ -1396,7 +1407,7 @@ Wind instruments
         Chromatic accordion::Instruments
         Concertina::Instruments
         Diatonic accordion::Instruments
-        Electronic accordion::Instruments 
+        Electronic accordion::Instruments
         English concertina::Instruments
         Garmoshka::Instruments
         Harmoni-cor::Instruments
@@ -1432,7 +1443,7 @@ Wind instruments
         Phagotum::Instruments
         Piob mhor::Instruments
         Piva::Instruments
-        Sac de gemecs::Instruments 
+        Sac de gemecs::Instruments
         Shabr::Instruments
         Shüvir::Instruments
         Small-pipe::Instruments
@@ -1461,7 +1472,7 @@ Wind instruments
         Sarrusophone::Instruments
         Sordun::Instruments
         Tenoroon::Instruments
-        Tritonikon::Instruments 
+        Tritonikon::Instruments
     Bugles
         Bass bugle::Instruments
         Bersag horn::Instruments
@@ -1472,7 +1483,7 @@ Wind instruments
     Bullroarers
         Balum::Instruments
         Bullroarer::Instruments
-        Hor::Instruments 
+        Hor::Instruments
         Peer boor egah::Instruments
     Clarinets
         Alboka::Instruments
@@ -1490,7 +1501,7 @@ Wind instruments
         Double clarinet::Instruments
         Dozale::Instruments
         Erkencho::Instruments
-        Fawinin::Instruments 
+        Fawinin::Instruments
         Hornpipe::Instruments
         Idioglot clarinet::Instruments
         Ken doi::Instruments
@@ -1521,14 +1532,14 @@ Wind instruments
         Cornet::Instruments
         Cornopean::Instruments
         Echo cornet::Instruments
-        Mellophone::Instruments 
+        Mellophone::Instruments
     Cornetts
         Bass cornett::Instruments
         Cornett::Instruments
         Cornettino::Instruments
         Mute cornett::Instruments
         Straight cornett::Instruments
-        Treble cornett::Instruments 
+        Treble cornett::Instruments
     Flugelhorns
         Alto flugelhorn::Instruments
         Baritone flugelhorn::Instruments
@@ -1573,7 +1584,7 @@ Wind instruments
         Denena::Instruments
         Descant recorder::Instruments
         Di::Instruments
-        Dja mblai::Instruments 
+        Dja mblai::Instruments
         Djaouak::Instruments
         Djouak::Instruments
         Dongxiao::Instruments
@@ -1757,7 +1768,7 @@ Wind instruments
         Zuffolo::Instruments
     Harmonicas
         Harmonica::Instruments
-        Melodica::Instruments 
+        Melodica::Instruments
     Horns
         Baoorgo::Instruments
         Basset horn::Instruments
@@ -1769,7 +1780,7 @@ Wind instruments
         Inventionshorn::Instruments
         Kudu::Instruments
         Ligawka::Instruments
-        Lisseke::Instruments 
+        Lisseke::Instruments
         Mvoula-mvouli::Instruments
         Mvoumvouri::Instruments
         Mvuli::Instruments
@@ -1792,7 +1803,7 @@ Wind instruments
         Trompe de Lorraine::Instruments
     Mouth organs
         Bawu::Instruments
-        Bo-cioski::Instruments 
+        Bo-cioski::Instruments
         Dinh nam::Instruments
         Keledi::Instruments
         Ken be::Instruments
@@ -1871,7 +1882,7 @@ Wind instruments
         Sarunai::Instruments
         Schreyerpfeife::Instruments
         Selompret::Instruments
-        Sharnai::Instruments 
+        Sharnai::Instruments
         Shawm::Instruments
         Sk'a'na::Instruments
         Sopila::Instruments
@@ -1914,7 +1925,7 @@ Wind instruments
         Melophone::Instruments
         Pi so::Instruments
         Popgun::Instruments
-        Raspberry::Instruments 
+        Raspberry::Instruments
         Ribbon reed::Instruments
         Siren::Instruments
     Panpipes
@@ -1932,7 +1943,7 @@ Wind instruments
         Skuduciai::Instruments
         Syrinx::Instruments
         Trstenke::Instruments
-        Wot::Instruments 
+        Wot::Instruments
         Zampona::Instruments
     Saxhorns
         Althorn::Instruments
@@ -1950,7 +1961,7 @@ Wind instruments
         Neocor::Instruments
         Saxhorn::Instruments
         Saxotromba::Instruments
-        Sopranino saxhorn::Instruments 
+        Sopranino saxhorn::Instruments
         Soprano saxhorn::Instruments
         Sudrophone::Instruments
         Tenor bugle::Instruments
@@ -1989,7 +2000,7 @@ Wind instruments
         Barataka::Instruments
         Bargumi::Instruments
         Bass trumpet::Instruments
-        Bazuna::Instruments 
+        Bazuna::Instruments
         Bher::Instruments
         Bockhorn::Instruments
         Buccin::Instruments
@@ -2071,7 +2082,7 @@ Wind instruments
         Contrabass bugle::Instruments
         Contrabass tuba::Instruments
         Euphonium::Instruments
-        Hau-tung::Instruments 
+        Hau-tung::Instruments
         Helicon::Instruments
         Sousaphone::Instruments
         Tuba::Instruments
