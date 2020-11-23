@@ -46,17 +46,6 @@ Electronic instruments
         OB-Xa::Instruments
         Prophet-5::Instruments
         Wavestation::Instruments
-Voices
-    Animal Sounds::Instruments
-    Beatbox::Instruments
-    Bird::Instruments
-    Choir::Instruments
-    Voice Female::Instruments
-    Voice Humming::Instruments
-    Voice Kid::Instruments
-    Voice Male::Instruments
-    Voice Robot::Instruments
-    Voice::Instruments
 Keyboard instruments
     Clavichords
         Clavichord::Instruments
@@ -1380,6 +1369,17 @@ Stringed instruments
         Zeze::Instruments
         Zheng::Instruments
         Zither::Instruments
+Voices
+    Animal Sounds::Instruments
+    Beatbox::Instruments
+    Bird::Instruments
+    Choir::Instruments
+    Voice Female::Instruments
+    Voice Humming::Instruments
+    Voice Kid::Instruments
+    Voice Male::Instruments
+    Voice Robot::Instruments
+    Voice::Instruments
 Wind instruments
     Accordions
         Accordion::Instruments
