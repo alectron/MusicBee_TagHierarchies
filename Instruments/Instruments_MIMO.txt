@@ -1,5 +1,10 @@
 //based on https://mimo-international.com/MIMO/
 //cleaned up, unified for MusicBee tag hierarchy use, and part of https://github.com/alectron/MusicBee_TagHierarchies
+//not found on MIMO: Orutu; AutoTune, Juno-106, ARP Odyssey, Delay, Break - Amen, Break - Apache, Break - Funky Drummer, Break - Levee Breaks, Break - Triggaman, Sound - Hoover, Sound - Wilhelm scream, , ARP 2600, ARP Odyssey, CS-80, DX7, JD-800, Juno-106, Minimoog, OB-Xa, Prophet-5, SH-101, Synthesizer, TB-303, TR-606, TR-707, TR-808, TR-909, Wavestation, Animal Sounds, Bird, Choir, Voice Female, Voice Humming, Voice Kid, Voice Male, Voice Robot, Voice::Instruments
+// Different connotation than on MIMO: Beatbox,
+//--------------------
+//changes: added Orutu, Juno-106, ARP Odyssey, chamged Synth naming prefixes to be more exact
+//--------------------
 Electronic instruments
     Electronic
         Accordion-synthesizer::Instruments 
@@ -30,21 +35,22 @@ Electronic instruments
         Sound - Hoover::Instruments
         Sound - Wilhelm scream::Instruments
     Synthesizers
-        Synthesizer::Instruments
-        101::Instruments
-        202::Instruments
-        303::Instruments
-        606::Instruments
-        707::Instruments
-        808::Instruments
-        909::Instruments
-        ARP::Instruments
+        ARP 2600::Instruments
+        ARP Odyssey::Instruments
         CS-80::Instruments
         DX7::Instruments
         JD-800::Instruments
-        Moog::Instruments
+        Juno-106::Instruments
+        Minimoog::Instruments
         OB-Xa::Instruments
         Prophet-5::Instruments
+        SH-101::Instruments
+        Synthesizer::Instruments
+        TB-303::Instruments
+        TR-606::Instruments
+        TR-707::Instruments
+        TR-808::Instruments
+        TR-909::Instruments
         Wavestation::Instruments
 Keyboard instruments
     Clavichords
@@ -965,6 +971,7 @@ Stringed instruments
         Nisen::Instruments
         Nyckelharpa::Instruments
         One-string fiddle::Instruments
+        Orutu::Instruments
         Pulluvan vina::Instruments 
         Qobuz::Instruments
         Rabab::Instruments
