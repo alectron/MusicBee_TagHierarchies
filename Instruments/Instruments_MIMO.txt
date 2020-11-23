@@ -1,3 +1,5 @@
+//based on https://mimo-international.com/MIMO/
+//cleaned up, unified for MusicBee tag hierarchy use, and part of https://github.com/alectron/MusicBee_TagHierarchies
 Electronic instruments
     Electronic
         Accordion-synthesizer::Instruments 
