@@ -1,0 +1,2070 @@
+Electronic instruments
+    Electronic
+        Accordion-synthesizer::Instruments 
+        Assemblage of electronic modules::Instruments
+        Clavioline::Instruments
+        Gmebaphone::Instruments
+        MIDI guitar::Instruments
+        Mellotron::Instruments
+        Ondes Martenot::Instruments
+        Ondioline::Instruments
+        Sampler::Instruments
+        Solovox::Instruments
+        Sound cross::Instruments
+        Theremin::Instruments
+        Tone-wheel organ::Instruments
+        Trautonium::Instruments
+        UPIC::Instruments
+    Effects
+        AutoTune::Instruments
+        Delay::Instruments
+        Vocoder::Instruments  
+    Samples
+        Break - Amen::Instruments
+        Break - Apache::Instruments
+        Break - Funky Drummer::Instruments
+        Break - Levee Breaks::Instruments
+        Break - Triggaman::Instruments
+        Sound - Hoover::Instruments
+        Sound - Wilhelm scream::Instruments
+    Synthesizers
+        Synthesizer::Instruments
+        101::Instruments
+        202::Instruments
+        303::Instruments
+        606::Instruments
+        707::Instruments
+        808::Instruments
+        909::Instruments
+        ARP::Instruments
+        CS-80::Instruments
+        DX7::Instruments
+        JD-800::Instruments
+        Moog::Instruments
+        OB-Xa::Instruments
+        Prophet-5::Instruments
+        Wavestation::Instruments
+Voices
+    Animal Sounds::Instruments
+    Beatbox::Instruments
+    Bird::Instruments
+    Choir::Instruments
+    Voice Female::Instruments
+    Voice Humming::Instruments
+    Voice Kid::Instruments
+    Voice Male::Instruments
+    Voice Robot::Instruments
+    Voice::Instruments
+Keyboard instruments
+    Clavichords
+        Clavichord::Instruments
+        Organ clavichord::Instruments 
+    Harpsichords
+        Clavicytherium::Instruments
+        Claviorgan::Instruments
+        Double virginal::Instruments 
+        Harpsichord::Instruments
+        Muselar::Instruments
+        Portable harpsichord::Instruments
+        Spinet::Instruments
+        Virginal::Instruments
+    Metallophones Keyboard instruments
+        Celesta::Instruments 
+    Organs
+        Aeolian organ::Instruments
+        Cabinet organ::Instruments
+        Chamber organ::Instruments
+        Organ::Instruments
+        Portative organ::Instruments
+        Positive organ::Instruments
+        Pyrophone::Instruments 
+    Other Keyboard instruments
+        Electric organ::Instruments
+        Electronic organ::Instruments
+        Keyboard glockenspiel::Instruments
+        Klavizilinder::Instruments
+        Melodion::Instruments
+        Piano quatuor::Instruments
+        Streichklavier::Instruments 
+        Synclavier::Instruments 
+        Terpodion::Instruments
+    Pianofortes
+        Automatic piano::Instruments
+        Bentside pianoforte::Instruments
+        Cabinet pianoforte::Instruments
+        Claviharpe::Instruments
+        Console piano::Instruments
+        Digital pianoforte::Instruments
+        Electric piano::Instruments
+        Euphonicon::Instruments
+        Giraffe piano::Instruments
+        Grand pianoforte::Instruments
+        Harmonium-piano::Instruments
+        Harp-piano::Instruments
+        Lutheal::Instruments
+        Lyre piano::Instruments
+        Nähtischklavier::Instruments
+        Orphica::Instruments
+        Piano organisé::Instruments
+        Piano table::Instruments
+        Piano à pédalier::Instruments
+        Piano-guitar::Instruments 
+        Pianoforte::Instruments
+        Pyramid pianoforte::Instruments
+        Square pianoforte::Instruments
+        Tangent piano::Instruments
+        Upright pianoforte::Instruments
+    Reed organs
+        Aéréphone::Instruments 
+        Claviphone::Instruments
+        Harmonichord::Instruments
+        Harmoniphone::Instruments
+        Harmonium::Instruments
+        Mouth harmonium::Instruments
+        Physharmonica::Instruments
+        Poikilorgue::Instruments
+        Reed organ::Instruments
+        Regal::Instruments
+        Sruti-box::Instruments
+        Tonoscope-harmonium::Instruments
+Mechanical instruments
+    Amorette::Instruments
+    Ariosa::Instruments
+    Ariston::Instruments
+    Automaton::Instruments
+    Autopiano::Instruments
+    Barrel organ::Instruments
+    Bird organ::Instruments
+    Cartonium::Instruments
+    Componium::Instruments
+    Cylinder dulcimer::Instruments
+    Fairground organ::Instruments
+    Harmonista::Instruments
+    Herophon::Instruments
+    Humanola::Instruments
+    Kalliope::Instruments
+    Kalliston::Instruments
+    Komet::Instruments
+    Limonaire::Instruments
+    Manopan::Instruments
+    Mechanical accordion::Instruments
+    Mechanical clock::Instruments
+    Mechanical dulcimer::Instruments
+    Mechanical harmonium::Instruments
+    Mechanical organ::Instruments
+    Mechanical pianoforte::Instruments
+    Mechanical spinet::Instruments
+    Mechanical zither::Instruments
+    Melotrope::Instruments
+    Mezon::Instruments
+    Mira::Instruments
+    Musical box::Instruments
+    Orchestrion::Instruments
+    Organette::Instruments
+    Phonola::Instruments
+    Piano player::Instruments
+    Player piano::Instruments
+    Pneumatic piano::Instruments 
+    Polyphon::Instruments
+    Symphonion::Instruments
+Mirlitons
+    Eunuch flute::Instruments
+    Kazoo::Instruments
+    Mirliton::Instruments
+Other instruments
+    Crystal Baschet::Instruments
+    Crystallophone::Instruments
+    Dulcitone::Instruments
+    Fusu de nuxi::Instruments 
+    Glasschord::Instruments
+    Horse's hoof effect::Instruments
+    Jaltarang::Instruments
+    Klaxon::Instruments
+    Mattauphone::Instruments
+    Musical glasses::Instruments
+    Musical saw::Instruments
+    Nail violin::Instruments
+    Turtle shell::Instruments
+Percussion instruments
+    Bells
+        Abanangbweli::Instruments
+        Agogo::Instruments
+        Agongon::Instruments
+        Ambassa::Instruments
+        Bell::Instruments
+        Bells belt::Instruments
+        Bozhong::Instruments
+        Cai tiu::Instruments
+        Carillon::Instruments
+        Cencerro::Instruments
+        Chung::Instruments
+        Cowbell::Instruments
+        Dawuro::Instruments
+        Dibu dinganga::Instruments
+        Dibu::Instruments
+        Dotaku::Instruments
+        Double bell::Instruments
+        Dril-bu::Instruments
+        Ekiro::Instruments
+        Electric carillon::Instruments
+        Gentorak::Instruments
+        Ghanta::Instruments
+        Ghungru::Instruments
+        Gshang::Instruments
+        Handbell::Instruments
+        Hansho::Instruments
+        Kili::Instruments
+        Klengkleng::Instruments
+        Klentong::Instruments
+        Lawle::Instruments
+        Ling::Instruments
+        Mbombu::Instruments
+        Mounkouki::Instruments
+        Ngonge::Instruments
+        Nzunzun::Instruments
+        P'yonjong::Instruments
+        Semakkalam::Instruments
+        Skrabalas::Instruments
+        Sleigh bell::Instruments
+        Sojong::Instruments
+        Sun::Instruments
+        T'ukchong::Instruments
+        Tchikounda::Instruments
+        Tribu::Instruments
+        Tubular bell::Instruments
+        Ushinarashi::Instruments
+        Wadjira::Instruments
+        Washint::Instruments
+        Windbell::Instruments
+        Yinqing::Instruments
+        Yo::Instruments 
+        Yoryeong::Instruments
+        Zan::Instruments
+    Clappers
+        Abak::Instruments 
+        Batte d'arlequin::Instruments
+        Bones::Instruments
+        Cap ke::Instruments
+        Capra::Instruments
+        Castanets::Instruments
+        Chlefeli::Instruments
+        Clappers::Instruments
+        Claquoir::Instruments
+        Hammer clapper::Instruments
+        Hanske knap::Instruments
+        Kasik::Instruments
+        Kemanak::Instruments
+        Khartal::Instruments
+        Matraca::Instruments
+        N'tsiba::Instruments
+        Paiban::Instruments
+        Pak::Instruments
+        Phach::Instruments
+        Phal::Instruments
+        Ratchet::Instruments
+        Sanh::Instruments
+        Sinh tien::Instruments
+        Spoons::Instruments
+        Toka::Instruments
+        Troccola::Instruments
+        Whip::Instruments
+        Yotsudake::Instruments
+        Zhong::Instruments
+    Cymbals
+        Bo::Instruments
+        Chabara::Instruments
+        Chap::Instruments
+        Ching::Instruments
+        Choke cymbal::Instruments
+        Chum choe::Instruments
+        Crash cymbal::Instruments
+        Crotales::Instruments
+        Cymbals::Instruments
+        Dobachi::Instruments
+        Dobatsu::Instruments
+        Jhalica::Instruments
+        Kangsi::Instruments
+        Kartal::Instruments
+        Kasat::Instruments
+        Kecer::Instruments
+        Mandira::Instruments
+        Manjira::Instruments
+        Rincik::Instruments
+        Rol-mo::Instruments
+        Sajat::Instruments
+        Sanj::Instruments
+        Sbub-chal::Instruments
+        Shkashek::Instruments
+        Sichyah::Instruments
+        Sil-snyan::Instruments
+        Silnen::Instruments
+        Sizzle cymbal::Instruments
+        Sock cymbal::Instruments
+        Tah::Instruments
+        Tahca::Instruments
+        Talam::Instruments
+        Than lvin::Instruments
+        Ting-ting-shags::Instruments
+    Drums
+        A::Instruments
+        Adedemma::Instruments
+        Adufe::Instruments
+        Agual::Instruments
+        Aki::Instruments
+        Akilwa::Instruments
+        Angoho::Instruments
+        Apentemma::Instruments
+        Atsimewu::Instruments
+        Atumpan::Instruments
+        Atwereba::Instruments
+        Audh::Instruments
+        Automatic drum::Instruments
+        Bajiao gu::Instruments
+        Ban::Instruments
+        Bangu::Instruments
+        Barrel drum::Instruments
+        Bass drum::Instruments
+        Bata::Instruments
+        Bedug::Instruments
+        Bendir::Instruments
+        Bendré::Instruments
+        Biô::Instruments
+        Bodhran::Instruments
+        Bofu::Instruments
+        Bombo::Instruments
+        Bommaa::Instruments
+        Bongos::Instruments
+        Boyard::Instruments
+        Brekete::Instruments
+        Bronze drum::Instruments
+        Bubanj::Instruments
+        Buhai::Instruments
+        Bérenté::Instruments
+        Caja::Instruments
+        Cajon::Instruments
+        Cenda::Instruments
+        Changgo::Instruments
+        Chaozhou-biangu::Instruments
+        Chin'go::Instruments
+        Cholgo::Instruments
+        Chunggo::Instruments
+        Chwago::Instruments
+        Ciblon::Instruments
+        Conga::Instruments
+        Conical drum::Instruments
+        Cununo::Instruments
+        Cylindrical drum::Instruments
+        Cylindrical-conical drum::Instruments
+        Dabadaba::Instruments
+        Daf::Instruments
+        Dagu::Instruments
+        Daire::Instruments
+        Damaru::Instruments
+        Dangossènè::Instruments
+        Dap::Instruments
+        Daph::Instruments
+        Darabukka::Instruments
+        Davandai::Instruments
+        Davul::Instruments
+        Def::Instruments
+        Dendene-sa::Instruments
+        Dhah::Instruments
+        Dhak::Instruments
+        Dhimay::Instruments
+        Dhimayca::Instruments
+        Dhol::Instruments
+        Dholak::Instruments
+        Dindimi::Instruments
+        Ditumba::Instruments
+        Djembe::Instruments
+        Djolon::Instruments
+        Djoungdjoung::Instruments
+        Dogdog::Instruments
+        Dohol::Instruments
+        Donno::Instruments
+        Dontoumon::Instruments
+        Double-conical drum::Instruments
+        Drum::Instruments
+        Duba::Instruments
+        Duff::Instruments
+        Dumbelek::Instruments
+        Eguan::Instruments
+        Ekole::Instruments
+        Engalabi::Instruments
+        Ese::Instruments
+        Eunggo::Instruments
+        Fanfrnoch::Instruments
+        Fodrahi::Instruments
+        Frame drum::Instruments
+        Friction drum::Instruments
+        Gakudaiko::Instruments
+        Galgo::Instruments
+        Gandang::Instruments
+        Ganga::Instruments
+        Gangango::Instruments
+        Gangari::Instruments
+        Gangât::Instruments
+        Garamut::Instruments
+        Gata-bere::Instruments
+        Gaza::Instruments
+        Geduk::Instruments
+        Gendang::Instruments
+        Genderang::Instruments
+        Geongo::Instruments
+        Ghata::Instruments
+        Gimbal::Instruments
+        Gimbar::Instruments
+        Glaw ng yao::Instruments
+        Go::Instruments
+        Goblet drum::Instruments
+        Goilbi::Instruments
+        Gondang::Instruments
+        Gongon::Instruments
+        Gouagnon::Instruments
+        Gu::Instruments
+        Guagulu::Instruments
+        Gubié::Instruments
+        Gudolo::Instruments
+        Gufalo::Instruments
+        Gummati::Instruments
+        Gussiné Bié::Instruments
+        Halgi::Instruments
+        Hourglass drum::Instruments
+        Huagu::Instruments
+        Huaigu::Instruments
+        Hudukka::Instruments
+        Huruk::Instruments
+        Idakka::Instruments
+        Jagajhampa::Instruments
+        Jevetya::Instruments
+        Kaar::Instruments
+        Kabaro::Instruments
+        Kagan::Instruments
+        Kakko::Instruments
+        Kalangu::Instruments
+        Kanjira::Instruments
+        Kantamdabadaba::Instruments
+        Kenang::Instruments
+        Kendang::Instruments
+        Kete::Instruments
+        Ketipung::Instruments
+        Khaijari::Instruments
+        Khanjari::Instruments
+        Khol::Instruments
+        Kidi::Instruments
+        Kingula-ngula::Instruments
+        Kiringi::Instruments
+        Klakacki::Instruments
+        Kotsuzumi::Instruments
+        Kroboto::Instruments
+        Krobotzi::Instruments
+        Kuidzoua::Instruments
+        Kultrun::Instruments
+        Kundu::Instruments
+        Kvakhica::Instruments
+        Kyobanggo::Instruments
+        Laiyant::Instruments
+        Lalakhi::Instruments
+        Lali::Instruments
+        Libbit::Instruments
+        Llamador::Instruments
+        Lonlonga::Instruments
+        Lppumin::Instruments
+        Lunga::Instruments
+        Luogu::Instruments
+        Madal::Instruments
+        Mazhar::Instruments
+        Mbejn::Instruments
+        Mbonda::Instruments
+        Medium::Instruments
+        Mgba::Instruments
+        Minigé::Instruments
+        Mo::Instruments
+        Mokita::Instruments
+        Mokko::Instruments
+        Mrdanga::Instruments
+        Mukonzi::Instruments
+        Mukupiela::Instruments
+        Muljanggu::Instruments
+        Muyu::Instruments
+        N'danda::Instruments
+        Naykhim::Instruments
+        Ndo::Instruments
+        Ndoungou::Instruments
+        Ndungu::Instruments
+        Ngoho::Instruments
+        Ngoma za muheme::Instruments
+        Ngoma::Instruments
+        Ngoua ngomo::Instruments
+        Ngô::Instruments
+        Nkoko::Instruments
+        Nodo::Instruments
+        Nogo::Instruments
+        Nonga::Instruments
+        Ntenga::Instruments
+        O-zi::Instruments
+        Odaiko::Instruments
+        Okimou::Instruments
+        Ombangui::Instruments
+        Otsuzumi::Instruments
+        Pachima::Instruments
+        Pakhavaj::Instruments
+        Palandan::Instruments
+        Pambai::Instruments
+        Panaba::Instruments
+        Pandeiro::Instruments
+        Pandereta::Instruments
+        Pat mah::Instruments
+        Pat waing::Instruments
+        Pat::Instruments
+        Patenge::Instruments
+        Pati::Instruments
+        Penten::Instruments
+        Perng mang khok::Instruments
+        Pignata::Instruments
+        Pirai::Instruments
+        Puk::Instruments
+        Rabaga::Instruments
+        Rabingo::Instruments
+        Rammana::Instruments
+        Rattle drum::Instruments
+        Redap::Instruments
+        Repinique::Instruments
+        Riqq::Instruments
+        Rnga::Instruments
+        Rommelpot::Instruments
+        Ronker::Instruments
+        Roto-toms::Instruments
+        Sabaro::Instruments
+        Sakara::Instruments
+        Sakko::Instruments
+        San-no-tsuzumi::Instruments
+        Sang::Instruments
+        Shagu::Instruments
+        Shimedaiko::Instruments
+        Shugu::Instruments
+        Side drum::Instruments
+        Sima::Instruments
+        Slit drum::Instruments
+        Soge::Instruments
+        Sogo::Instruments
+        Sulibao::Instruments
+        Surdo::Instruments
+        Tabl::Instruments
+        Tai ping gu::Instruments
+        Taiko::Instruments
+        Tama::Instruments
+        Tamale::Instruments
+        Tambor mayor::Instruments
+        Tambor::Instruments
+        Tambora::Instruments
+        Tamboril::Instruments
+        Tambourin de Provence::Instruments
+        Tambourine::Instruments
+        Tamburino::Instruments
+        Tamburu::Instruments
+        Tanggu::Instruments
+        Taogu::Instruments
+        Tapan::Instruments
+        Taphon::Instruments
+        Tapon mon::Instruments
+        Tarol::Instruments
+        Tebashul::Instruments
+        Temple block::Instruments
+        Tenor drum::Instruments
+        Teponaztli::Instruments
+        Terbang::Instruments
+        Thod dam::Instruments
+        Thod-rnga::Instruments
+        Thon::Instruments
+        Timila::Instruments
+        Tlalpanhuetlhuetl::Instruments
+        Togo::Instruments
+        Tom-tom::Instruments
+        Tomba::Instruments
+        Tondôrou::Instruments
+        Tourou::Instruments
+        Trong boc::Instruments
+        Trong cai::Instruments
+        Trong chien::Instruments
+        Trong com::Instruments
+        Trong manh::Instruments
+        Trong va::Instruments
+        Trong::Instruments
+        Tsoumba::Instruments
+        Tsuridaiko::Instruments
+        Tyepondo-pinge::Instruments
+        Téhindé::Instruments
+        Tümïr::Instruments
+        Uchiwadaiko::Instruments
+        Udukku::Instruments
+        Ukom::Instruments
+        Variable tension hourglass drum::Instruments
+        Vase-shaped drum::Instruments
+        Waldteufel::Instruments
+        Wankara::Instruments
+        Water drum::Instruments
+        Wawa::Instruments
+        Woka::Instruments
+        Yaogu::Instruments
+        Yeongdo::Instruments
+        Yeonggo::Instruments 
+        Yonggo::Instruments
+        Youba::Instruments
+        Zambomba::Instruments
+        Zaogu::Instruments
+        Zarb::Instruments
+        Zhangu::Instruments
+        Zirbaghali::Instruments
+    Gongs
+        Ayotl::Instruments
+        Babendil::Instruments
+        Bonang barung::Instruments
+        Bonang panerus::Instruments
+        Bonang::Instruments
+        Breng::Instruments
+        Canang::Instruments
+        Canh::Instruments
+        Cong::Instruments
+        Daluo::Instruments
+        Dan cong chien::Instruments
+        Dora::Instruments
+        Gamelan::Instruments
+        Gangsa::Instruments
+        Gendingan::Instruments
+        Gong ageng::Instruments
+        Gong::Instruments
+        Gwangse::Instruments
+        Jengglong::Instruments
+        Jing::Instruments
+        Kajar::Instruments
+        Kalenang::Instruments
+        Kasar::Instruments
+        Kelenang::Instruments
+        Kemong::Instruments
+        Kempul::Instruments
+        Kempur::Instruments
+        Kenong::Instruments
+        Ketuk::Instruments
+        Khong mong::Instruments
+        Khong::Instruments
+        Kkwaenggwari::Instruments
+        Kundi::Instruments::Instruments)
+        Kyi-waing::Instruments
+        Luo::Instruments
+        Maung-zaing::Instruments
+        Maung::Instruments
+        Nyo::Instruments
+        Pong::Instruments
+        Seolsoe::Instruments 
+        Shoko::Instruments
+        Suwukan::Instruments
+        Tam am la::Instruments
+        Tamtam::Instruments
+        Thanh la::Instruments
+        Waniguchi::Instruments
+        Yaoling::Instruments
+        Yunluo::Instruments
+        Zhengluo::Instruments
+    Jingles
+        Bangul::Instruments 
+        Chimta::Instruments
+        Jingle::Instruments
+        Lozhky::Instruments
+        Nupur::Instruments
+        Suzu::Instruments
+        Turkish crescent::Instruments
+    Kettledrums
+        Baya::Instruments
+        Baz::Instruments
+        Damama::Instruments
+        Daya::Instruments
+        Duggi::Instruments
+        Gosha naghara::Instruments
+        Jharidap::Instruments
+        Kettledrum::Instruments
+        Khurdak::Instruments
+        Kvakhi::Instruments 
+        Madar::Instruments
+        Nagara::Instruments
+        Nakers::Instruments
+        Naqqara::Instruments
+        Sangad::Instruments
+        Tabla::Instruments
+        Tablak::Instruments
+        Tammatta::Instruments
+        Tasa::Instruments
+        Tikara::Instruments
+        Tobol::Instruments
+        Tubilattes::Instruments
+    Lamellaphones
+        Bantyu::Instruments
+        Claviola::Instruments 
+        Ikembe::Instruments
+        Ilimba::Instruments
+        Insimbi::Instruments
+        Jew's harp::Instruments
+        Kakolondondo::Instruments
+        Kalimba::Instruments
+        Kankobela::Instruments
+        Kinditi::Instruments
+        Kisaanj::Instruments
+        Lamellaphone::Instruments
+        Likembe::Instruments
+        Madaku::Instruments
+        Madiumba::Instruments
+        Mbira::Instruments
+        Myonga::Instruments
+        Ndingo::Instruments
+        Plucked idiophone::Instruments
+        Sanza::Instruments
+        Setinkane::Instruments
+        Timbrh::Instruments
+        Tsimbi::Instruments
+    Lithophones
+        Bianqing::Instruments
+        Lithophone::Instruments
+        P'yon'gyong::Instruments
+        Qing::Instruments
+        T'ukkyong::Instruments 
+    Metallophones
+        Chime bar::Instruments
+        Gender::Instruments
+        Glass glockenspiel::Instruments
+        Glockenspiel::Instruments
+        Harpeal::Instruments
+        Jegogan::Instruments
+        Kantilan::Instruments
+        Kenyir::Instruments
+        Lyra glockenspiel::Instruments
+        Metallophone::Instruments
+        Ocleal::Instruments
+        Orpheal::Instruments 
+        Panghyang::Instruments
+        Penyacah::Instruments
+        Resting bell::Instruments
+        Saron barung::Instruments
+        Saron demung::Instruments
+        Saron panerus::Instruments
+        Saron peking::Instruments
+        Saron ricik::Instruments
+        Saron slentem::Instruments
+        Saron::Instruments
+        Slento::Instruments
+        Steel drum::Instruments
+        Thali::Instruments
+        Tubaphone::Instruments
+        Ulla::Instruments
+        Vibraphone::Instruments
+    Other Percussion instruments
+        Anvil::Instruments
+        Bantula::Instruments
+        Bu::Instruments
+        Ch'uk::Instruments
+        Claves::Instruments
+        Cricri::Instruments
+        Distinette::Instruments
+        Dok::Instruments
+        Duri dana::Instruments
+        Electronic percussion::Instruments
+        Eung::Instruments
+        Flexatone::Instruments
+        Ghari::Instruments
+        Gumanak::Instruments
+        Hammer::Instruments
+        Heobeok::Instruments
+        Kashtha tarang::Instruments
+        Kyi-zi::Instruments
+        Launut::Instruments
+        Moktak::Instruments 
+        Mokugyo::Instruments
+        Mugu::Instruments
+        Musical waterpot::Instruments
+        Quitiplas::Instruments
+        Rain machine::Instruments
+        Struck idiophone::Instruments 
+        Tintinca::Instruments
+        Toa::Instruments
+        Triangle::Instruments
+        Wind machine::Instruments
+        Woodblock::Instruments
+    Rattles
+        Andzolo::Instruments
+        Angklung::Instruments
+        Ankle rattle::Instruments
+        Anzona::Instruments
+        Arbu::Instruments
+        Assa muta chati::Instruments
+        Azibwazi::Instruments
+        Bordon as ones::Instruments
+        Cabaca::Instruments
+        Cascabel::Instruments
+        Ch'ajch'as::Instruments
+        Chocalho::Instruments
+        Dzala::Instruments
+        Ga::Instruments
+        Gurra::Instruments
+        Ifambu::Instruments
+        Jhinka::Instruments
+        Kanyahte'ka'nowa::Instruments
+        Katana::Instruments
+        Kayamba::Instruments
+        Kayambi::Instruments
+        Kulu::Instruments
+        Legwegwe::Instruments
+        Lengwow::Instruments
+        Lezim::Instruments
+        M'feul::Instruments 
+        Maracas::Instruments
+        Mouassi::Instruments
+        Moumouaka::Instruments
+        Moupfiri::Instruments
+        Mvoo::Instruments
+        Ngora::Instruments
+        Nhac::Instruments
+        Oboto::Instruments
+        Ontsara::Instruments
+        Qachel::Instruments
+        Raft rattle::Instruments
+        Rainstick::Instruments
+        Rangle::Instruments
+        Rattle::Instruments
+        Rin-no-tama::Instruments
+        Sanasel::Instruments
+        Sekere::Instruments
+        Sesheh::Instruments
+        Shakujo::Instruments
+        Sissaka::Instruments
+        Sistrum::Instruments
+        Sonaja::Instruments
+        Stick rattle::Instruments
+        Swanga::Instruments
+        Taga::Instruments
+        Towa::Instruments
+        Vessel rattle::Instruments
+        Vibra-slap::Instruments
+        Wada::Instruments
+    Scrapers
+        Friction idiophone::Instruments
+        Guiro::Instruments
+        Kenyen::Instruments
+        Omichicahuaztli::Instruments
+        Reco-reco::Instruments 
+        Reque reque::Instruments
+        Scraped idiophone::Instruments
+        Scraped stick::Instruments
+        Scraped tube::Instruments
+        Scraped vessel::Instruments
+        Scraper::Instruments
+        Washboard::Instruments
+    Trumps
+        Ankuoc::Instruments
+        Bikong::Instruments
+        Dan moi::Instruments
+        Drimba::Instruments
+        Drymba::Instruments
+        Genggong::Instruments
+        Karinding::Instruments
+        Kovïzh::Instruments
+        Kubing::Instruments
+        Marranzanu::Instruments
+        Mukkuri::Instruments 
+        Murcang::Instruments
+        Susap::Instruments
+        Tombagl::Instruments
+    Xylophones
+        Balafon::Instruments
+        Balafossa::Instruments
+        Bolange::Instruments
+        Calon::Instruments
+        Calung::Instruments
+        Chinzumana::Instruments
+        Claquebois::Instruments
+        Dan t'rung::Instruments
+        Dibhinda::Instruments
+        Djanou::Instruments
+        Djil::Instruments
+        Gabbang::Instruments
+        Gambang::Instruments
+        Garantung::Instruments
+        Golagni::Instruments
+        Grantang::Instruments
+        Hélé::Instruments
+        Mabékabéka::Instruments
+        Madimba::Instruments
+        Manza::Instruments
+        Marimba::Instruments
+        Mbila::Instruments
+        Mendzan::Instruments
+        Mokkin::Instruments
+        Pat-tala::Instruments
+        Ranat::Instruments
+        Sanje::Instruments
+        Strohfiedel::Instruments
+        Tregnon::Instruments
+        Valimba::Instruments
+        Xylophone::Instruments
+        Xèma::Instruments 
+        Zanga::Instruments
+Stringed instruments
+    Citterns
+        Arch harp-lute::Instruments
+        Archcittern::Instruments
+        Ceterone::Instruments
+        Cithrinchen::Instruments
+        Cittern::Instruments
+        English guitar::Instruments
+        Tourterelle::Instruments 
+    Double basses
+        Basy::Instruments
+        Double bass::Instruments
+        Gorduna::Instruments 
+        Octobass::Instruments
+    Fiddles
+        Arababu::Instruments
+        Arbab::Instruments
+        Ardanuchi::Instruments
+        Banam::Instruments
+        Banhu::Instruments
+        Bowed zither::Instruments
+        Braci::Instruments
+        Bracsa::Instruments
+        Chizeze::Instruments
+        Cikara::Instruments
+        Clog fiddle::Instruments
+        Dan nhi::Instruments
+        Dilruba::Instruments
+        Dra::Instruments
+        Duruga::Instruments
+        Endingidi::Instruments
+        Erhu::Instruments
+        Erxian::Instruments
+        Esraj::Instruments
+        Fiddle::Instruments
+        Gadulka::Instruments
+        Ghichak::Instruments
+        Ghugha::Instruments
+        Gigue::Instruments
+        Goge::Instruments
+        Gusle::Instruments
+        Guslica::Instruments
+        Haegum::Instruments
+        Hardanger fiddle::Instruments
+        Horn fiddle::Instruments
+        Huibe::Instruments
+        Huqin::Instruments
+        Igil::Instruments
+        Imzad::Instruments
+        Jinghu::Instruments
+        Kamaica::Instruments
+        Kamanche::Instruments
+        Katjapi::Instruments
+        Kementses::Instruments
+        Kemençe::Instruments
+        Kokyu::Instruments
+        Kowodigo::Instruments
+        Kundye::Instruments
+        Lahute::Instruments
+        Lira da braccio::Instruments
+        Lirone::Instruments
+        Lokanga::Instruments
+        Mamokhorong::Instruments
+        Masenqo::Instruments
+        Morin khuur::Instruments
+        Nisen::Instruments
+        Nyckelharpa::Instruments
+        One-string fiddle::Instruments
+        Pulluvan vina::Instruments 
+        Qobuz::Instruments
+        Rabab::Instruments
+        Rababa::Instruments
+        Ravanhattha::Instruments
+        Rebec::Instruments
+        Ruudga::Instruments
+        Sarangi::Instruments
+        Sarinda::Instruments
+        Sihu::Instruments
+        So duang::Instruments
+        So sam sai::Instruments
+        So u::Instruments
+        Spike fiddle::Instruments
+        Ta'us::Instruments
+        Tarawangsa::Instruments
+        Tro u::Instruments
+        Träskofiol::Instruments
+        Umkiki::Instruments
+        Yehu::Instruments
+        Zhonghu::Instruments
+    Guitars
+        Alto guitar::Instruments 
+        Banjo-mandolin::Instruments
+        Banjo::Instruments
+        Banjulele::Instruments
+        Bass guitar::Instruments
+        Bissex::Instruments
+        Braguinho::Instruments
+        Cavaco::Instruments
+        Cavaquinho::Instruments
+        Chitarra battente::Instruments
+        Cuatro::Instruments
+        Decacord::Instruments
+        Double guitar::Instruments
+        Electric bass guitar::Instruments
+        Electric guitar::Instruments
+        Guitar mandolin::Instruments
+        Guitar::Instruments
+        Guitarron::Instruments
+        Harp-guitar::Instruments
+        Harp-lyre::Instruments
+        Hawaiian guitar::Instruments
+        Jarana::Instruments
+        Lute-guitar::Instruments
+        Lyre guitar::Instruments
+        MIDI instrument::Instruments
+        Machete::Instruments
+        Portuguese guitar::Instruments
+        Requinto::Instruments
+        Terz guitar::Instruments
+        Ukulele::Instruments
+        Vihuela::Instruments
+        Viola d'arame::Instruments
+    Harp lutes & Koras
+        Harp lute::Instruments
+        Kasso::Instruments
+        Kolondjo::Instruments
+        Kora::Instruments
+        Kori::Instruments
+        N'goni::Instruments
+        Sarong::Instruments
+        Seperewa::Instruments 
+        Simbing::Instruments
+        Soron::Instruments
+        Tokô::Instruments
+    Harps
+        Arched harp::Instruments
+        Bolon::Instruments
+        Chang::Instruments
+        Chromatic harp::Instruments
+        Clarsach::Instruments
+        Diatonic harp::Instruments
+        Dital harp::Instruments
+        Ennanga::Instruments
+        Harp::Instruments
+        Hook harp::Instruments
+        Irish harp::Instruments
+        Kelei::Instruments
+        Kundi::Instruments)
+        Kwarnda::Instruments
+        Nedomu::Instruments
+        Ngombi::Instruments
+        Ombi::Instruments
+        Para::Instruments 
+        Saung-gauk::Instruments
+        Spike harp::Instruments
+        Wa-konghu::Instruments
+        Waji::Instruments
+    Hurdy-gurdies
+        Hurdy-gurdy::Instruments
+        Lira organizzata::Instruments
+        Orpheon::Instruments
+        Tekerö::Instruments 
+    Lutes
+        Angel lute::Instruments
+        Archlute::Instruments
+        Baglama::Instruments
+        Balalaika::Instruments
+        Bandola::Instruments
+        Bandora::Instruments
+        Bandurria::Instruments
+        Bengala::Instruments
+        Bharata vina::Instruments
+        Bin sitar::Instruments
+        Biwa::Instruments
+        Bouzouki::Instruments
+        Bugarija::Instruments
+        Capi::Instruments
+        Charango::Instruments
+        Chogur::Instruments
+        Cifteli::Instruments
+        Cobza::Instruments
+        Colascione::Instruments
+        Cura::Instruments
+        Dala-fandir::Instruments
+        Dambura::Instruments
+        Dan day::Instruments
+        Dan nguyet::Instruments
+        Dan tam::Instruments
+        Dan tinh::Instruments
+        Dan ty ba::Instruments
+        Dombra::Instruments
+        Domra::Instruments
+        Dotara::Instruments
+        Dutar::Instruments
+        Ekonting::Instruments
+        Ektara::Instruments
+        Gabbus::Instruments
+        Gambus::Instruments
+        Gekkin::Instruments
+        Genkwan::Instruments
+        Guinbri::Instruments
+        Gurmi::Instruments
+        Hajhuj::Instruments
+        Hasapi::Instruments
+        Hoddu::Instruments
+        Iguana::Instruments
+        Jungga::Instruments
+        Jurukélé::Instruments
+        Kabak::Instruments
+        Kaburu::Instruments
+        Kacchapi vina::Instruments
+        Kachva sitar::Instruments
+        Kambre::Instruments
+        Kao tari::Instruments
+        Karaduzen::Instruments
+        Keleli::Instruments
+        Khalam::Instruments
+        Komuz::Instruments
+        Konting::Instruments
+        Krajappi::Instruments
+        Kundé::Instruments
+        Lutar::Instruments
+        Lute::Instruments
+        Lyre-bandurria::Instruments
+        Mandole::Instruments
+        Mandolone::Instruments
+        Mandora::Instruments
+        Molo::Instruments
+        Nadecvara-vina::Instruments
+        Ngonfi::Instruments
+        Nkoni::Instruments
+        Ntja'ntuba::Instruments
+        Orpharion::Instruments
+        Pandoura::Instruments
+        Panduri::Instruments
+        Penorcon::Instruments
+        Pipa::Instruments
+        Prasarani vina::Instruments
+        Qanbus::Instruments
+        Qinqin::Instruments
+        Quwaytara::Instruments
+        Rabel::Instruments
+        Ruan::Instruments
+        Sanshin::Instruments
+        Sanxian::Instruments
+        Sapeh::Instruments
+        Saradiya vina::Instruments
+        Sarasvati vina::Instruments
+        Sargija::Instruments
+        Sarod::Instruments
+        Saz::Instruments
+        Setar::Instruments
+        Sgra-snyan::Instruments
+        Shamisen::Instruments
+        Sharki::Instruments
+        Shuangqing::Instruments
+        Sitar::Instruments
+        Sitari::Instruments
+        Sixian::Instruments
+        Sur-sanga::Instruments
+        Surbahar::Instruments
+        Surmanjali::Instruments
+        Sursrngar::Instruments
+        Tahardant::Instruments 
+        Tahardjan::Instruments
+        Tambura::Instruments
+        Tamburica::Instruments
+        Tanbur::Instruments
+        Tar::Instruments
+        Theorbo::Instruments
+        Tiple::Instruments
+        Torbane::Instruments
+        Ud::Instruments
+        Vina::Instruments
+        Vipanci vina::Instruments
+        Wolgum::Instruments
+        Yueqin::Instruments
+    Lyres
+        Beganna::Instruments
+        Bowl lyre::Instruments
+        Chirawatta::Instruments
+        Crwth::Instruments
+        Kisir::Instruments
+        Kissar::Instruments
+        Kithara::Instruments
+        Krar::Instruments
+        Lyre::Instruments
+        Masonquo::Instruments
+        Ndongo::Instruments
+    Mandolins
+        Bandolim::Instruments
+        Double mandolin::Instruments 
+        Mandolin::Instruments
+        Mandoloncello::Instruments
+        Mandore::Instruments
+        Milanese mandolin::Instruments
+        Neapolitan mandolin::Instruments
+    Monochords
+        Anandalahari::Instruments
+        Gopiyantra::Instruments
+        Gubgubi::Instruments 
+        Monochord::Instruments
+        Trumpet marine::Instruments
+    Musical bows
+        Adungu::Instruments
+        Bagili::Instruments
+        Bazombe::Instruments
+        Berimbau::Instruments
+        Chitende::Instruments
+        Dienguela::Instruments
+        Gora::Instruments
+        Lesiba::Instruments
+        Llg'ase::Instruments
+        Lonlon::Instruments 
+        Lukombe::Instruments
+        Lunko::Instruments
+        Mouth bow::Instruments
+        Musical bow::Instruments
+        Ndjembo::Instruments
+        Nsambi::Instruments
+        Pinak::Instruments
+        Pluriarc::Instruments
+        Sitolotolo::Instruments
+        Umakhweyana::Instruments
+        Wambee::Instruments
+    Violas
+        Tenor viola::Instruments
+        Tenor violin::Instruments
+        Viola alta::Instruments 
+        Viola::Instruments
+        Violalin::Instruments
+    Violins
+        Bass violin::Instruments
+        Cane violin::Instruments
+        Electric violin::Instruments
+        Experimental violin::Instruments
+        Irregular violin::Instruments
+        Kit::Instruments
+        Pochette d'amour::Instruments
+        Viola arpa::Instruments
+        Viola d'amore::Instruments 
+        Violin d'amore::Instruments
+        Violin::Instruments
+        Violino piccolo::Instruments
+    Violoncellos
+        Arpeggione::Instruments
+        Controviolino::Instruments
+        Gardon::Instruments
+        Tenor new violin::Instruments 
+        Viola pomposa::Instruments
+        Violoncello piccolo::Instruments
+        Violoncello::Instruments
+    Viols
+        Baryton::Instruments
+        Double bass viol::Instruments
+        High treble viol::Instruments
+        Quinton::Instruments
+        Sultana::Instruments
+        Tenor viol::Instruments
+        Treble viol::Instruments
+        Viol::Instruments
+        Violone::Instruments
+    Zithers
+        Aeolian harp::Instruments
+        Ajaeng::Instruments
+        Akkordolia::Instruments
+        Appalchian dulcimer::Instruments
+        Armandine::Instruments
+        Arpanetta::Instruments
+        Autoharp::Instruments
+        Bandura::Instruments
+        Bangwe::Instruments
+        Bell harp::Instruments
+        Bin::Instruments
+        Board zither::Instruments
+        Bokongo::Instruments
+        Box zither::Instruments
+        Bumbass::Instruments
+        Bûche des Flandres::Instruments
+        Celempung::Instruments
+        Chakhe::Instruments
+        Cheolhyeongeum::Instruments
+        Chord zither::Instruments
+        Cimbalom::Instruments
+        Citera::Instruments
+        Dan bau::Instruments
+        Dan tranh::Instruments
+        Double psaltery::Instruments
+        Double zither::Instruments
+        Dulcimer::Instruments
+        Dunde::Instruments
+        Enanga::Instruments
+        English violet::Instruments
+        Epinette des Vosges::Instruments
+        Geum::Instruments
+        Go-kin::Instruments
+        Gondang buluh::Instruments
+        Guitar-zither::Instruments
+        Gusli::Instruments
+        Harp-zither::Instruments
+        Higheghe::Instruments
+        Hommel::Instruments
+        Hümmelke::Instruments
+        Ichigen-kin::Instruments
+        Inanga::Instruments
+        Kacapi::Instruments
+        Kairata vina::Instruments
+        Kakugnoto::Instruments
+        Kani::Instruments
+        Kanklès::Instruments
+        Kantele::Instruments
+        Kayagum::Instruments
+        Kinanda::Instruments
+        Kinnari vina::Instruments
+        Kolitong::Instruments
+        Komun'go::Instruments
+        Koni::Instruments
+        Koto::Instruments
+        Kucapi::Instruments
+        Küsle::Instruments
+        Langeleg::Instruments
+        Langeleik::Instruments
+        Langspil::Instruments
+        Ligombo::Instruments
+        Lotong::Instruments
+        Mahati vina::Instruments
+        Mandolin-zither::Instruments
+        Mi-gyaung::Instruments
+        Mvet::Instruments
+        Nigenkin::Instruments
+        Phin::Instruments
+        Psalmodikon::Instruments
+        Psaltery::Instruments
+        Qanun::Instruments
+        Qin::Instruments
+        Raft zither::Instruments
+        Salangoun::Instruments
+        San gen kin::Instruments
+        Sandouri::Instruments
+        Santur::Instruments
+        Sasando::Instruments
+        Scheitholt::Instruments
+        Seul::Instruments 
+        Shichigen-kin::Instruments
+        Siter::Instruments
+        Sluday::Instruments
+        Sruti vina::Instruments
+        Stick zither::Instruments
+        Surmandal::Instruments
+        Ta'khay::Instruments
+        Takhe::Instruments
+        Takumbo::Instruments
+        Tambal::Instruments
+        Tanggetong::Instruments
+        Tianhoun::Instruments
+        Tonkori::Instruments
+        Trough zither::Instruments
+        Tsuma-koto::Instruments
+        Tube zither::Instruments
+        Tuila::Instruments
+        Tuntun::Instruments
+        Türharfe::Instruments
+        Valiha::Instruments
+        Violin-zither::Instruments
+        Wagon::Instruments
+        Yanggum::Instruments
+        Yangqin::Instruments
+        Yaqin::Instruments
+        Yomkwo::Instruments
+        Zeze::Instruments
+        Zheng::Instruments
+        Zither::Instruments
+Wind instruments
+    Accordions
+        Accordion::Instruments
+        Bandoneon::Instruments
+        Basse-aux-pieds::Instruments
+        Cecilium::Instruments
+        Chromatic accordion::Instruments
+        Concertina::Instruments
+        Diatonic accordion::Instruments
+        Electronic accordion::Instruments 
+        English concertina::Instruments
+        Garmoshka::Instruments
+        Harmoni-cor::Instruments
+        Harmonia pedałowa::Instruments
+        Harmonieflute::Instruments
+        Heligonka::Instruments
+        Hybrid accordion::Instruments
+        Melodeon::Instruments
+        Organetto::Instruments
+    Bagpipes
+        Askomandoura::Instruments
+        Bagpipe::Instruments
+        Bayan::Instruments
+        Biniou::Instruments
+        Bot::Instruments
+        Bouhe::Instruments
+        Cabrette::Instruments
+        Chekwa::Instruments
+        Chiboni::Instruments
+        Cimpoi::Instruments
+        Duda::Instruments
+        Dudy::Instruments
+        Dzhura gayda::Instruments
+        Gaita gallega::Instruments
+        Gajde::Instruments
+        Gayda::Instruments
+        Great Highland bagpipe::Instruments
+        Kaba ghayda::Instruments
+        Muchosa::Instruments
+        Musette::Instruments
+        Northumbrian pipe::Instruments
+        Parkapzuk::Instruments
+        Phagotum::Instruments
+        Piob mhor::Instruments
+        Piva::Instruments
+        Sac de gemecs::Instruments 
+        Shabr::Instruments
+        Shüvir::Instruments
+        Small-pipe::Instruments
+        Svrljiske gajde::Instruments
+        Säckpipa::Instruments
+        Tsambouna::Instruments
+        Tulum::Instruments
+        Union pipe::Instruments
+        Vlaske gajde::Instruments
+        Zampogna::Instruments
+        Zukra::Instruments
+    Bassoons
+        Alto dulcian::Instruments
+        Alto fagotto::Instruments
+        Bajon::Instruments
+        Bass dulcian::Instruments
+        Basson d'amour::Instruments
+        Bassonore::Instruments
+        Bassoon::Instruments
+        Caledonica::Instruments
+        Contrebasse à anche::Instruments
+        Courtaut::Instruments
+        Double bassoon::Instruments
+        Dulcian::Instruments
+        Racket::Instruments
+        Sarrusophone::Instruments
+        Sordun::Instruments
+        Tenoroon::Instruments
+        Tritonikon::Instruments 
+    Bugles
+        Bass bugle::Instruments
+        Bersag horn::Instruments
+        Bugle::Instruments
+        Keyed bugle::Instruments
+        Nabal::Instruments
+        Sonorophone::Instruments
+    Bullroarers
+        Balum::Instruments
+        Bullroarer::Instruments
+        Hor::Instruments 
+        Peer boor egah::Instruments
+    Clarinets
+        Alboka::Instruments
+        Alto clarinet::Instruments
+        Arghul::Instruments
+        Bass clarinet::Instruments
+        Basset clarinet::Instruments
+        Bhujanga::Instruments
+        Bumpan::Instruments
+        Cana de millo::Instruments
+        Ciaramella::Instruments
+        Clarinet::Instruments
+        Clarinette d'amour::Instruments
+        Contrabass clarinet::Instruments
+        Double clarinet::Instruments
+        Dozale::Instruments
+        Erkencho::Instruments
+        Fawinin::Instruments 
+        Hornpipe::Instruments
+        Idioglot clarinet::Instruments
+        Ken doi::Instruments
+        Ken mot::Instruments
+        Launeddas::Instruments
+        Makuti::Instruments
+        Martinstrompete::Instruments
+        Mijwiz::Instruments
+        Mizmar::Instruments
+        Olym shüvir::Instruments
+        Pibgorn::Instruments
+        Pungi::Instruments
+        Pupuik::Instruments
+        Qoshnai::Instruments
+        Qurma::Instruments
+        Reh-fiep::Instruments
+        Scramia betu::Instruments
+        Sigu bawa::Instruments
+        Tarogato::Instruments
+        Tarpa::Instruments
+        Tormay::Instruments
+        Triple clarinet::Instruments
+        Xeremia::Instruments
+        Zamr::Instruments
+        Zhaleyka::Instruments
+        Zummara::Instruments
+    Cornets
+        Cornet::Instruments
+        Cornopean::Instruments
+        Echo cornet::Instruments
+        Mellophone::Instruments 
+    Cornetts
+        Bass cornett::Instruments
+        Cornett::Instruments
+        Cornettino::Instruments
+        Mute cornett::Instruments
+        Straight cornett::Instruments
+        Treble cornett::Instruments 
+    Flugelhorns
+        Alto flugelhorn::Instruments
+        Baritone flugelhorn::Instruments
+        Flugelhorn::Instruments
+        Soprano flugelhorn::Instruments
+    Flutes
+        Aerophone::Instruments
+        Alamoru::Instruments
+        Algoja::Instruments
+        Alto flute::Instruments
+        Alto recorder::Instruments
+        Anata::Instruments
+        Bamboo pipe::Instruments
+        Bangdi::Instruments
+        Bark flute::Instruments
+        Basi::Instruments
+        Bass flute::Instruments
+        Bass recorder::Instruments
+        Basset recorder::Instruments
+        Basuri::Instruments
+        Bil::Instruments
+        Bird whistle::Instruments
+        Blul::Instruments
+        Boatswain's call::Instruments
+        Cane flute::Instruments
+        Caval::Instruments
+        Cerelu::Instruments
+        Cetirnice::Instruments
+        Chakolao::Instruments
+        Charka::Instruments
+        Chi::Instruments
+        Chiba::Instruments
+        Chunggum::Instruments
+        Ciritma::Instruments
+        Columnar recorder::Instruments
+        Cuckoo::Instruments
+        Cura kaval::Instruments
+        Curlika::Instruments
+        Cwène::Instruments
+        Czakan::Instruments
+        Darvyra::Instruments
+        Denena::Instruments
+        Descant recorder::Instruments
+        Di::Instruments
+        Dja mblai::Instruments 
+        Djaouak::Instruments
+        Djouak::Instruments
+        Dongxiao::Instruments
+        Double flageolet::Instruments
+        Double flute::Instruments
+        Duct flute::Instruments
+        Duduk::Instruments
+        Dul-ming::Instruments
+        Dulali::Instruments
+        Duuliyaaru::Instruments
+        Dvojanka::Instruments
+        Dvojnice::Instruments
+        Dvoyanka::Instruments
+        Embilta::Instruments
+        End-blown flute::Instruments
+        English flageolet::Instruments
+        Ere-mugu::Instruments
+        Fangufangu::Instruments
+        Feku::Instruments
+        Fife::Instruments
+        Flageolet::Instruments
+        Flaviol::Instruments
+        Flejguta::Instruments
+        Floyara::Instruments
+        Fluier::Instruments
+        Flute::Instruments
+        Flutophone::Instruments
+        Flûte Vermeulen::Instruments
+        Flûte d'accord::Instruments
+        Flûte d'amour::Instruments
+        Flûtet::Instruments
+        French flageolet::Instruments
+        Friscalettu::Instruments
+        Frula::Instruments
+        Fujara::Instruments
+        Furulya::Instruments
+        Gab::Instruments
+        Galoubet::Instruments
+        Gasba::Instruments
+        Geling::Instruments
+        Gemshorn::Instruments
+        Gibeemba::Instruments
+        Giorgi flute::Instruments
+        Great bass recorder::Instruments
+        Hir::Instruments
+        Hsiau::Instruments
+        Hun::Instruments
+        Innenspaltflöte::Instruments
+        Juanhuru::Instruments
+        Jula jula::Instruments
+        Kaa-woubié::Instruments
+        Kagurabue::Instruments
+        Kaval::Instruments
+        Kawala::Instruments
+        Kena::Instruments
+        Khlui::Instruments
+        Koko::Instruments
+        Komabue::Instruments
+        Kooauau::Instruments
+        Kurai::Instruments
+        Kwakkelbeen::Instruments
+        Kwan::Instruments
+        Lichiwayu::Instruments
+        Longdi::Instruments
+        Lopotökduda::Instruments
+        Lu::Instruments
+        Ludaya::Instruments
+        Masul::Instruments
+        Mbelen gwara::Instruments
+        Meifluitje::Instruments
+        Muhali::Instruments
+        Murali::Instruments
+        Mwanzi::Instruments
+        Naka ya lehlaka::Instruments
+        Nama::Instruments
+        Nay::Instruments
+        Ndere::Instruments
+        Netelewua::Instruments
+        Nguru::Instruments
+        Nokan::Instruments
+        Nose flute::Instruments
+        Notched flute::Instruments
+        Nyamulere::Instruments
+        Ocarina::Instruments
+        One goot::Instruments
+        Paldong::Instruments
+        Penny whistle::Instruments
+        Pfalawita::Instruments
+        Picco pipe::Instruments
+        Piccolo flute::Instruments
+        Piculina::Instruments
+        Pifülka::Instruments
+        Pigeon flute::Instruments
+        Pincullo::Instruments
+        Pist'ala::Instruments
+        Pistalka::Instruments
+        Pito::Instruments
+        Pitu::Instruments
+        Pusi p'iya::Instruments
+        Puutoorino::Instruments
+        Qasaba::Instruments
+        Recorder::Instruments
+        Reedpipe::Instruments
+        Ring flute::Instruments
+        Ruisenor::Instruments
+        Ryuteki::Instruments
+        Salamiyya::Instruments
+        Saluang::Instruments
+        Sao::Instruments
+        Seljefloyte::Instruments
+        Serdam::Instruments
+        Sereu::Instruments
+        Shabbaba::Instruments
+        Shakuhachi::Instruments
+        Shilla-shilla::Instruments
+        Shinobue::Instruments
+        Shuiniao::Instruments
+        Shvi::Instruments
+        Sigu nihu::Instruments
+        Sijaltys::Instruments
+        Silbador::Instruments
+        Silbato::Instruments
+        Sioulet cristedou::Instruments
+        Sipovka::Instruments
+        Siurell::Instruments
+        Slide flute::Instruments
+        Slowli::Instruments
+        Sodina::Instruments
+        Sogum::Instruments
+        Sopilka::Instruments
+        Sopranino recorder::Instruments
+        Souravli::Instruments
+        Stabule::Instruments
+        Suffara::Instruments
+        Sulim::Instruments
+        Suling::Instruments
+        Supeljka::Instruments
+        Surune::Instruments
+        Svirala::Instruments
+        Svirka::Instruments
+        Svistulka::Instruments
+        Swanee whistle::Instruments
+        Tabor pipe::Instruments
+        Taegum::Instruments
+        Tanso::Instruments
+        Telenka::Instruments
+        Tenor recorder::Instruments
+        Third flute::Instruments
+        Tibia::Instruments
+        Tilinca::Instruments
+        Tirio::Instruments
+        Togus::Instruments
+        Tongali::Instruments
+        Transverse flute::Instruments
+        Treble recorder::Instruments
+        Trojnice::Instruments
+        Tulak::Instruments
+        Tunda::Instruments
+        Txirula::Instruments
+        Txistu::Instruments
+        Valaska dvojka::Instruments
+        Valaska pistela::Instruments
+        Vamsa::Instruments
+        Vessel flute::Instruments
+        Water whistle::Instruments
+        Whistle::Instruments
+        Wiiga::Instruments
+        Wossir::Instruments
+        Woua-parforô::Instruments
+        Woubié::Instruments
+        Woukon::Instruments
+        Wujan::Instruments
+        Wunagele::Instruments
+        Xiao::Instruments
+        Xiflos::Instruments
+        Xun::Instruments
+        Ya-woubié::Instruments
+        Yagapi::Instruments
+        Yèrè::Instruments
+        Yéléga::Instruments
+        Zuffolo::Instruments
+    Harmonicas
+        Harmonica::Instruments
+        Melodica::Instruments 
+    Horns
+        Baoorgo::Instruments
+        Basset horn::Instruments
+        Double horn::Instruments
+        End-blown horn::Instruments
+        Gulu::Instruments
+        Horn::Instruments
+        Huchet::Instruments
+        Inventionshorn::Instruments
+        Kudu::Instruments
+        Ligawka::Instruments
+        Lisseke::Instruments 
+        Mvoula-mvouli::Instruments
+        Mvoumvouri::Instruments
+        Mvuli::Instruments
+        Nambongo::Instruments
+        Natural cornet::Instruments
+        Natural horn::Instruments
+        Ninurunu::Instruments
+        Ntsiemi::Instruments
+        Oliphant::Instruments
+        Omnitonic horn::Instruments
+        Post horn::Instruments
+        Russian horn::Instruments
+        Shofar::Instruments
+        Side-blown horn::Instruments
+        Valve horn::Instruments
+    Hunting horns
+        Coach horn::Instruments
+        Hunting horn::Instruments
+        Reed horn::Instruments
+        Trompe de Lorraine::Instruments
+    Mouth organs
+        Bawu::Instruments
+        Bo-cioski::Instruments 
+        Dinh nam::Instruments
+        Keledi::Instruments
+        Ken be::Instruments
+        Ken meo::Instruments
+        Khaen::Instruments
+        Lu sheng::Instruments
+        Mouth organ::Instruments
+        Qeej::Instruments
+        Saenghwang::Instruments
+        Sheng::Instruments
+        Sho::Instruments
+        Sumpotan::Instruments
+        Symphonium::Instruments
+    Oboes
+        Aboès::Instruments
+        Algaita::Instruments
+        Alto crumhorn::Instruments
+        Alto rothophone::Instruments
+        Alto shawm::Instruments
+        Aulos::Instruments
+        Balaman::Instruments
+        Baritone rothophone::Instruments
+        Bass crumhorn::Instruments
+        Bass oboe::Instruments
+        Bass rothophone::Instruments
+        Bass shawm::Instruments
+        Basse de musette::Instruments
+        Bombarde::Instruments
+        Cane oboe::Instruments
+        Chalumeau double::Instruments
+        Chalumeau::Instruments
+        Chirimia::Instruments
+        Clari::Instruments
+        Cor anglais::Instruments
+        Cornamusa::Instruments
+        Crumhorn::Instruments
+        Cwane::Instruments
+        Dessus de musette::Instruments
+        Diple::Instruments
+        Dolzaina::Instruments
+        Eraqyeh::Instruments
+        Ghayta::Instruments
+        Graile::Instruments
+        Gralla::Instruments
+        Guan::Instruments
+        Gya ling::Instruments
+        Hautbois de Poitou::Instruments
+        Hautbois musette::Instruments
+        Heckelphone::Instruments
+        Hichiriki::Instruments
+        Hnè::Instruments
+        Hoep::Instruments
+        Horanava::Instruments
+        Kalama::Instruments
+        Ken bau::Instruments
+        Ken::Instruments
+        Mey::Instruments
+        Mukhavina::Instruments
+        Mvahli::Instruments
+        Nagasvaram::Instruments
+        Nai::Instruments
+        Oboe d'amore::Instruments
+        Oboe da caccia::Instruments
+        Oboe::Instruments
+        Ottu::Instruments
+        P'iri::Instruments
+        Pey âr::Instruments
+        Pi mon::Instruments
+        Pi::Instruments
+        Piffaro::Instruments
+        Practice chanter::Instruments
+        Rauschpfeife::Instruments
+        Rgya-gling::Instruments
+        Sahnai::Instruments
+        Salamuri::Instruments
+        Sarunai::Instruments
+        Schreyerpfeife::Instruments
+        Selompret::Instruments
+        Sharnai::Instruments 
+        Shawm::Instruments
+        Sk'a'na::Instruments
+        Sopila::Instruments
+        Soprano crumhorn::Instruments
+        Still shawm::Instruments
+        Suona::Instruments
+        Surnay::Instruments
+        T'aep'yongso::Instruments
+        Tarompet::Instruments
+        Tarota::Instruments
+        Tenor crumhorn::Instruments
+        Tenor oboe::Instruments
+        Tenor rothophone::Instruments
+        Tenor shawm::Instruments
+        Tenora::Instruments
+        Tible::Instruments
+        Touloum::Instruments
+        Treble shawm::Instruments
+        Whithorn::Instruments
+        Zurla::Instruments
+        Zurna::Instruments
+    Ophicleides
+        Bass ophocleide::Instruments
+        Contrabass ophicleide::Instruments
+        Ophicleide::Instruments
+        Quinticlave::Instruments
+        Serpentcleide::Instruments
+        Tuba-Dupré::Instruments
+    Other Wind instruments
+        Bilangdao::Instruments
+        Free reed instrument::Instruments
+        Humming top::Instruments
+        Implosive aerophone::Instruments
+        Klaxon effect::Instruments
+        Klong put::Instruments
+        Kodokan::Instruments
+        Lira::Instruments
+        Lyra::Instruments
+        Megaphone::Instruments
+        Melophone::Instruments
+        Pi so::Instruments
+        Popgun::Instruments
+        Raspberry::Instruments 
+        Ribbon reed::Instruments
+        Siren::Instruments
+    Panpipes
+        Antara::Instruments
+        Enkwanzi::Instruments
+        Fa'aili'ofe::Instruments
+        Fieould::Instruments
+        Firlinfeu::Instruments
+        Kaur::Instruments
+        Mishiba::Instruments
+        Panpipe::Instruments
+        Rondador::Instruments
+        Siku::Instruments
+        Siringa::Instruments
+        Skuduciai::Instruments
+        Syrinx::Instruments
+        Trstenke::Instruments
+        Wot::Instruments 
+        Zampona::Instruments
+    Saxhorns
+        Althorn::Instruments
+        Alto horn::Instruments
+        Alto saxhorn::Instruments
+        Antoniophone::Instruments
+        Ballad horn::Instruments
+        Baritone bugle::Instruments
+        Baritone saxhorn::Instruments
+        Bass saxhorn::Instruments
+        Contrabass saxhorn::Instruments
+        Contralto saxhorn::Instruments
+        Cornophone::Instruments
+        Flicorno::Instruments
+        Neocor::Instruments
+        Saxhorn::Instruments
+        Saxotromba::Instruments
+        Sopranino saxhorn::Instruments 
+        Soprano saxhorn::Instruments
+        Sudrophone::Instruments
+        Tenor bugle::Instruments
+        Tenor cor::Instruments
+    Saxophones
+        Alto saxophone::Instruments
+        Baritone saxophone::Instruments
+        Bass saxophone::Instruments
+        Octavin::Instruments
+        Saxophone::Instruments
+        Soprano saxophone::Instruments
+        Swanee-sax::Instruments
+        Tenor saxophone::Instruments
+    Serpents
+        Bass horn::Instruments
+        Ophimonocleide::Instruments
+        Russian bassoon::Instruments
+        Serpent Forveille::Instruments
+        Serpent::Instruments
+    Trombones
+        Alto trombone::Instruments
+        Bass trombone::Instruments
+        Bimbonifono::Instruments
+        Contrabass trombone::Instruments
+        Sackbut::Instruments::Instruments)
+        Soprano trombone::Instruments
+        Tenor trombone::Instruments
+        Trombone::Instruments
+        Valve trombone::Instruments
+    Trumpets
+        Agwara::Instruments
+        Alphorn::Instruments
+        Amakondere::Instruments
+        Ananta vijaya::Instruments
+        Bak::Instruments
+        Barataka::Instruments
+        Bargumi::Instruments
+        Bass trumpet::Instruments
+        Bazuna::Instruments 
+        Bher::Instruments
+        Bockhorn::Instruments
+        Buccin::Instruments
+        Buccina::Instruments
+        Bucium::Instruments
+        Buruw::Instruments
+        Büchel::Instruments
+        Cane trumpet::Instruments
+        Carnyx::Instruments
+        Clavicor::Instruments
+        Conch-shell trumpet::Instruments
+        Cornu::Instruments
+        Didjeridu::Instruments
+        Dung-chen::Instruments
+        Dung-dkar::Instruments
+        Dung::Instruments
+        Duplex::Instruments
+        Embuchi::Instruments
+        End-blown trumpet::Instruments
+        Faluo::Instruments
+        Fanfare trumpet::Instruments
+        Go-mukha::Instruments
+        Hai loa::Instruments
+        Haotong::Instruments
+        Hirtenhorn::Instruments
+        Horagai::Instruments
+        Hwang-teih::Instruments
+        Kahala::Instruments
+        Kakaki::Instruments
+        Kang ling::Instruments
+        Karna::Instruments
+        Keyed trumpet::Instruments
+        Kiwiti::Instruments
+        Kohorn::Instruments
+        Laba::Instruments
+        Lituus::Instruments
+        Lur::Instruments
+        Malakat::Instruments
+        Midwinterhoorn::Instruments
+        Mini-caña::Instruments
+        Nafir::Instruments
+        Narsiga::Instruments
+        Natural trumpet::Instruments
+        Nembongo::Instruments
+        Nyastaranga::Instruments
+        Pangi::Instruments
+        Pu::Instruments
+        Pututu::Instruments
+        Quiquiztli::Instruments
+        Rkang-gling::Instruments
+        Rozhok::Instruments
+        Salpinx::Instruments
+        Sankh::Instruments
+        Sheypur::Instruments
+        Shosh::Instruments
+        Side-blown trumpet::Instruments
+        Slide trumpet::Instruments
+        Surem-puch::Instruments
+        Tapae::Instruments
+        Tirucinnam::Instruments
+        Tititala::Instruments
+        Tori::Instruments
+        Trombita::Instruments
+        Trumpet::Instruments
+        Trutruka::Instruments
+        Tuiter::Instruments
+        Tulnic::Instruments
+        Tuohitorvi::Instruments
+        Turi::Instruments
+        Tuum::Instruments
+        Valve trumpet::Instruments
+        Vuvuzela::Instruments
+        Zang::Instruments
+    Tubas
+        Baritone sudrophone::Instruments
+        Baritone::Instruments
+        Bass tuba::Instruments
+        Bombardon::Instruments
+        Contrabass bugle::Instruments
+        Contrabass tuba::Instruments
+        Euphonium::Instruments
+        Hau-tung::Instruments 
+        Helicon::Instruments
+        Sousaphone::Instruments
+        Tuba::Instruments
+        Tuba curva::Instruments
+        Wagner tuba::Instruments
